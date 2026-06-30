@@ -1,0 +1,461 @@
+[
+  {
+    "id": 1,
+    "title": "Comment allez-vous ?",
+    "type": "normal",
+    "audio_file": "lesson_1.mp3",
+    "dialogue": [
+      {
+        "speaker": "1",
+        "french": "Bonjour Jeanne, comment allez-vous ?",
+        "english": "Hello Jeanne, how are you (how go-you)?",
+        "pronunciation": "boh\"zhoor zhoeh, kohmaeh\"-talay voo"
+      },
+      {
+        "speaker": "2",
+        "french": "Bien, et vous ?",
+        "english": "Well, and you?",
+        "pronunciation": "byah ay voo"
+      },
+      {
+        "speaker": "3",
+        "french": "Ca va tres bien, merci.",
+        "english": "(It goes) Very well, thanks.",
+        "pronunciation": "sahwah tray byah\" mairsee"
+      },
+      {
+        "speaker": "4",
+        "french": "Je vous presente ma fille, Chloé.",
+        "english": "Let me introduce (I present you) my daughter, Chloe.",
+        "pronunciation": "zhuh voo prayazeh\"t ma feeyy kloh- ay"
+      },
+      {
+        "speaker": "5",
+        "french": "Bonjour, Chloé. Comment ca va ?",
+        "english": "Hello, Chloe. How are you (it goes)?",
+        "pronunciation": "boh\"zhoor kloh- ay kohmaeh\" sahwah"
+      }
+    ],
+    "notes": [
+      {
+        "type": "pronunciation",
+        "content": "In most French words, the final consonant is silent. For example, vous sounds like [voo]. And comment is generally pronounced [kohmaeh\"]- as in line 5. But if the following word starts with a vowel, then the normally silent final consonant of the first word is pronounced and \"linked\" to the second word: comment_allez [kohmaeh\"-talay]. This link is called a liaison. Listen to the difference in the pronunciation of comment in sentences 1 and 5. We indicate the liaison with an underline _ between the two words."
+      },
+      {
+        "type": "vocabulary",
+        "content": "bonjour literally means good (bon) day (jour). It can be used as the equivalent of good morning but also as a formal way of saying hello throughout the day until around 6 pm."
+      },
+      {
+        "type": "grammar",
+        "content": "allez comes from the irregular verb aller, to go, the verb used to enquire about someone's health or well-being (instead of to be in English: How are you?). Allez is the form used with the formal address for you (vous) when speaking to people other than close friends or family."
+      },
+      {
+        "type": "grammar",
+        "content": "va is the third-person singular (he/she/it) of aller."
+      },
+      {
+        "type": "vocabulary",
+        "content": "presenter means to present but, in this context, to introduce. Je vous presente is the equivalent of May I introduce / I would like to introduce, etc."
+      },
+      {
+        "type": "vocabulary",
+        "content": "Comment ça va ? How are you doing? is equivalent to Comment allez-vous ?, but slightly more familiar. Here, Jeanne (the female equivalent of the masculine forename Jean) is talking to her friend's daughter, so she uses a less formal phrase."
+      }
+    ],
+    "new_words": [
+      { "french": "bonjour", "english": "hello / good morning" },
+      { "french": "comment", "english": "how" },
+      { "french": "allez", "english": "you go (formal)" },
+      { "french": "vous", "english": "you (formal/plural)" },
+      { "french": "bien", "english": "well" },
+      { "french": "ça va", "english": "it goes / how are you?" },
+      { "french": "très", "english": "very" },
+      { "french": "merci", "english": "thank you" },
+      { "french": "je", "english": "I" },
+      { "french": "vous présente", "english": "I introduce to you" },
+      { "french": "ma", "english": "my (feminine)" },
+      { "french": "fille", "english": "daughter / girl" }
+    ],
+    "exercises": {
+      "translate": [
+        {
+          "question": "Bonjour, comment allez-vous ?",
+          "answers": ["Hello, how are you?", "Good morning, how are you?"]
+        },
+        {
+          "question": "Ça va très bien.",
+          "answers": ["I'm very well.", "It goes very well."]
+        },
+        {
+          "question": "Comment ça va, Jean ?",
+          "answers": ["How are you, Jean?"]
+        },
+        {
+          "question": "Je vous présente ma fille.",
+          "answers": ["Let me introduce my daughter."]
+        },
+        {
+          "question": "Chloé va très bien.",
+          "answers": ["Chloe is very well."]
+        }
+      ],
+      "fill": [
+        {
+          "question": "How are you?  ........ allez-vous ?",
+          "blanks": [{ "position": 0, "correct": "Comment" }],
+          "full_answer": "Comment allez-vous ?"
+        },
+        {
+          "question": "Very well, thank you. Ça . très bien, . . . . . .",
+          "blanks": [
+            { "position": 1, "correct": "va" },
+            { "position": 5, "correct": "merci" }
+          ],
+          "full_answer": "Ça va très bien, merci."
+        },
+        {
+          "question": "Let me introduce Jeanne and Chloé. Je vous . . . . . . . Jeanne . . Chloé.",
+          "blanks": [
+            { "position": 3, "correct": "présente" },
+            { "position": 4, "correct": "et" }
+          ],
+          "full_answer": "Je vous présente Jeanne et Chloé."
+        },
+        {
+          "question": "Well, and you? . . . et vous ?",
+          "blanks": [{ "position": 0, "correct": "Bien" }],
+          "full_answer": "Bien et vous ?"
+        },
+        {
+          "question": "My first lesson. Ma . . . . . . . leçon.",
+          "blanks": [{ "position": 1, "correct": "première" }],
+          "full_answer": "Ma première leçon."
+        }
+      ]
+    },
+    "extras": [
+      {
+        "type": "culture",
+        "title": "Culture note",
+        "content": "French has two forms of address: formal and familiar. We'll start by learning the honorific, or formal, mode, marked by the pronoun vous, because this is the one you are most likely to encounter when visiting France and interacting with people you don't know. (In other French-speaking countries, such as Canada, the informal address, marked by tu, is used more frequently.) Which form to use in which circumstances is a much debated issue, but we've adopted the rule of thumb that tu is strictly for family and friends."
+      },
+      {
+        "type": "smile",
+        "title": "Smile!",
+        "content": "Congratulations! In a short space of time, and without too much effort, you've learned some important - and useful - words and phrases. Remember that the best way to make progress is to learn a little every day. That's the secret of the Assimil method!"
+      },
+      {
+        "type": "numbers",
+        "title": "Numbers",
+        "content": "un [ah\"]"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Le café",
+    "type": "normal",
+    "audio_file": "lesson_2.mp3",
+    "dialogue": [
+      {
+        "speaker": "1",
+        "french": "Monsieur, madame, vous désirez ?",
+        "english": "Sir, Madam, [what] would you like (you desire)?",
+        "pronunciation": "muhsyuh madam voo dayzeeray"
+      },
+      {
+        "speaker": "2",
+        "french": "Deux cafés et deux croissants, s'il vous plaît.",
+        "english": "Two coffees and two croissants, please (if it pleases you).",
+        "pronunciation": "du kafay ay du khwashohr seelvoolpay"
+      },
+      {
+        "speaker": "3",
+        "french": "Non, je préfère une tartine beurrée pour le petit-déjeuner.",
+        "english": "No, I prefer a slice of buttered bread for (the) breakfast.",
+        "pronunciation": "noh oeh fet zhuh prayfehr ewn tarteen buhray poor luh petee dayzhuhnay"
+      },
+      {
+        "speaker": "4",
+        "french": "Donc, deux_expressos, un croissant et une tartine ?",
+        "english": "So, two espressos, one croissant and one slice of buttered bread?",
+        "pronunciation": "doh'k duhz- expresso ah' khwashohr ay ewn tarteen"
+      },
+      {
+        "speaker": "5",
+        "french": "Oui, c'est ça. Le croissant est pour moi et la tartine pour elle.",
+        "english": "Yes, that's right (this-is it). The croissant is for me and the bread for her.",
+        "pronunciation": "wee say sa luh khwashohr ay poor mwah ay la tarteen poor el"
+      }
+    ],
+    "notes": [
+      {
+        "type": "pronunciation",
+        "content": "Remember that the final s of a noun is generally not pronounced, so the plural form often sounds exactly the same as the singular. Likewise, the final x of deux and the final z of désirez are silent: [duh] and [dayzeeray]."
+      },
+      {
+        "type": "pronunciation",
+        "content": "Note the liaison: deux_expressos becomes a single sound. The x is pronounced as a [z]: [duhz- expresso]."
+      },
+      {
+        "type": "pronunciation",
+        "content": "Notice that est, is, and et, and, are pronounced in exactly the same way."
+      },
+      {
+        "type": "vocabulary",
+        "content": "un café is both a beverage (a coffee) and the place where you drink it (a café). If you order un café in France, you will get a shot of espresso without milk, also called un expresso or un express."
+      },
+      {
+        "type": "vocabulary",
+        "content": "Although s'il vous plaît (\"if it pleases you\") may seem very formal, it isn't. It just means please."
+      },
+      {
+        "type": "vocabulary",
+        "content": "une tartine beurrée (or simply une tartine) is a slice of buttered bread, a popular breakfast alternative to a croissant. Beurré is the adjective formed from le beurre, butter. In this sentence, it 'agrees' with the noun une tartine, which is feminine, so we add another - e: beurée. More on the question of agreement later."
+      },
+      {
+        "type": "vocabulary",
+        "content": "le déjeuner means lunch, so le petit- déjeuner (literally \"small lunch\") is breakfast. Logical!"
+      },
+      {
+        "type": "grammar",
+        "content": "All French nouns have a gender: they are either masculine or feminine. A masculine noun is indicated by the articles un/le, a/the, and a feminine noun by une/la. Whenever you learn a new noun, make sure you learn its gender. Note that French does not have a separate word for one, so un café can mean a coffee or one coffee, depending on the context."
+      }
+    ],
+    "new_words": [
+      { "french": "monsieur", "english": "sir / gentleman" },
+      { "french": "madame", "english": "madam" },
+      { "french": "désirez", "english": "you want (formal)" },
+      { "french": "deux", "english": "two" },
+      { "french": "café", "english": "coffee / café" },
+      { "french": "croissant", "english": "croissant" },
+      { "french": "s'il vous plaît", "english": "please" },
+      { "french": "non", "english": "no" },
+      { "french": "je préfère", "english": "I prefer" },
+      { "french": "tartine", "english": "slice of bread" },
+      { "french": "beurrée", "english": "buttered" },
+      { "french": "pour", "english": "for" },
+      { "french": "le petit-déjeuner", "english": "breakfast" },
+      { "french": "donc", "english": "so" },
+      { "french": "expresso", "english": "espresso" },
+      { "french": "oui", "english": "yes" },
+      { "french": "c'est ça", "english": "that's right" },
+      { "french": "est", "english": "is" },
+      { "french": "et", "english": "and" },
+      { "french": "pour moi", "english": "for me" },
+      { "french": "pour elle", "english": "for her" }
+    ],
+    "exercises": {
+      "translate": [
+        {
+          "question": "Je préfère un croissant pour le petit-déjeuner.",
+          "answers": ["I prefer a croissant for breakfast."]
+        },
+        {
+          "question": "Un café, s'il vous plaît.",
+          "answers": ["One/A coffee, please."]
+        },
+        {
+          "question": "Oui, c'est ça.",
+          "answers": ["Yes, that's right."]
+        },
+        {
+          "question": "La tartine est pour elle.",
+          "answers": ["The slice of bread is for her."]
+        },
+        {
+          "question": "Et l'expresso est pour moi.",
+          "answers": ["And the espresso is for me."]
+        }
+      ],
+      "fill": [
+        {
+          "question": "One/A coffee and a/one slice of buttered bread. . cafe et ... tartine",
+          "blanks": [{ "position": 0, "correct": "Un" }, { "position": 3, "correct": "une" }],
+          "full_answer": "Un café et une tartine"
+        },
+        {
+          "question": "The croissant and the slice of bread. croissant et .. tartine.",
+          "blanks": [{ "position": 1, "correct": "la" }],
+          "full_answer": "Le croissant et la tartine."
+        },
+        {
+          "question": "Two croissants, please. croissants,",
+          "blanks": [{ "position": 0, "correct": "Deux" }, { "position": 2, "correct": "s'il vous plaît" }],
+          "full_answer": "Deux croissants, s'il vous plaît"
+        },
+        {
+          "question": "No, in fact, I prefer an espresso.  ... , ... , ... , je ... ... un expresso.",
+          "blanks": [{ "position": 0, "correct": "Non" }, { "position": 2, "correct": "en fait" }, { "position": 5, "correct": "préfère" }],
+          "full_answer": "Non, en fait, je préfère un expresso."
+        },
+        {
+          "question": "Good morning, madam and sir. Bonjour, ... ... ...",
+          "blanks": [{ "position": 1, "correct": "madame" }, { "position": 2, "correct": "et" }, { "position": 3, "correct": "monsieur" }],
+          "full_answer": "Bonjour, madame et monsieur"
+        }
+      ]
+    },
+    "extras": [
+      {
+        "type": "culture",
+        "title": "Culture note",
+        "content": "France is a huge country - the largest in western Europe- with an incredibly varied landscape ranging from the rugged granite cliffs of Bretagne, Brittany, to the lush olive groves of southern France. We will learn more about the French regions as we progress: today we've met a Breton and a woman from the area known as le Midi, another word for the south of France. (If you arrive by train in the Belgian capital, Brussels, one of the two main stations is Bruxelles- Midi, so- called because it is in the south of the city.)"
+      },
+      {
+        "type": "numbers",
+        "title": "Numbers",
+        "content": "trois [trwah]"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Présentations",
+    "type": "normal",
+    "audio_file": "lesson_3.mp3",
+    "dialogue": [
+      {
+        "speaker": "1",
+        "french": "Je me présente : je m'appelle Sophie Mercier.",
+        "english": "[Let me] introduce myself (I introduce me): I am (I call- myself) Sophie Mercier.",
+        "pronunciation": "zhuh muh prayzoh\"t zhuh mahpel sohfe mayhrsay"
+      },
+      {
+        "speaker": "2",
+        "french": "Et voici mon ami Loïc Le Gall. Il est breton.",
+        "english": "And here is my friend Loic Le Gall. He is Breton.",
+        "pronunciation": "ay whaese moh\"- amee lo- eek luh gal eel ay bruhoh\""
+      },
+      {
+        "speaker": "3",
+        "french": "Et vous, êtes- vous bretonne aussi ?",
+        "english": "And you, are you Breton, too?",
+        "pronunciation": "ay voo et voo bruhton ohsee"
+      },
+      {
+        "speaker": "4",
+        "french": "Pas du tout, je suis de Nîmes, dans le Midi de la France.",
+        "english": "Not at all, I am from Nîmes, in the south of France.",
+        "pronunciation": "pah dew too: zhuh swee duh neem doeh\" luh meedee duh la froeh\"s"
+      },
+      {
+        "speaker": "5",
+        "french": "Mais maintenant nous sommes parisiens.",
+        "english": "But now we are Parisians.",
+        "pronunciation": "may mah\"tuhnoeh\" noo sohm parezayah"
+      }
+    ],
+    "notes": [
+      {
+        "type": "pronunciation",
+        "content": "Most final consonants are not pronounced. That is why the second r in Mercier is silent: [mayhrsryay]."
+      },
+      {
+        "type": "pronunciation",
+        "content": "Note the liaison: mon_ami is pronounced [moh\"amee]."
+      },
+      {
+        "type": "vocabulary",
+        "content": "appeler, to call. Je m'appelle literally means \"I call myself,\" but is equivalent to My name's ... French can sometimes seem very formal (s'il vous plait for please, see Note 3 Lesson 2), but you'll soon get used to it."
+      },
+      {
+        "type": "grammar",
+        "content": "We saw in the last lesson that you can ask a question simply by raising the intonation of an affirmative phrase. Here is a more formal - but very simple - way of forming a question with the verb être (to be): you simply switch the verb and pronoun Vous êtes Breton ? ⇒ Êtes- vous Breton ?"
+      },
+      {
+        "type": "grammar",
+        "content": "Remember that every noun is either masculine or feminine. But some nouns, particularly those describing men and women, have two forms: bretonne is the feminine form of breton."
+      },
+      {
+        "type": "grammar",
+        "content": "The first person pronoun je, I, does not take an initial capital unless it is the first word of the sentence."
+      },
+      {
+        "type": "grammar",
+        "content": "Now you know the main forms of être: je suis, il est, vous êtes, nous sommes, I am, he is, you are, we are."
+      }
+    ],
+    "new_words": [
+      { "french": "je me présente", "english": "I introduce myself" },
+      { "french": "je m'appelle", "english": "my name is / I am called" },
+      { "french": "voici", "english": "here is" },
+      { "french": "mon", "english": "my (masculine)" },
+      { "french": "ami", "english": "friend (male)" },
+      { "french": "il", "english": "he" },
+      { "french": "breton", "english": "Breton (masculine)" },
+      { "french": "êtes-vous", "english": "are you? (formal/inverted)" },
+      { "french": "bretonne", "english": "Breton (feminine)" },
+      { "french": "aussi", "english": "also / too" },
+      { "french": "pas du tout", "english": "not at all" },
+      { "french": "je suis", "english": "I am" },
+      { "french": "de", "english": "from / of" },
+      { "french": "dans", "english": "in" },
+      { "french": "le Midi", "english": "the south of France" },
+      { "french": "la France", "english": "France" },
+      { "french": "mais", "english": "but" },
+      { "french": "maintenant", "english": "now" },
+      { "french": "nous", "english": "we" },
+      { "french": "sommes", "english": "are (we)" },
+      { "french": "parisiens", "english": "Parisians (masculine plural)" }
+    ],
+    "exercises": {
+      "translate": [
+        {
+          "question": "Je m'appelle Loic.",
+          "answers": ["My name is Loic."]
+        },
+        {
+          "question": "Et voici mes deux amis.",
+          "answers": ["And these are my two friends."]
+        },
+        {
+          "question": "Etes- vous parisien?",
+          "answers": ["Are you Parisian?"]
+        },
+        {
+          "question": "Pas du tout! Je suis breton.",
+          "answers": ["Not at all! I'm Breton."]
+        },
+        {
+          "question": "I est de Nîmes aussi.",
+          "answers": ["He's from Nîmes, too."]
+        }
+      ],
+      "fill": [
+        {
+          "question": "I'm Breton and she's Breton, too. Je suis .... et elle est .... ....",
+          "blanks": [{ "position": 2, "correct": "breton" }, { "position": 6, "correct": "bretonne" }, { "position": 7, "correct": "aussi" }],
+          "full_answer": "Je suis breton et elle est bretonne aussi."
+        },
+        {
+          "question": "We are Parisians. .... .... parisiens.",
+          "blanks": [{ "position": 0, "correct": "Nous" }, { "position": 1, "correct": "sommes" }],
+          "full_answer": "Nous sommes parisiens."
+        },
+        {
+          "question": "Are you from Nîmes? .... .... de Nîmes?",
+          "blanks": [{ "position": 0, "correct": "Etes" }, { "position": 1, "correct": "vous" }],
+          "full_answer": "Etes- vous de Nîmes?"
+        },
+        {
+          "question": "I'm called Sophie. And you? Sophie.",
+          "blanks": [],
+          "full_answer": "Je m'appelle Sophie. Et vous?"
+        },
+        {
+          "question": "I'm now at the third lesson. . . . . . . . . . . . . . . . . . . . . .. . . . . . . . . . . . . . . . . . . .",
+          "blanks": [],
+          "full_answer": "Je suis maintenant à la troisième leçon."
+        }
+      ]
+    },
+    "extras": [
+      {
+        "type": "numbers",
+        "title": "Numbers",
+        "content": "trois [trwah]"
+      }
+    ]
+  }
+]

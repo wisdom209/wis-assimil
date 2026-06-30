@@ -1,0 +1,1649 @@
+[
+  {
+    "lesson_id": 1,
+    "title": "Comment allez-vous ?",
+    "speaking_task": {
+      "type": "read_aloud",
+      "description": "Read the dialogue aloud 3 times to build mouth muscle memory.",
+      "duration_minutes": 5,
+      "recording_required": true,
+      "instructions": "Read the dialogue slowly at first. Focus on the liaison in 'comment_allez' and the nasal sounds in 'bonjour' and 'bien'. Repeat 3 times.",
+      "focus_points": [
+        "Liaison: comment_allez → kohmaeh'-talay",
+        "Nasal: bonjour → boh'zhoor",
+        "Silent final consonants: vous → voo"
+      ]
+    }
+  },
+  {
+    "lesson_id": 2,
+    "title": "Le café",
+    "speaking_task": {
+      "type": "read_aloud",
+      "description": "Read the dialogue aloud 3 times. Focus on silent final consonants.",
+      "duration_minutes": 5,
+      "recording_required": true,
+      "instructions": "Pay attention to the silent final consonants in 'deux' and 'désirez'. Practice the liaison in 'deux_expressos'.",
+      "focus_points": [
+        "Silent final s: deux → duh",
+        "Liaison: deux_expressos → duhz-expresso",
+        "Pronounce: croissant → krwah-soh'"
+      ]
+    }
+  },
+  {
+    "lesson_id": 3,
+    "title": "Présentations",
+    "speaking_task": {
+      "type": "read_aloud",
+      "description": "Read the dialogue aloud 3 times. Focus on sentence rhythm.",
+      "duration_minutes": 5,
+      "recording_required": true,
+      "instructions": "Focus on the rhythm of 'Je me présente' and the liaison in 'mon_ami'.",
+      "focus_points": [
+        "Liaison: mon_ami → moh' namee",
+        "Pronounce: breton → bruh-toh'",
+        "Sentence rhythm: Je me présente → zhuh-muh-pray-zoh't"
+      ]
+    }
+  },
+  {
+    "lesson_id": 4,
+    "title": "L'heure",
+    "speaking_task": {
+      "type": "read_aloud",
+      "description": "Read the dialogue aloud 3 times. Focus on time expressions and numbers.",
+      "duration_minutes": 5,
+      "recording_required": true,
+      "instructions": "Practice saying time expressions like 'midi' and 'dix'. Focus on the rhythm of 'rendez-vous'.",
+      "focus_points": [
+        "Pronounce: midi → mee-dee",
+        "Pronounce: rendez-vous → roh'day-voo",
+        "Pronounce: toujours → too-zhoor"
+      ]
+    }
+  },
+  {
+    "lesson_id": 5,
+    "title": "Je cherche le métro",
+    "speaking_task": {
+      "type": "read_aloud",
+      "description": "Read the dialogue aloud 3 times. Focus on directions and command intonation.",
+      "duration_minutes": 5,
+      "recording_required": true,
+      "instructions": "Focus on directional vocabulary and the polite command intonation of 'Attendez'.",
+      "focus_points": [
+        "Pronounce: métro → may-troh",
+        "Pronounce: boulevard → bool-uh-var",
+        "Command intonation: Attendez → ah-tahn-day"
+      ]
+    }
+  },
+  {
+    "lesson_id": 6,
+    "title": "A l'hôtel",
+    "speaking_task": {
+      "type": "shadow",
+      "description": "Shadow the audio. Listen, pause, and repeat each sentence.",
+      "duration_minutes": 8,
+      "recording_required": true,
+      "instructions": "Listen to the audio, pause after each sentence, and repeat immediately. Focus on matching the speaker's rhythm and the formal register.",
+      "focus_points": [
+        "Pronounce: hôtel → oh-tel",
+        "Pronounce: chambre → shah'br",
+        "Formal register: vous forms"
+      ]
+    }
+  },
+  {
+    "lesson_id": 7,
+    "title": "Revision - Revision",
+    "speaking_task": {
+      "type": "shadow",
+      "description": "Shadow the audio. Listen, pause, and repeat.",
+      "duration_minutes": 8,
+      "recording_required": true,
+      "instructions": "Shadow the revision dialogue. Pay attention to the liaisons and maintain a smooth rhythm.",
+      "focus_points": [
+        "Matching native rhythm",
+        "Liaison review: comment_allez-vous"
+      ]
+    }
+  },
+  {
+    "lesson_id": 8,
+    "title": "Une visite",
+    "speaking_task": {
+      "type": "shadow",
+      "description": "Shadow the audio. Listen, pause, and repeat.",
+      "duration_minutes": 8,
+      "recording_required": true,
+      "instructions": "Focus on the rising intonation of questions and the pronunciation of 'aujourd'hui'.",
+      "focus_points": [
+        "Question intonation: À quelle heure?",
+        "Pronounce: aujourd'hui → oh-zhoor-dwee"
+      ]
+    }
+  },
+  {
+    "lesson_id": 9,
+    "title": "A la mairie",
+    "speaking_task": {
+      "type": "shadow",
+      "description": "Shadow the audio. Listen, pause, and repeat.",
+      "duration_minutes": 8,
+      "recording_required": true,
+      "instructions": "Focus on family vocabulary and the liaison in 'huit_ans'.",
+      "focus_points": [
+        "Pronounce: mairie → may-ree",
+        "Liaison: huit_ans → weet-ahn"
+      ]
+    }
+  },
+  {
+    "lesson_id": 10,
+    "title": "C'est très simple !",
+    "speaking_task": {
+      "type": "shadow",
+      "description": "Shadow the audio. Listen, pause, and repeat.",
+      "duration_minutes": 8,
+      "recording_required": true,
+      "instructions": "Focus on exclamations like 'Zut !' and the pronunciation of 'portefeuille'.",
+      "focus_points": [
+        "Exclamation: Zut ! → zewt",
+        "Pronounce: portefeuille → por-tuh-fuhy"
+      ]
+    }
+  },
+  {
+    "lesson_id": 11,
+    "title": "Au marché (Première partie)",
+    "speaking_task": {
+      "type": "substitution",
+      "description": "Read the dialogue aloud but change the items and quantities.",
+      "duration_minutes": 5,
+      "recording_required": true,
+      "instructions": "Change 'deux cafés' to 'trois cafés'. Change 'croissant' to 'pain au chocolat'. Read the new version aloud. Change at least 3 items.",
+      "focus_points": [
+        "Changing quantities",
+        "Changing objects",
+        "Liaison: nous_avons"
+      ]
+    }
+  },
+  {
+    "lesson_id": 12,
+    "title": "Au marché (Deuxième partie)",
+    "speaking_task": {
+      "type": "substitution",
+      "description": "Read the dialogue aloud but change the prices and fruits.",
+      "duration_minutes": 5,
+      "recording_required": true,
+      "instructions": "Change 'quinze euros' to 'douze euros'. Change 'fraises' to 'cerises'. Read the new version.",
+      "focus_points": [
+        "Changing numbers",
+        "Changing objects",
+        "Question intonation"
+      ]
+    }
+  },
+  {
+    "lesson_id": 13,
+    "title": "Un cadeau",
+    "speaking_task": {
+      "type": "substitution",
+      "description": "Read the dialogue aloud but change the gift and the action.",
+      "duration_minutes": 5,
+      "recording_required": true,
+      "instructions": "Change 'téléphone' to 'ordinateur'. Change 'envoyer des messages' to 'regarder des vidéos'.",
+      "focus_points": [
+        "Changing objects",
+        "Changing verbs",
+        "Rhythm: Qu'est-ce que c'est?"
+      ]
+    }
+  },
+  {
+    "lesson_id": 14,
+    "title": "Revision",
+    "speaking_task": {
+      "type": "substitution",
+      "description": "Read the revision dialogue but change the names and places.",
+      "duration_minutes": 5,
+      "recording_required": true,
+      "instructions": "Change the names of the characters and the city they are in. Read the new version.",
+      "focus_points": [
+        "Changing names",
+        "Changing places",
+        "Review of all previous sounds"
+      ]
+    }
+  },
+  {
+    "lesson_id": 15,
+    "title": "Un tour dans Paris (Premiere partie)",
+    "speaking_task": {
+      "type": "substitution",
+      "description": "Read the dialogue aloud but change the monuments.",
+      "duration_minutes": 5,
+      "recording_required": true,
+      "instructions": "Change 'Le Louvre' to 'Le Musée d'Orsay'. Change 'la Tour Eiffel' to 'le Sacré-Cœur'.",
+      "focus_points": [
+        "Changing landmarks",
+        "Pronounce: Louvre → loovr",
+        "Pronounce: Tour Eiffel → toor ef-el"
+      ]
+    }
+  },
+  {
+    "lesson_id": 16,
+    "title": "Un tour dans Paris (Deuxieme partie)",
+    "speaking_task": {
+      "type": "paraphrase_short",
+      "description": "Say 2 sentences in your own words describing what the guide is showing.",
+      "duration_minutes": 3,
+      "recording_required": true,
+      "instructions": "Example: 'Le guide montre des monuments. Il parle du Louvre.' Say it in your own way.",
+      "focus_points": [
+        "Describing actions simply",
+        "Using 'il y a'"
+      ]
+    }
+  },
+  {
+    "lesson_id": 17,
+    "title": "Quels sont vos projets ?",
+    "speaking_task": {
+      "type": "paraphrase_short",
+      "description": "Say 2 sentences in your own words about the dialogue.",
+      "duration_minutes": 3,
+      "recording_required": true,
+      "instructions": "Example: 'Ils parlent de leurs projets. Ils veulent voir une exposition.'",
+      "focus_points": [
+        "Describing future plans",
+        "Using 'vouloir'"
+      ]
+    }
+  },
+  {
+    "lesson_id": 18,
+    "title": "Prenons rendez-vous avec le banquier",
+    "speaking_task": {
+      "type": "paraphrase_short",
+      "description": "Say 2 sentences in your own words about the dialogue.",
+      "duration_minutes": 3,
+      "recording_required": true,
+      "instructions": "Example: 'Ils veulent un rendez-vous. Le banquier est très occupé.'",
+      "focus_points": [
+        "Describing appointments",
+        "Using 'prendre rendez-vous'"
+      ]
+    }
+  },
+  {
+    "lesson_id": 19,
+    "title": "Un bel endroit pour une fête",
+    "speaking_task": {
+      "type": "paraphrase_short",
+      "description": "Say 2 sentences in your own words about the dialogue.",
+      "duration_minutes": 3,
+      "recording_required": true,
+      "instructions": "Example: 'Elle veut louer une salle pour une fête. C'est pour trente personnes.'",
+      "focus_points": [
+        "Describing parties",
+        "Using 'louer'"
+      ]
+    }
+  },
+  {
+    "lesson_id": 20,
+    "title": "Un monde idéal",
+    "speaking_task": {
+      "type": "paraphrase_short",
+      "description": "Say 2 sentences in your own words about the ambassadors' answers.",
+      "duration_minutes": 3,
+      "recording_required": true,
+      "instructions": "Example: 'Les ambassadeurs veulent la paix et le bonheur. L'ambassadeur français veut du chocolat.'",
+      "focus_points": [
+        "Describing wishes",
+        "Using 'vouloir'"
+      ]
+    }
+  },
+  {
+    "lesson_id": 21,
+    "title": "Vingt et unième leçon - Revision",
+    "speaking_task": {
+      "type": "paraphrase_short",
+      "description": "Say 2 sentences in your own words about the revision dialogue.",
+      "duration_minutes": 3,
+      "recording_required": true,
+      "instructions": "Example: 'Ils parlent de l'heure. Une personne n'a pas de montre.'",
+      "focus_points": [
+        "Telling time",
+        "Describing lack of something"
+      ]
+    }
+  },
+  {
+    "lesson_id": 22,
+    "title": "Réfléchissez, choisissez, jouez",
+    "speaking_task": {
+      "type": "paraphrase_short",
+      "description": "Say 2 sentences in your own words about the dialogue.",
+      "duration_minutes": 3,
+      "recording_required": true,
+      "instructions": "Example: 'Ils parlent des jeux de hasard. L'homme aime les courses de chevaux.'",
+      "focus_points": [
+        "Describing games",
+        "Using 'jouer à'"
+      ]
+    }
+  },
+  {
+    "lesson_id": 23,
+    "title": "Comment réussir au loto",
+    "speaking_task": {
+      "type": "paraphrase_short",
+      "description": "Say 2 sentences in your own words about the dialogue.",
+      "duration_minutes": 3,
+      "recording_required": true,
+      "instructions": "Example: 'Il joue toujours les mêmes numéros. Il veut gagner beaucoup d'argent.'",
+      "focus_points": [
+        "Describing gambling habits",
+        "Numbers practice"
+      ]
+    }
+  },
+  {
+    "lesson_id": 24,
+    "title": "Je ne vais pas bien du tout",
+    "speaking_task": {
+      "type": "paraphrase_short",
+      "description": "Say 2 sentences in your own words about the dialogue.",
+      "duration_minutes": 3,
+      "recording_required": true,
+      "instructions": "Example: 'Elle est malade. Elle a mal à la tête et de la fièvre.'",
+      "focus_points": [
+        "Describing illness",
+        "Using 'avoir mal à'"
+      ]
+    }
+  },
+  {
+    "lesson_id": 25,
+    "title": "Déjeunons ensemble",
+    "speaking_task": {
+      "type": "paraphrase_short",
+      "description": "Say 2 sentences in your own words about the dialogue.",
+      "duration_minutes": 3,
+      "recording_required": true,
+      "instructions": "Example: 'Ils ont faim. Ils décident d'aller à une crêperie.'",
+      "focus_points": [
+        "Describing hunger",
+        "Using 'avoir faim'"
+      ]
+    }
+  },
+  {
+    "lesson_id": 26,
+    "title": "Déjeunons ensemble (suite)",
+    "speaking_task": {
+      "type": "summary_short",
+      "description": "Summarize the dialogue in 3 complete sentences.",
+      "duration_minutes": 3,
+      "recording_required": true,
+      "instructions": "Who is speaking? Where are they? What are they ordering?",
+      "focus_points": [
+        "Narrative structure",
+        "Restaurant vocabulary"
+      ]
+    }
+  },
+  {
+    "lesson_id": 27,
+    "title": "\"Hotel complet\"",
+    "speaking_task": {
+      "type": "summary_short",
+      "description": "Summarize the dialogue in 3 complete sentences.",
+      "duration_minutes": 3,
+      "recording_required": true,
+      "instructions": "What are they looking for? What do they find? What is their final decision?",
+      "focus_points": [
+        "Hotel vocabulary",
+        "Describing choices"
+      ]
+    }
+  },
+  {
+    "lesson_id": 28,
+    "title": "Revision",
+    "speaking_task": {
+      "type": "summary_short",
+      "description": "Summarize the revision dialogue in 3 complete sentences.",
+      "duration_minutes": 3,
+      "recording_required": true,
+      "instructions": "Who is speaking? What happened to them? How do they feel?",
+      "focus_points": [
+        "Review of past tenses"
+      ]
+    }
+  },
+  {
+    "lesson_id": 29,
+    "title": "Comment vas-tu ?",
+    "speaking_task": {
+      "type": "summary_short",
+      "description": "Summarize the dialogue in 3 complete sentences.",
+      "duration_minutes": 3,
+      "recording_required": true,
+      "instructions": "Who are the characters? What are they doing? What are they looking for?",
+      "focus_points": [
+        "Informal register",
+        "Shopping vocabulary"
+      ]
+    }
+  },
+  {
+    "lesson_id": 30,
+    "title": "J'ai un truc à te demander...",
+    "speaking_task": {
+      "type": "summary_short",
+      "description": "Summarize the dialogue in 3 complete sentences.",
+      "duration_minutes": 3,
+      "recording_required": true,
+      "instructions": "What does the person want? Why? What is the final agreement?",
+      "focus_points": [
+        "Telephone vocabulary",
+        "Informal requests"
+      ]
+    }
+  },
+  {
+    "lesson_id": 31,
+    "title": "J'en ai besoin rapidement",
+    "speaking_task": {
+      "type": "summary_short",
+      "description": "Summarize the dialogue in 3 complete sentences.",
+      "duration_minutes": 3,
+      "recording_required": true,
+      "instructions": "What does the customer want? What are the two options? Which one is chosen?",
+      "focus_points": [
+        "Shopping vocabulary",
+        "Demonstrative pronouns"
+      ]
+    }
+  },
+  {
+    "lesson_id": 32,
+    "title": "Je ne peux plus continuer comme ça",
+    "speaking_task": {
+      "type": "summary_short",
+      "description": "Summarize the dialogue in 3 complete sentences.",
+      "duration_minutes": 3,
+      "recording_required": true,
+      "instructions": "What is the problem? What does the person do? What is the result?",
+      "focus_points": [
+        "Work vocabulary",
+        "Expressing exhaustion"
+      ]
+    }
+  },
+  {
+    "lesson_id": 33,
+    "title": "Je n'ai rien dans ma garde-robe",
+    "speaking_task": {
+      "type": "summary_short",
+      "description": "Summarize the dialogue in 3 complete sentences.",
+      "duration_minutes": 3,
+      "recording_required": true,
+      "instructions": "What does she need? What are her preferences? What does she think of the options?",
+      "focus_points": [
+        "Clothing vocabulary",
+        "Colors"
+      ]
+    }
+  },
+  {
+    "lesson_id": 34,
+    "title": "Les randonneurs",
+    "speaking_task": {
+      "type": "summary_short",
+      "description": "Summarize the dialogue in 3 complete sentences.",
+      "duration_minutes": 3,
+      "recording_required": true,
+      "instructions": "What does the person do? Where do they go? What is their favorite moment?",
+      "focus_points": [
+        "Outdoor activities",
+        "Weather vocabulary"
+      ]
+    }
+  },
+  {
+    "lesson_id": 35,
+    "title": "Revision",
+    "speaking_task": {
+      "type": "summary_short",
+      "description": "Summarize the revision dialogue in 3 complete sentences.",
+      "duration_minutes": 3,
+      "recording_required": true,
+      "instructions": "What is the story about?",
+      "focus_points": [
+        "Review of all tenses so far"
+      ]
+    }
+  },
+  {
+    "lesson_id": 36,
+    "title": "J'espère que je n'ai rien oublié...",
+    "speaking_task": {
+      "type": "summary_and_opinion",
+      "description": "Summarize the dialogue in 3 sentences, then give your opinion.",
+      "duration_minutes": 4,
+      "recording_required": true,
+      "instructions": "Summarize what the person did before leaving. Then say: 'Je pense que c'est...' or 'Je trouve que...'",
+      "focus_points": [
+        "Past tense (passé composé)",
+        "Expressing opinions"
+      ]
+    }
+  },
+  {
+    "lesson_id": 37,
+    "title": "J'ai réfléchi à la question du loyer...",
+    "speaking_task": {
+      "type": "summary_and_opinion",
+      "description": "Summarize the dialogue in 3 sentences, then give your opinion.",
+      "duration_minutes": 4,
+      "recording_required": true,
+      "instructions": "Summarize the apartment search. Then say: 'Je pense que...', 'C'est trop cher...'",
+      "focus_points": [
+        "Comparatives",
+        "Giving opinions"
+      ]
+    }
+  },
+  {
+    "lesson_id": 38,
+    "title": "C'est de la part de qui ?",
+    "speaking_task": {
+      "type": "summary_and_opinion",
+      "description": "Summarize the dialogue in 3 sentences, then give your opinion.",
+      "duration_minutes": 4,
+      "recording_required": true,
+      "instructions": "Summarize the phone call. Then say: 'Je trouve que...'",
+      "focus_points": [
+        "Business phone language",
+        "Formal register"
+      ]
+    }
+  },
+  {
+    "lesson_id": 39,
+    "title": "Le septième art",
+    "speaking_task": {
+      "type": "summary_and_opinion",
+      "description": "Summarize the text in 3 sentences, then give your opinion.",
+      "duration_minutes": 4,
+      "recording_required": true,
+      "instructions": "Summarize the article about cinema. Then say: 'Je pense que...'",
+      "focus_points": [
+        "Cinema vocabulary",
+        "Passive voice recognition"
+      ]
+    }
+  },
+  {
+    "lesson_id": 40,
+    "title": "Tu es si impatient !",
+    "speaking_task": {
+      "type": "summary_and_opinion",
+      "description": "Summarize the dialogue in 3 sentences, then give your opinion.",
+      "duration_minutes": 4,
+      "recording_required": true,
+      "instructions": "Summarize the film discussion. Then say: 'Je suis d'accord avec...'",
+      "focus_points": [
+        "Informal register",
+        "Expressing agreement/disagreement"
+      ]
+    }
+  },
+  {
+    "lesson_id": 41,
+    "title": "Un accueil désagréable",
+    "speaking_task": {
+      "type": "summary_and_opinion",
+      "description": "Summarize the dialogue in 3 sentences, then give your opinion.",
+      "duration_minutes": 4,
+      "recording_required": true,
+      "instructions": "Summarize the restaurant booking experience. Then say: 'Je trouve que...'",
+      "focus_points": [
+        "Restaurant vocabulary",
+        "Complaint language"
+      ]
+    }
+  },
+  {
+    "lesson_id": 42,
+    "title": "Revision",
+    "speaking_task": {
+      "type": "summary_and_opinion",
+      "description": "Summarize the revision dialogue in 3 sentences, then give your opinion.",
+      "duration_minutes": 4,
+      "recording_required": true,
+      "instructions": "Summarize the story. Then say: 'Je pense que...'",
+      "focus_points": [
+        "Review of all active phase topics"
+      ]
+    }
+  },
+  {
+    "lesson_id": 43,
+    "title": "Le foot féminin",
+    "speaking_task": {
+      "type": "summary_and_opinion",
+      "description": "Summarize the article in 3 sentences, then give your opinion.",
+      "duration_minutes": 4,
+      "recording_required": true,
+      "instructions": "Summarize the story about the coach. Then say: 'Je trouve que...'",
+      "focus_points": [
+        "Sports vocabulary",
+        "Past tense with être"
+      ]
+    }
+  },
+  {
+    "lesson_id": 44,
+    "title": "Perturbations dans les transports ...",
+    "speaking_task": {
+      "type": "summary_and_opinion",
+      "description": "Summarize the dialogue in 3 sentences, then give your opinion.",
+      "duration_minutes": 4,
+      "recording_required": true,
+      "instructions": "Summarize the transport problems. Then say: 'Je pense que...'",
+      "focus_points": [
+        "Transport vocabulary",
+        "Expressing frustration"
+      ]
+    }
+  },
+  {
+    "lesson_id": 45,
+    "title": "Il n'y a pas de métiers inutiles",
+    "speaking_task": {
+      "type": "summary_and_opinion",
+      "description": "Summarize the dialogue in 3 sentences, then give your opinion.",
+      "duration_minutes": 4,
+      "recording_required": true,
+      "instructions": "Summarize the conversation about jobs. Then say: 'Je suis d'accord avec...'",
+      "focus_points": [
+        "Profession vocabulary",
+        "Using relative pronouns"
+      ]
+    }
+  },
+  {
+    "lesson_id": 46,
+    "title": "Depuis, je n'ai aucune nouvelle",
+    "speaking_task": {
+      "type": "summary_and_opinion",
+      "description": "Summarize the dialogue in 3 sentences, then give your opinion.",
+      "duration_minutes": 4,
+      "recording_required": true,
+      "instructions": "Summarize the police report. Then say: 'Je pense que...'",
+      "focus_points": [
+        "Physical description",
+        "Negatives with 'aucun'"
+      ]
+    }
+  },
+  {
+    "lesson_id": 47,
+    "title": "Un déménagement",
+    "speaking_task": {
+      "type": "summary_and_opinion",
+      "description": "Summarize the dialogue in 3 sentences, then give your opinion.",
+      "duration_minutes": 4,
+      "recording_required": true,
+      "instructions": "Summarize the moving plans. Then say: 'Je trouve que...'",
+      "focus_points": [
+        "Furniture vocabulary",
+        "Comparatives"
+      ]
+    }
+  },
+  {
+    "lesson_id": 48,
+    "title": "Ça ne me dit rien",
+    "speaking_task": {
+      "type": "summary_and_opinion",
+      "description": "Summarize the dialogue in 3 sentences, then give your opinion.",
+      "duration_minutes": 4,
+      "recording_required": true,
+      "instructions": "Summarize the picnic discussion. Then say: 'Je suis d'accord avec...'",
+      "focus_points": [
+        "Food vocabulary",
+        "Expressing preferences"
+      ]
+    }
+  },
+  {
+    "lesson_id": 49,
+    "title": "Revision",
+    "speaking_task": {
+      "type": "summary_and_opinion",
+      "description": "Summarize the revision dialogue in 3 sentences, then give your opinion.",
+      "duration_minutes": 4,
+      "recording_required": true,
+      "instructions": "Summarize the story. Then say: 'Je pense que...'",
+      "focus_points": [
+        "Review of all previous structures"
+      ]
+    }
+  },
+  {
+    "lesson_id": 50,
+    "title": "Je m'ennuie ...",
+    "speaking_task": {
+      "type": "summary_and_opinion",
+      "description": "Summarize the dialogue in 3 sentences, then give your opinion about the speaker's routine.",
+      "duration_minutes": 4,
+      "recording_required": true,
+      "instructions": "Summarize the boring routine. Then say: 'Je pense que...' or 'À mon avis...'",
+      "focus_points": [
+        "Reflexive verbs",
+        "Expressing opinions about lifestyle"
+      ]
+    }
+  },
+  {
+    "lesson_id": 51,
+    "title": "Hâtez-vous lentement !",
+    "speaking_task": {
+      "type": "summary_and_qa",
+      "description": "Summarize the dialogue, then answer 3 questions aloud.",
+      "duration_minutes": 5,
+      "recording_required": true,
+      "questions": [
+        "Où vont-ils ?",
+        "Pourquoi sont-ils pressés ?",
+        "Qu'est-ce qui est arrivé aux clés ?"
+      ],
+      "instructions": "Summarize the dialogue (2 mins), then answer the 3 questions aloud.",
+      "focus_points": [
+        "Imperative forms",
+        "Expressing urgency"
+      ]
+    }
+  },
+  {
+    "lesson_id": 52,
+    "title": "Nous nous sommes bien amusés !",
+    "speaking_task": {
+      "type": "summary_and_qa",
+      "description": "Summarize the dialogue, then answer 3 questions aloud.",
+      "duration_minutes": 5,
+      "recording_required": true,
+      "questions": [
+        "Quelle est l'émission préférée de l'une des personnes ?",
+        "Que pensent les autres des séries ?",
+        "Connaissez-vous cette émission ?"
+      ],
+      "instructions": "Summarize the dialogue (2 mins), then answer the 3 questions aloud.",
+      "focus_points": [
+        "Reflexive past tense",
+        "Expressing opinions"
+      ]
+    }
+  },
+  {
+    "lesson_id": 53,
+    "title": "Je ne ferai plus jamais ça !",
+    "speaking_task": {
+      "type": "summary_and_qa",
+      "description": "Summarize the dialogue, then answer 3 questions aloud.",
+      "duration_minutes": 5,
+      "recording_required": true,
+      "questions": [
+        "Qu'est-ce qu'elle a commandé ?",
+        "Qu'est-ce qu'on lui a livré ?",
+        "Que décide-t-elle de faire ?"
+      ],
+      "instructions": "Summarize the dialogue (2 mins), then answer the 3 questions aloud.",
+      "focus_points": [
+        "Future tense",
+        "Expressing frustration"
+      ]
+    }
+  },
+  {
+    "lesson_id": 54,
+    "title": "Votez pour moi...",
+    "speaking_task": {
+      "type": "summary_and_qa",
+      "description": "Summarize the dialogue, then answer 3 questions aloud.",
+      "duration_minutes": 5,
+      "recording_required": true,
+      "questions": [
+        "Que promet le candidat ?",
+        "Contre quoi se bat-il ?",
+        "Que pensez-vous de son discours ?"
+      ],
+      "instructions": "Summarize the political speech (2 mins), then answer the 3 questions aloud.",
+      "focus_points": [
+        "Future with irregulars",
+        "Political vocabulary"
+      ]
+    }
+  },
+  {
+    "lesson_id": 55,
+    "title": "Mais c'est horrible, ton film !",
+    "speaking_task": {
+      "type": "summary_and_qa",
+      "description": "Summarize the dialogue, then answer 3 questions aloud.",
+      "duration_minutes": 5,
+      "recording_required": true,
+      "questions": [
+        "Quel film a-t-elle vu ?",
+        "Pourquoi s'est-elle cachée ?",
+        "Avez-vous déjà vu un film d'horreur ?"
+      ],
+      "instructions": "Summarize the dialogue (2 mins), then answer the 3 questions aloud.",
+      "focus_points": [
+        "Passé composé vs imparfait",
+        "Expressing strong opinions"
+      ]
+    }
+  },
+  {
+    "lesson_id": 56,
+    "title": "Revision",
+    "speaking_task": {
+      "type": "summary_and_qa",
+      "description": "Summarize the revision dialogue, then answer 3 questions aloud.",
+      "duration_minutes": 5,
+      "recording_required": true,
+      "questions": [
+        "Comment va Hélène ?",
+        "Pourquoi s'ennuie-t-elle ?",
+        "Qu'est-ce qui est arrivé à la personne qui parle ?"
+      ],
+      "instructions": "Summarize the dialogue (2 mins), then answer the 3 questions aloud.",
+      "focus_points": [
+        "Review of all active phase topics"
+      ]
+    }
+  },
+  {
+    "lesson_id": 57,
+    "title": "Vive les Bretons !",
+    "speaking_task": {
+      "type": "summary_and_qa",
+      "description": "Summarize the dialogue, then answer 3 questions aloud.",
+      "duration_minutes": 5,
+      "recording_required": true,
+      "questions": [
+        "Pourquoi ont-ils appris le breton ?",
+        "Quelle est l'origine du mot 'baragouiner' ?",
+        "Connaissez-vous d'autres langues régionales ?"
+      ],
+      "instructions": "Summarize the dialogue (2 mins), then answer the 3 questions aloud.",
+      "focus_points": [
+        "Imparfait (habits)",
+        "Regional vocabulary"
+      ]
+    }
+  },
+  {
+    "lesson_id": 58,
+    "title": "Un grincheux",
+    "speaking_task": {
+      "type": "summary_and_qa",
+      "description": "Summarize the dialogue, then answer 3 questions aloud.",
+      "duration_minutes": 5,
+      "recording_required": true,
+      "questions": [
+        "Où veut-on aller ce week-end ?",
+        "Pourquoi la personne est-elle grincheuse ?",
+        "Qu'est-ce qu'elle craint ?"
+      ],
+      "instructions": "Summarize the dialogue (2 mins), then answer the 3 questions aloud.",
+      "focus_points": [
+        "Conditional present",
+        "Tourism vocabulary"
+      ]
+    }
+  },
+  {
+    "lesson_id": 59,
+    "title": "Il ne gagnait (presque) jamais",
+    "speaking_task": {
+      "type": "summary_and_qa",
+      "description": "Summarize the dialogue, then answer 3 questions aloud.",
+      "duration_minutes": 5,
+      "recording_required": true,
+      "questions": [
+        "Comment le père communiquait-il ?",
+        "Qu'est-ce qu'il faisait toutes les semaines ?",
+        "Pourquoi a-t-il manqué de gagner ?"
+      ],
+      "instructions": "Summarize the dialogue (2 mins), then answer the 3 questions aloud.",
+      "focus_points": [
+        "Imparfait (habits)",
+        "Storytelling"
+      ]
+    }
+  },
+  {
+    "lesson_id": 60,
+    "title": "Le voisinage est de plus en plus dangereux !",
+    "speaking_task": {
+      "type": "summary_and_qa",
+      "description": "Summarize the dialogue, then answer 3 questions aloud.",
+      "duration_minutes": 5,
+      "recording_required": true,
+      "questions": [
+        "Qu'est-ce qui s'est passé ?",
+        "Qu'ont fait les pompiers ?",
+        "Qu'est-ce qui est arrivé à la voiture du brigadier ?"
+      ],
+      "instructions": "Summarize the dialogue (2 mins), then answer the 3 questions aloud.",
+      "focus_points": [
+        "Comparative: de plus en plus",
+        "Past narrative"
+      ]
+    }
+  },
+  {
+    "lesson_id": 61,
+    "title": "La célébrité ne me dit pas grand-chose",
+    "speaking_task": {
+      "type": "summary_and_qa",
+      "description": "Summarize the interview, then answer 3 questions aloud.",
+      "duration_minutes": 5,
+      "recording_required": true,
+      "questions": [
+        "Pourquoi Isabelle est-elle devenue photographe ?",
+        "Qu'est-ce qu'elle aime photographier ?",
+        "Que pense-t-elle de la célébrité ?"
+      ],
+      "instructions": "Summarize the interview (2 mins), then answer the 3 questions aloud.",
+      "focus_points": [
+        "Passé composé (être verbs)",
+        "Career vocabulary"
+      ]
+    }
+  },
+  {
+    "lesson_id": 62,
+    "title": "J'ai mis le doigt sur ton problème...",
+    "speaking_task": {
+      "type": "summary_and_qa",
+      "description": "Summarize the dialogue, then answer 3 questions aloud.",
+      "duration_minutes": 5,
+      "recording_required": true,
+      "questions": [
+        "Quel est le problème du codeur ?",
+        "Quels conseils lui donne-t-on ?",
+        "Avez-vous déjà eu des difficultés à apprendre quelque chose ?"
+      ],
+      "instructions": "Summarize the dialogue (2 mins), then answer the 3 questions aloud.",
+      "focus_points": [
+        "Body idioms",
+        "Giving advice"
+      ]
+    }
+  },
+  {
+    "lesson_id": 63,
+    "title": "Revision",
+    "speaking_task": {
+      "type": "summary_and_qa",
+      "description": "Summarize the revision dialogue, then answer 3 questions aloud.",
+      "duration_minutes": 5,
+      "recording_required": true,
+      "questions": [
+        "Où les personnes ont-elles vécu ?",
+        "Pourquoi n'ont-elles pas appris le breton ?",
+        "Qu'est-ce qui s'est passé en Corse ?"
+      ],
+      "instructions": "Summarize the dialogue (2 mins), then answer the 3 questions aloud.",
+      "focus_points": [
+        "Review of all grammar from 57-62"
+      ]
+    }
+  },
+  {
+    "lesson_id": 64,
+    "title": "Je crains le pire ...",
+    "speaking_task": {
+      "type": "role_play",
+      "description": "Role-play a customer at a travel agency.",
+      "duration_minutes": 5,
+      "recording_required": true,
+      "prompt": "You are a customer at a travel agency. Ask for information about holidays, prices, and dates. The travel agent responds.",
+      "instructions": "Practice asking questions. Use 'Je voudrais...', 'Est-ce que je peux avoir...', 'Combien coûte...'. Record your side of the conversation.",
+      "focus_points": [
+        "Conditional (polite requests)",
+        "Travel vocabulary"
+      ]
+    }
+  },
+  {
+    "lesson_id": 65,
+    "title": "Cent pour cent des gagnants ont tenté leur chance !",
+    "speaking_task": {
+      "type": "summary_and_qa",
+      "description": "Summarize the dialogue, then answer 3 questions aloud.",
+      "duration_minutes": 5,
+      "recording_required": true,
+      "questions": [
+        "Que pourrait-on gagner ?",
+        "Qu'est-ce que la personne pense des sports d'hiver ?",
+        "Qu'est-ce que vous feriez si vous gagniez un prix ?"
+      ],
+      "instructions": "Summarize the dialogue (2 mins), then answer the 3 questions aloud.",
+      "focus_points": [
+        "Conditional (si clauses)",
+        "Hypothetical situations"
+      ]
+    }
+  },
+  {
+    "lesson_id": 66,
+    "title": "Président d'un jour",
+    "speaking_task": {
+      "type": "role_play",
+      "description": "Role-play a student debating a politician.",
+      "duration_minutes": 5,
+      "recording_required": true,
+      "prompt": "You are a student named Noura, demanding environmental action.",
+      "instructions": "Practice responding to the politician. Use 'Il faut que nous...', 'Je n'aimerais pas que...', 'Nous croyons que...'. Record yourself.",
+      "focus_points": [
+        "Subjunctive (il faut que)",
+        "Environmental vocabulary"
+      ]
+    }
+  },
+  {
+    "lesson_id": 67,
+    "title": "L'encre la plus pâle ...",
+    "speaking_task": {
+      "type": "summary_and_qa",
+      "description": "Summarize the dialogue, then answer 3 questions aloud.",
+      "duration_minutes": 5,
+      "recording_required": true,
+      "questions": [
+        "Qu'est-ce que la personne a fait avant de partir ?",
+        "Qu'est-ce qu'elle a oublié ?",
+        "Comment préparez-vous vos voyages ?"
+      ],
+      "instructions": "Summarize the dialogue (2 mins), then answer the 3 questions aloud.",
+      "focus_points": [
+        "Passé composé (être verbs)",
+        "Travel preparation"
+      ]
+    }
+  },
+  {
+    "lesson_id": 68,
+    "title": "La visite de la petite-fille",
+    "speaking_task": {
+      "type": "role_play",
+      "description": "Role-play a conversation between a grandparent and grandchild.",
+      "duration_minutes": 5,
+      "recording_required": true,
+      "prompt": "You are the grandparent. Your grandchild has come to visit. Ask them about their life and relationships.",
+      "instructions": "Practice asking about relationships. Use informal language. Record yourself.",
+      "focus_points": [
+        "Relative pronouns (qui que ce soit)",
+        "Informal speech"
+      ]
+    }
+  },
+  {
+    "lesson_id": 69,
+    "title": "Les animaux ne mentent pas...",
+    "speaking_task": {
+      "type": "monologue",
+      "description": "Speak for 3-4 minutes about a time you were sick or felt terrible.",
+      "duration_minutes": 4,
+      "recording_required": true,
+      "topic": "A time you were very sick or felt terrible.",
+      "instructions": "Think about a time you were sick. Describe what happened, how you felt, and what you did. Use idioms: 'malade comme un chien', 'avoir le cafard'.",
+      "focus_points": [
+        "Animal idioms",
+        "Health vocabulary"
+      ]
+    }
+  },
+  {
+    "lesson_id": 70,
+    "title": "Revision",
+    "speaking_task": {
+      "type": "monologue",
+      "description": "Speak for 4-5 minutes about your journey learning French.",
+      "duration_minutes": 5,
+      "recording_required": true,
+      "topic": "Your journey learning French so far.",
+      "instructions": "Speak about what you knew before (imparfait), what you have learned (passé composé), and your future goals (future).",
+      "focus_points": [
+        "All tenses",
+        "Reflective speaking"
+      ]
+    }
+  },
+  {
+    "lesson_id": 71,
+    "title": "La Dame de fer",
+    "speaking_task": {
+      "type": "summary_and_qa",
+      "description": "Summarize the text, then answer 3 questions aloud.",
+      "duration_minutes": 5,
+      "recording_required": true,
+      "questions": [
+        "Quand la Tour Eiffel a-t-elle été construite ?",
+        "Pourquoi n'a-t-elle pas été démolie ?",
+        "Qu'est-ce qui la rend spéciale ?"
+      ],
+      "instructions": "Summarize the text (2 mins), then answer the 3 questions aloud.",
+      "focus_points": [
+        "Passive voice",
+        "Historical vocabulary"
+      ]
+    }
+  },
+  {
+    "lesson_id": 72,
+    "title": "Ça ne se fait pas !",
+    "speaking_task": {
+      "type": "role_play",
+      "description": "Role-play planning a farewell party.",
+      "duration_minutes": 5,
+      "recording_required": true,
+      "prompt": "You are organizing a farewell party. Discuss the arrangements.",
+      "instructions": "Practice the conversation. Use 'Il est préférable de...', 'Nous allons...', 'Ça se fait de...'. Record yourself.",
+      "focus_points": [
+        "Impersonal 'se'",
+        "Formal language"
+      ]
+    }
+  },
+  {
+    "lesson_id": 73,
+    "title": "Je n'en peux plus !",
+    "speaking_task": {
+      "type": "monologue",
+      "description": "Speak for 3-4 minutes about a frustrating experience.",
+      "duration_minutes": 4,
+      "recording_required": true,
+      "topic": "A frustrating experience you have had.",
+      "instructions": "Describe what happened, why it was frustrating, and how you felt. Use 'j'en ai plein le dos', 'quelle galère'.",
+      "focus_points": [
+        "Informal negatives",
+        "Expressing frustration"
+      ]
+    }
+  },
+  {
+    "lesson_id": 74,
+    "title": "Les soldes",
+    "speaking_task": {
+      "type": "role_play",
+      "description": "Role-play a conversation with a shop assistant during the sales.",
+      "duration_minutes": 5,
+      "recording_required": true,
+      "prompt": "You are shopping during the sales. You want to buy a coat.",
+      "instructions": "Practice the conversation. Use 'Je cherche un...', 'Est-ce que vous avez...', 'Je le/la prends.'. Record yourself.",
+      "focus_points": [
+        "Demonstrative pronouns (celui-ci/celle-là)",
+        "Clothing vocabulary"
+      ]
+    }
+  },
+  {
+    "lesson_id": 75,
+    "title": "Le Prix 'Accord majeur'",
+    "speaking_task": {
+      "type": "summary_and_qa",
+      "description": "Summarize the interview, then answer 3 questions aloud.",
+      "duration_minutes": 5,
+      "recording_required": true,
+      "questions": [
+        "Pourquoi Alain a-t-il reçu un prix ?",
+        "Qu'est-ce qu'il a fait avant de devenir chanteur ?",
+        "Quelle qualité apprécie-t-il le plus ?"
+      ],
+      "instructions": "Summarize the interview (2 mins), then answer the 3 questions aloud.",
+      "focus_points": [
+        "Indirect speech",
+        "Music vocabulary"
+      ]
+    }
+  },
+  {
+    "lesson_id": 76,
+    "title": "'Culture générale' : le jeu radiophonique",
+    "speaking_task": {
+      "type": "role_play",
+      "description": "Role-play a contestant on a radio quiz show.",
+      "duration_minutes": 5,
+      "recording_required": true,
+      "prompt": "You are a contestant answering quiz questions.",
+      "instructions": "Practice responding to quiz questions. Use 'Je pense que...', 'Je ne sais pas.', 'Est-ce que c'est...?'. Record yourself.",
+      "focus_points": [
+        "Relative pronouns (ce qui, ce que)",
+        "Expressing uncertainty"
+      ]
+    }
+  },
+  {
+    "lesson_id": 77,
+    "title": "Revision",
+    "speaking_task": {
+      "type": "monologue",
+      "description": "Speak for 4-5 minutes about a time you faced difficulties and overcame them.",
+      "duration_minutes": 5,
+      "recording_required": true,
+      "topic": "A time you faced difficulties and overcame them.",
+      "instructions": "Speak about the situation (imparfait), what happened (passé composé), how you overcame it, and what you learned.",
+      "focus_points": [
+        "Narrative structure",
+        "Problem-solution language"
+      ]
+    }
+  },
+  {
+    "lesson_id": 78,
+    "title": "Les voyages forment la jeunesse",
+    "speaking_task": {
+      "type": "summary_and_qa",
+      "description": "Summarize the dialogue, then answer 3 questions aloud.",
+      "duration_minutes": 5,
+      "recording_required": true,
+      "questions": [
+        "Où va-t-on en vacances ?",
+        "Pourquoi les enfants ne viennent-ils pas ?",
+        "Qu'est-ce qu'on va rapporter ?"
+      ],
+      "instructions": "Summarize the dialogue (2 mins), then answer the 3 questions aloud.",
+      "focus_points": [
+        "Pronoun order (le lui, me le)",
+        "Travel vocabulary"
+      ]
+    }
+  },
+  {
+    "lesson_id": 79,
+    "title": "Il faut que je trouve une bonne excuse...",
+    "speaking_task": {
+      "type": "role_play",
+      "description": "Role-play refusing a request politely.",
+      "duration_minutes": 5,
+      "recording_required": true,
+      "prompt": "A friend asked for a favor, but you cannot do it. Refuse politely.",
+      "instructions": "Practice refusing politely. Use 'Il faut que je...', 'Je préfère que vous...', 'Vous pourriez...'. Record yourself.",
+      "focus_points": [
+        "Subjunctive",
+        "Politeness strategies"
+      ]
+    }
+  },
+  {
+    "lesson_id": 80,
+    "title": "Notre action ne dépend que de vous",
+    "speaking_task": {
+      "type": "monologue",
+      "description": "Speak for 4-5 minutes about a social issue you care about.",
+      "duration_minutes": 5,
+      "recording_required": true,
+      "topic": "A social issue you care about.",
+      "instructions": "Speak about why it matters and what should change. Use 'il faut que', 'nous exigeons que'.",
+      "focus_points": [
+        "Subjunctive (exiger que)",
+        "Social and political vocabulary"
+      ]
+    }
+  },
+  {
+    "lesson_id": 81,
+    "title": "La réaction des patrons",
+    "speaking_task": {
+      "type": "role_play",
+      "description": "Role-play a meeting of employers.",
+      "duration_minutes": 5,
+      "recording_required": true,
+      "prompt": "You are representing employers. Present their position on the labor dispute.",
+      "instructions": "Use 'Bien que nous...', 'Pourvu que nous soyons...', 'Il est peu probable que...'. Record yourself.",
+      "focus_points": [
+        "Subjunctive (bien que, pourvu que)",
+        "Business vocabulary"
+      ]
+    }
+  },
+  {
+    "lesson_id": 82,
+    "title": "Qu'ils sont idiots !",
+    "speaking_task": {
+      "type": "summary_and_qa",
+      "description": "Summarize the dialogue, then answer 3 questions aloud.",
+      "duration_minutes": 5,
+      "recording_required": true,
+      "questions": [
+        "Que demande le sondeur ?",
+        "Quelle est la réaction de l'homme ?",
+        "Avez-vous déjà participé à un sondage ?"
+      ],
+      "instructions": "Summarize the dialogue (2 mins), then answer the 3 questions aloud.",
+      "focus_points": [
+        "Subjunctive (que... ou non)",
+        "Politics vocabulary"
+      ]
+    }
+  },
+  {
+    "lesson_id": 83,
+    "title": "Du beurre dans les épinards ...",
+    "speaking_task": {
+      "type": "role_play",
+      "description": "Role-play a radio quiz show host.",
+      "duration_minutes": 5,
+      "recording_required": true,
+      "prompt": "You are hosting a radio quiz show.",
+      "instructions": "Present the game, ask questions, and keep the energy up. Use 'Bonjour et bienvenue...', 'Quel aliment...', 'Bravo !'. Record yourself.",
+      "focus_points": [
+        "Food idioms",
+        "Quiz show language"
+      ]
+    }
+  },
+  {
+    "lesson_id": 84,
+    "title": "Revision",
+    "speaking_task": {
+      "type": "monologue",
+      "description": "Speak for 4-5 minutes about a time you had to deal with bureaucracy.",
+      "duration_minutes": 5,
+      "recording_required": true,
+      "topic": "A time you had to deal with bureaucracy or red tape.",
+      "instructions": "Describe what you needed to do, the obstacles, and how you resolved it.",
+      "focus_points": [
+        "All grammar from 78-83",
+        "Formal and informal register"
+      ]
+    }
+  },
+  {
+    "lesson_id": 85,
+    "title": "Comment ça, je massacre le français ?",
+    "speaking_task": {
+      "type": "role_play",
+      "description": "Role-play correcting someone's language.",
+      "duration_minutes": 5,
+      "recording_required": true,
+      "prompt": "You are a French teacher correcting a student.",
+      "instructions": "Practice correcting politely. Use 'On ne dit pas...', 'Il faut dire...', 'C'est plus élégant de dire...'. Record yourself.",
+      "focus_points": [
+        "Informal questions",
+        "Metalinguistic vocabulary"
+      ]
+    }
+  },
+  {
+    "lesson_id": 86,
+    "title": "Un entretien avec un chasseur de têtes",
+    "speaking_task": {
+      "type": "role_play",
+      "description": "Role-play a job interview.",
+      "duration_minutes": 5,
+      "recording_required": true,
+      "prompt": "You are being interviewed for a management position.",
+      "instructions": "Answer interview questions. Use 'Je suis responsable de...', 'Mes compétences sont...', 'Je pourrais...'. Record yourself.",
+      "focus_points": [
+        "Relative pronouns (dont, lequel)",
+        "Professional vocabulary"
+      ]
+    }
+  },
+  {
+    "lesson_id": 87,
+    "title": "Le commissaire Périer mène l'enquête",
+    "speaking_task": {
+      "type": "summary_and_qa",
+      "description": "Summarize the dialogue, then answer 3 questions aloud.",
+      "duration_minutes": 5,
+      "recording_required": true,
+      "questions": [
+        "Qui a été retrouvé mort ?",
+        "Comment est-il mort ?",
+        "Que dit le commissaire ?"
+      ],
+      "instructions": "Summarize the dialogue (2 mins), then answer the 3 questions aloud.",
+      "focus_points": [
+        "Pluperfect",
+        "Police vocabulary"
+      ]
+    }
+  },
+  {
+    "lesson_id": 88,
+    "title": "Le commissaire Périer mène l'enquête (suite)",
+    "speaking_task": {
+      "type": "role_play",
+      "description": "Role-play a detective questioning a witness.",
+      "duration_minutes": 5,
+      "recording_required": true,
+      "prompt": "You are a detective. Question a witness about the crime.",
+      "instructions": "Use 'Qui que ce soit...', 'Où qu'il soit...', 'Quoi qu'il fasse...'. Record yourself.",
+      "focus_points": [
+        "Slang vocabulary",
+        "Subjunctive (quoi que)"
+      ]
+    }
+  },
+  {
+    "lesson_id": 89,
+    "title": "Il faut le faire !",
+    "speaking_task": {
+      "type": "monologue",
+      "description": "Speak for 4-5 minutes about a disastrous experience.",
+      "duration_minutes": 5,
+      "recording_required": true,
+      "topic": "A disastrous experience (skiing, sports, etc.).",
+      "instructions": "Describe what happened, how it went wrong, and the consequences. Use 'se faire aider', 'faire une croix'.",
+      "focus_points": [
+        "Causative (se faire + inf)",
+        "Sports vocabulary"
+      ]
+    }
+  },
+  {
+    "lesson_id": 90,
+    "title": "'Le' ou 'la' ? - Les deux !",
+    "speaking_task": {
+      "type": "summary_and_qa",
+      "description": "Summarize the dialogue, then answer 3 questions aloud.",
+      "duration_minutes": 5,
+      "recording_required": true,
+      "questions": [
+        "Quel est le problème avec les noms en français ?",
+        "Connaissez-vous d'autres noms avec deux genres ?",
+        "Comment apprenez-vous les genres ?"
+      ],
+      "instructions": "Summarize the dialogue (2 mins), then answer the 3 questions aloud.",
+      "focus_points": [
+        "Noun genders",
+        "Meta-linguistic discussion"
+      ]
+    }
+  },
+  {
+    "lesson_id": 91,
+    "title": "Revision",
+    "speaking_task": {
+      "type": "monologue",
+      "description": "Speak for 4-5 minutes about your dream job or career goals.",
+      "duration_minutes": 5,
+      "recording_required": true,
+      "topic": "Your dream job or career goals.",
+      "instructions": "Speak about what you do now or want to do, why you chose this path, your skills, and your future goals.",
+      "focus_points": [
+        "Professional vocabulary",
+        "Future plans"
+      ]
+    }
+  },
+  {
+    "lesson_id": 92,
+    "title": "Un magazine littéraire",
+    "speaking_task": {
+      "type": "summary_and_qa",
+      "description": "Summarize the interview, then answer 3 questions aloud.",
+      "duration_minutes": 5,
+      "recording_required": true,
+      "questions": [
+        "Qui était Marie-Antoinette ?",
+        "Que dit l'auteur à son sujet ?",
+        "Quels étaient ses derniers mots ?"
+      ],
+      "instructions": "Summarize the interview (2 mins), then answer the 3 questions aloud.",
+      "focus_points": [
+        "Passé simple (recognition)",
+        "Literary vocabulary"
+      ]
+    }
+  },
+  {
+    "lesson_id": 93,
+    "title": "Un cours d'histoire",
+    "speaking_task": {
+      "type": "summary_and_qa",
+      "description": "Summarize the historical account, then answer 3 questions aloud.",
+      "duration_minutes": 5,
+      "recording_required": true,
+      "questions": [
+        "Que s'est-il passé le 14 juillet 1789 ?",
+        "Pourquoi les Parisiens ont-ils attaqué la Bastille ?",
+        "Que signifie cette date pour les Français ?"
+      ],
+      "instructions": "Summarize the events (2 mins), then answer the 3 questions aloud.",
+      "focus_points": [
+        "Passé simple (usage)",
+        "Historical vocabulary"
+      ]
+    }
+  },
+  {
+    "lesson_id": 94,
+    "title": "Les inconvénients du travail à domicile",
+    "speaking_task": {
+      "type": "monologue",
+      "description": "Speak for 4-5 minutes about the pros and cons of remote work.",
+      "duration_minutes": 5,
+      "recording_required": true,
+      "topic": "The pros and cons of remote work.",
+      "instructions": "Speak about the advantages and disadvantages. Use 'j'aurais dû', 'j'aurais pu'.",
+      "focus_points": [
+        "Past conditional",
+        "Technology vocabulary"
+      ]
+    }
+  },
+  {
+    "lesson_id": 95,
+    "title": "Le JT du soir",
+    "speaking_task": {
+      "type": "role_play",
+      "description": "Role-play a TV news anchor.",
+      "duration_minutes": 5,
+      "recording_required": true,
+      "prompt": "You are a TV news anchor. Present the top stories of the day.",
+      "instructions": "Use 'Bonsoir et bienvenue...', 'Un cambriolage a eu lieu...', 'Selon les autorités...'. Record yourself.",
+      "focus_points": [
+        "Passive voice (past)",
+        "Journalistic language"
+      ]
+    }
+  },
+  {
+    "lesson_id": 96,
+    "title": "Une émission-débat : 'Réinventons le rire'",
+    "speaking_task": {
+      "type": "role_play",
+      "description": "Role-play a debate participant.",
+      "duration_minutes": 5,
+      "recording_required": true,
+      "prompt": "You are debating whether humor should be unlimited.",
+      "instructions": "Argue for or against. Use 'Je suis d'accord avec...', 'Au contraire...', 'Il faut se méfier de...'. Record yourself.",
+      "focus_points": [
+        "Formal vs informal register",
+        "Debate vocabulary"
+      ]
+    }
+  },
+  {
+    "lesson_id": 97,
+    "title": "En plein dans le mille !",
+    "speaking_task": {
+      "type": "monologue",
+      "description": "Speak for 4-5 minutes about a project you worked on.",
+      "duration_minutes": 5,
+      "recording_required": true,
+      "topic": "A project you worked on (successful or not).",
+      "instructions": "Describe the project, challenges, and outcome. Use 'brûler les étapes', 'jeter l'éponge'.",
+      "focus_points": [
+        "Sports idioms (business context)",
+        "Narrative structure"
+      ]
+    }
+  },
+  {
+    "lesson_id": 98,
+    "title": "Revision",
+    "speaking_task": {
+      "type": "monologue",
+      "description": "Speak for 4-5 minutes about a famous person you admire.",
+      "duration_minutes": 5,
+      "recording_required": true,
+      "topic": "A famous person or historical figure you admire.",
+      "instructions": "Speak about who they are, what they did, why you admire them, and their impact.",
+      "focus_points": [
+        "All grammar from 92-97",
+        "Biographical language"
+      ]
+    }
+  },
+  {
+    "lesson_id": 99,
+    "title": "Incroyable mais vrai...",
+    "speaking_task": {
+      "type": "role_play",
+      "description": "Role-play sharing exciting news.",
+      "duration_minutes": 5,
+      "recording_required": true,
+      "prompt": "You have exciting news to share with a friend.",
+      "instructions": "Use 'J'ai une nouvelle incroyable...', 'Quand j'aurai fini...', 'Tu ne devineras jamais...'. Record yourself.",
+      "focus_points": [
+        "Future perfect",
+        "Excited language"
+      ]
+    }
+  },
+  {
+    "lesson_id": 100,
+    "title": "La langue française",
+    "speaking_task": {
+      "type": "monologue",
+      "description": "FINAL SPEAKING TASK. Speak for 5-6 minutes about your journey learning French.",
+      "duration_minutes": 6,
+      "recording_required": true,
+      "topic": "Your journey learning French.",
+      "instructions": "Speak about why you started, your challenges, your achievements, your future plans, and how you feel about the Francophonie. Record yourself. Celebrate!",
+      "focus_points": [
+        "All B2 topics",
+        "Reflective language"
+      ]
+    }
+  }
+]

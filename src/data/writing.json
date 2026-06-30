@@ -1,0 +1,1002 @@
+[
+  {
+    "lesson_id": 1,
+    "title": "Comment allez-vous ?",
+    "phase": "passive",
+    "writing_task_type": "Substitution Drill",
+    "grammar_focus": "Present tense (être, avoir)",
+    "word_count_target": "20-30",
+    "task_description": "Write 5 sentences introducing yourself. Use 'Je m'appelle...', 'Je suis de...', and 'Comment allez-vous?' but change the names and locations to your own (or fictional).",
+    "time_allocation_minutes": null
+  },
+  {
+    "lesson_id": 2,
+    "title": "Le café",
+    "phase": "passive",
+    "writing_task_type": "Substitution Drill",
+    "grammar_focus": "Indefinite articles (un/une/des), numbers",
+    "word_count_target": "20-30",
+    "task_description": "Write a short dialogue (4 lines) between a waiter and a customer ordering different items (e.g., coffee, croissant, juice). Change the order from the lesson.",
+    "time_allocation_minutes": null
+  },
+  {
+    "lesson_id": 3,
+    "title": "Présentations",
+    "phase": "passive",
+    "writing_task_type": "Description",
+    "grammar_focus": "Verb 'être' (je suis, il est, nous sommes)",
+    "word_count_target": "30-40",
+    "task_description": "Write a short paragraph introducing two friends. Describe their names, where they are from, and what they do (e.g., Il est breton, elle est parisienne).",
+    "time_allocation_minutes": null
+  },
+  {
+    "lesson_id": 4,
+    "title": "L'heure",
+    "phase": "passive",
+    "writing_task_type": "Narrative",
+    "grammar_focus": "Telling time, negative form (ne...pas)",
+    "word_count_target": "30-40",
+    "task_description": "Write about your schedule for today. Write 3 sentences about what time you wake up, eat, and leave. Include one negative sentence (e.g., Je n'ai pas de montre).",
+    "time_allocation_minutes": null
+  },
+  {
+    "lesson_id": 5,
+    "title": "Je cherche le métro",
+    "phase": "passive",
+    "writing_task_type": "Dialogue Substitution",
+    "grammar_focus": "Asking for directions, prepositions (à, au, à la)",
+    "word_count_target": "40-50",
+    "task_description": "Rewrite the dialogue but change the location. Instead of the metro, ask for directions to the post office (la poste) or the supermarket. Use 'à gauche' and 'à droite'.",
+    "time_allocation_minutes": null
+  },
+  {
+    "lesson_id": 6,
+    "title": "A l'hôtel",
+    "phase": "passive",
+    "writing_task_type": "Description",
+    "grammar_focus": "Agreement of adjectives (grand/grande)",
+    "word_count_target": "40-50",
+    "task_description": "Write a booking confirmation email. Describe the room you booked (e.g., une grande chambre, un grand lit, une salle de bains).",
+    "time_allocation_minutes": null
+  },
+  {
+    "lesson_id": 7,
+    "title": "Revision - Revision",
+    "phase": "passive",
+    "writing_task_type": "Consolidation",
+    "grammar_focus": "All A1 grammar so far",
+    "word_count_target": "40-60",
+    "task_description": "Write a full 'My Daily Routine' paragraph. Include introducing yourself, what time you do things, and one question you would ask a stranger.",
+    "time_allocation_minutes": null
+  },
+  {
+    "lesson_id": 8,
+    "title": "Une visite",
+    "phase": "passive",
+    "writing_task_type": "Substitution",
+    "grammar_focus": "Prepositions (à la maison, au bureau), asking questions",
+    "word_count_target": "40-60",
+    "task_description": "Write a dialogue where you call a friend's house. Ask if their mother/father is at home or at the office. Use 'Est-ce que...'.",
+    "time_allocation_minutes": null
+  },
+  {
+    "lesson_id": 9,
+    "title": "A la mairie",
+    "phase": "passive",
+    "writing_task_type": "Description",
+    "grammar_focus": "Possessive adjectives (mon, ma, mes, son, sa, ses), age",
+    "word_count_target": "50-70",
+    "task_description": "Describe your family. Include their ages (using 'il a... ans'), and talk about your father's wife, your mother's son, etc.",
+    "time_allocation_minutes": null
+  },
+  {
+    "lesson_id": 10,
+    "title": "C'est très simple !",
+    "phase": "passive",
+    "writing_task_type": "Narrative",
+    "grammar_focus": "Present tense (faire, trouver), idioms",
+    "word_count_target": "50-70",
+    "task_description": "Write 5 sentences about a time you lost an object (like a wallet or keys). Use 'Je cherche' and 'Je ne trouve pas'.",
+    "time_allocation_minutes": null
+  },
+  {
+    "lesson_id": 11,
+    "title": "Au marché (Première partie)",
+    "phase": "passive",
+    "writing_task_type": "List/Description",
+    "grammar_focus": "Partitive articles (du, de la, des), quantities",
+    "word_count_target": "50-70",
+    "task_description": "Write your grocery shopping list for a week. Write 5-6 sentences describing exactly what you need (e.g., J'ai besoin de fruits et de légumes...).",
+    "time_allocation_minutes": null
+  },
+  {
+    "lesson_id": 12,
+    "title": "Au marché (Deuxième partie)",
+    "phase": "passive",
+    "writing_task_type": "Dialogue",
+    "grammar_focus": "Questions with 'combien', adjectives (cher/chère)",
+    "word_count_target": "60-80",
+    "task_description": "Write a dialogue between you and a vendor. Ask the price of strawberries, say they are too expensive, and negotiate (or walk away). Use 'elles sont à combien?'.",
+    "time_allocation_minutes": null
+  },
+  {
+    "lesson_id": 13,
+    "title": "Un cadeau",
+    "phase": "passive",
+    "writing_task_type": "Opinion",
+    "grammar_focus": "Verbs (pouvoir, vouloir), direct object pronouns (le, la)",
+    "word_count_target": "60-80",
+    "task_description": "Write about your new smartphone or a gadget. Describe what it can do ('Il fait absolument tout...'). Say if you like it or not.",
+    "time_allocation_minutes": null
+  },
+  {
+    "lesson_id": 14,
+    "title": "Revision",
+    "phase": "passive",
+    "writing_task_type": "Consolidation",
+    "grammar_focus": "Possessive adjectives + BAGS adjectives",
+    "word_count_target": "60-80",
+    "task_description": "Write a 70-word description of your best friend's house. Describe their room, their family, and what they like to do.",
+    "time_allocation_minutes": null
+  },
+  {
+    "lesson_id": 15,
+    "title": "Un tour dans Paris (Premiere partie)",
+    "phase": "passive",
+    "writing_task_type": "Narrative",
+    "grammar_focus": "Present continuous (implied via context), City vocabulary",
+    "word_count_target": "70-90",
+    "task_description": "You are a tour guide. Write 5 sentences describing what tourists can see in your town (monuments, streets, squares). Use 'vous pouvez voir' and 'à droite/à gauche'.",
+    "time_allocation_minutes": null
+  },
+  {
+    "lesson_id": 16,
+    "title": "Un tour dans Paris (Deuxieme partie)",
+    "phase": "passive",
+    "writing_task_type": "Comparative Description",
+    "grammar_focus": "Comparatives (plus grand que, aussi...que)",
+    "word_count_target": "70-90",
+    "task_description": "Compare two cities you know. Write 5 sentences comparing their size, buildings, and atmosphere. Use 'comparé à' and 'comme'.",
+    "time_allocation_minutes": null
+  },
+  {
+    "lesson_id": 17,
+    "title": "Quels sont vos projets ?",
+    "phase": "passive",
+    "writing_task_type": "Planning",
+    "grammar_focus": "Future (aller + infinitive), 'avoir envie de'",
+    "word_count_target": "70-90",
+    "task_description": "Write about your plans for tomorrow. Use 'je vais' + infinitive. Mention what you want to see (avoir envie de voir) and your schedule.",
+    "time_allocation_minutes": null
+  },
+  {
+    "lesson_id": 18,
+    "title": "Prenons rendez-vous avec le banquier",
+    "phase": "passive",
+    "writing_task_type": "Formal Dialogue",
+    "grammar_focus": "Days, months, dates, 'du... au...'",
+    "word_count_target": "80-100",
+    "task_description": "Write a dialogue trying to schedule a meeting with a busy banker. Offer three different dates and explain why the other dates don't work. Use 'je regrette'.",
+    "time_allocation_minutes": null
+  },
+  {
+    "lesson_id": 19,
+    "title": "Un bel endroit pour une fête",
+    "phase": "passive",
+    "writing_task_type": "Descriptive Inquiry",
+    "grammar_focus": "Irregular adjectives (beau/belle), approximations (trentaine)",
+    "word_count_target": "80-100",
+    "task_description": "Write an email to a hotel asking to rent a room for a party. Specify how many people (about 30), what you need, and ask for the price.",
+    "time_allocation_minutes": null
+  },
+  {
+    "lesson_id": 20,
+    "title": "Un monde idéal",
+    "phase": "passive",
+    "writing_task_type": "Opinion",
+    "grammar_focus": "Partitive articles (du, de la, de l'), country names",
+    "word_count_target": "80-100",
+    "task_description": "Write 5-6 sentences about what you would want for Christmas or for the world (peace, happiness, jobs). Mention 2-3 different countries.",
+    "time_allocation_minutes": null
+  },
+  {
+    "lesson_id": 21,
+    "title": "Vingt et unième leçon - Revision",
+    "phase": "passive",
+    "writing_task_type": "Consolidation",
+    "grammar_focus": "Avoir/Être, -er verbs, telling time",
+    "word_count_target": "80-100",
+    "task_description": "Write a description of a typical 'bad day'. Mention being late, not having time, forgetting your watch, and what you need to do.",
+    "time_allocation_minutes": null
+  },
+  {
+    "lesson_id": 22,
+    "title": "Réfléchissez, choisissez, jouez",
+    "phase": "passive",
+    "writing_task_type": "Argument",
+    "grammar_focus": "Verbs in -ir (réfléchir, choisir), plural of nouns (jeux, chevaux)",
+    "word_count_target": "80-100",
+    "task_description": "Write why you like or hate games of chance (lottery, horse racing). Use 'je réfléchis' and 'je choisis'. Explain why you are prudent or risky.",
+    "time_allocation_minutes": null
+  },
+  {
+    "lesson_id": 23,
+    "title": "Comment réussir au loto",
+    "phase": "passive",
+    "writing_task_type": "Process/Narrative",
+    "grammar_focus": "Verbs in -ir (finir, réussir), numbers",
+    "word_count_target": "90-110",
+    "task_description": "Write a step-by-step guide on how you play the lottery. Mention choosing numbers, using your lucky dates, and filling the grid. Use 'je remplis' and 'je finis'.",
+    "time_allocation_minutes": null
+  },
+  {
+    "lesson_id": 24,
+    "title": "Je ne vais pas bien du tout",
+    "phase": "passive",
+    "writing_task_type": "Narrative/Health",
+    "grammar_focus": "Avoir mal à, direct object pronouns (le, la, les)",
+    "word_count_target": "90-110",
+    "task_description": "Write a letter to a friend explaining why you can't come to an event. Describe your symptoms (headache, fever, knee pain) and what the doctor told you.",
+    "time_allocation_minutes": null
+  },
+  {
+    "lesson_id": 25,
+    "title": "Déjeunons ensemble",
+    "phase": "passive",
+    "writing_task_type": "Dialogue",
+    "grammar_focus": "Imperative (nous form), near/far (ce/cette/cet)",
+    "word_count_target": "90-110",
+    "task_description": "Write a dialogue convincing a friend to go to a specific restaurant with you. Describe where it is (near, to the left) and why it's good.",
+    "time_allocation_minutes": null
+  },
+  {
+    "lesson_id": 26,
+    "title": "Déjeunons ensemble (suite)",
+    "phase": "passive",
+    "writing_task_type": "Restaurant Scene",
+    "grammar_focus": "Interrogative adjectives (quel/quelle), pronouns (lequel)",
+    "word_count_target": "100-120",
+    "task_description": "Write the full restaurant interaction from sitting down to asking for the bill. Include ordering meat, specifying cooking (rare/bleeding), and asking for the wine list.",
+    "time_allocation_minutes": null
+  },
+  {
+    "lesson_id": 27,
+    "title": "\"Hotel complet\"",
+    "phase": "passive",
+    "writing_task_type": "Travel Planning",
+    "grammar_focus": "Demonstrative pronouns (celui, celle, ceux), superlatives",
+    "word_count_target": "100-120",
+    "task_description": "You are looking for a hotel near the airport. Compare two hotels (one close, one cheap). Use 'celui qui' and 'le plus...'. Explain why you choose one.",
+    "time_allocation_minutes": null
+  },
+  {
+    "lesson_id": 28,
+    "title": "Revision",
+    "phase": "passive",
+    "writing_task_type": "Consolidation",
+    "grammar_focus": "Imparfait vs Passé Composé review (passive phase)",
+    "word_count_target": "100-120",
+    "task_description": "Write a paragraph about a past holiday. Describe the weather (imparfait) and the key events that happened (passé composé).",
+    "time_allocation_minutes": null
+  },
+  {
+    "lesson_id": 29,
+    "title": "Comment vas-tu ?",
+    "phase": "passive",
+    "writing_task_type": "Informal Dialogue",
+    "grammar_focus": "Familiar 'tu' form, verbs (venir, acheter)",
+    "word_count_target": "100-120",
+    "task_description": "Write an informal conversation between two friends in the street. Ask about health (tu/vous), shopping plans, and a birthday present.",
+    "time_allocation_minutes": null
+  },
+  {
+    "lesson_id": 30,
+    "title": "J'ai un truc à te demander...",
+    "phase": "passive",
+    "writing_task_type": "Phone Call",
+    "grammar_focus": "Pronominal verbs (se passer), telephone vocabulary",
+    "word_count_target": "100-120",
+    "task_description": "Write a phone dialogue. Start with 'Allô', say you can't hear well (j'entends mal), ask to borrow something, and promise to return it.",
+    "time_allocation_minutes": null
+  },
+  {
+    "lesson_id": 31,
+    "title": "J'en ai besoin rapidement",
+    "phase": "passive",
+    "writing_task_type": "Shopping Interaction",
+    "grammar_focus": "Adverbial pronoun 'en', demonstratives (celui-ci/celui-là)",
+    "word_count_target": "110-130",
+    "task_description": "Write a dialogue in a shop. Ask for a specific item (like a kettle). The seller shows two options. Ask the price, react to the price, and decide.",
+    "time_allocation_minutes": null
+  },
+  {
+    "lesson_id": 32,
+    "title": "Je ne peux plus continuer comme ça",
+    "phase": "passive",
+    "writing_task_type": "Complaint Letter",
+    "grammar_focus": "Indirect object pronouns (lui, leur), 'ne...plus'",
+    "word_count_target": "110-130",
+    "task_description": "Write an email to your boss explaining why you are exhausted. Mention headaches, stress, and that you can't continue. Use 'je ne peux plus'.",
+    "time_allocation_minutes": null
+  },
+  {
+    "lesson_id": 33,
+    "title": "Je n'ai rien dans ma garde-robe",
+    "phase": "passive",
+    "writing_task_type": "Description",
+    "grammar_focus": "Negatives (ne...rien), clothing vocabulary, colors",
+    "word_count_target": "110-130",
+    "task_description": "Describe your wardrobe. Say what you need (a dress, a coat) and what colors you prefer. Use 'je n'ai rien' and 'il me faut'.",
+    "time_allocation_minutes": null
+  },
+  {
+    "lesson_id": 34,
+    "title": "Les randonneurs",
+    "phase": "passive",
+    "writing_task_type": "Narrative",
+    "grammar_focus": "Verbs conjugated with être in PC (passé composé)",
+    "word_count_target": "120-140",
+    "task_description": "Write a story about a long walk or run you did. Use verbs like 'je suis parti', 'je suis arrivé', 'je suis monté' to describe the journey.",
+    "time_allocation_minutes": null
+  },
+  {
+    "lesson_id": 35,
+    "title": "Revision",
+    "phase": "passive",
+    "writing_task_type": "Consolidation",
+    "grammar_focus": "Y & En, savoir/connaître, tutoiement",
+    "word_count_target": "120-140",
+    "task_description": "Write a dialogue between two friends where you use 'tu'. Discuss remembering a place (s'en souvenir) and what you know (savoir/connaître) about a mutual friend.",
+    "time_allocation_minutes": null
+  },
+  {
+    "lesson_id": 36,
+    "title": "J'espère que je n'ai rien oublié...",
+    "phase": "passive",
+    "writing_task_type": "Pre-departure List",
+    "grammar_focus": "Passé composé (avoir verbs), household chores",
+    "word_count_target": "120-140",
+    "task_description": "Write a frantic list/paragraph of everything you did (and didn't do) before leaving for the airport. Use 'j'ai vérifié', 'j'ai fermé', 'j'ai oublié'.",
+    "time_allocation_minutes": null
+  },
+  {
+    "lesson_id": 37,
+    "title": "J'ai réfléchi à la question du loyer...",
+    "phase": "passive",
+    "writing_task_type": "Opinion",
+    "grammar_focus": "Comparatives & Superlatives (plus...que, le plus...)",
+    "word_count_target": "130-150",
+    "task_description": "You are looking for an apartment. Compare three flats (one smaller but cheaper, one bigger but noisy, one expensive). Use 'plus...que' and 'le plus...'. State your decision.",
+    "time_allocation_minutes": null
+  },
+  {
+    "lesson_id": 38,
+    "title": "C'est de la part de qui ?",
+    "phase": "passive",
+    "writing_task_type": "Formal Phone Call",
+    "grammar_focus": "Passé composé (various groups), formal questions",
+    "word_count_target": "130-150",
+    "task_description": "Write a formal business phone dialogue. Ask for the manager, identify yourself (C'est de la part de...), leave a message, and leave your number.",
+    "time_allocation_minutes": null
+  },
+  {
+    "lesson_id": 39,
+    "title": "Le septième art",
+    "phase": "passive",
+    "writing_task_type": "Review",
+    "grammar_focus": "Passé composé (3rd group), Passive voice (present)",
+    "word_count_target": "140-160",
+    "task_description": "Write a short review of a film you have seen. Use the passive voice (e.g., 'Le film a été réalisé par...'). Mention the director, actors, and plot.",
+    "time_allocation_minutes": null
+  },
+  {
+    "lesson_id": 40,
+    "title": "Tu es si impatient !",
+    "phase": "passive",
+    "writing_task_type": "Persuasion",
+    "grammar_focus": "Past participles (mis, pris, bu), negation (ne...pas)",
+    "word_count_target": "140-160",
+    "task_description": "Write a dialogue where you try to convince a grumpy friend to go to the cinema. Argue about which movie to see (one is stupid, the other is good).",
+    "time_allocation_minutes": null
+  },
+  {
+    "lesson_id": 41,
+    "title": "Un accueil désagréable",
+    "phase": "passive",
+    "writing_task_type": "Formal Complaint",
+    "grammar_focus": "Future (simple future tense), polite requests",
+    "word_count_target": "150-170",
+    "task_description": "Write a formal complaint letter to a restaurant. Mention you called several times, they were full, and you are unhappy with the booking process. Use 'je vous prie de...'.",
+    "time_allocation_minutes": null
+  },
+  {
+    "lesson_id": 42,
+    "title": "Revision",
+    "phase": "passive",
+    "writing_task_type": "Consolidation",
+    "grammar_focus": "Verb groups review, conditional (introduced)",
+    "word_count_target": "150-170",
+    "task_description": "Write a story about a misunderstanding at a hotel or restaurant. Mix present, past, and future tenses appropriately to tell the story clearly.",
+    "time_allocation_minutes": null
+  },
+  {
+    "lesson_id": 43,
+    "title": "Le foot féminin",
+    "phase": "passive",
+    "writing_task_type": "Biography",
+    "grammar_focus": "Passé composé with être (DR MRS VANDERTRAMP)",
+    "word_count_target": "150-170",
+    "task_description": "Write a short biography (5-8 sentences) of a sportsman or woman. Use 'il/elle est né(e)', 'il/elle est devenu(e)', 'il/elle est mort(e)' etc. Mention dates and places.",
+    "time_allocation_minutes": null
+  },
+  {
+    "lesson_id": 44,
+    "title": "Perturbations dans les transports ...",
+    "phase": "passive",
+    "writing_task_type": "Narrative",
+    "grammar_focus": "Irregular verbs (valoir, vaut), idioms (vrai/faux)",
+    "word_count_target": "160-180",
+    "task_description": "Write about a nightmare journey involving trains or public transport. Mention delays, cancellations, and your frustration. Use 'il vaut mieux'.",
+    "time_allocation_minutes": null
+  },
+  {
+    "lesson_id": 45,
+    "title": "Il n'y a pas de métiers inutiles",
+    "phase": "passive",
+    "writing_task_type": "Opinion/Argument",
+    "grammar_focus": "Relative pronouns (qui, que, dont), professions",
+    "word_count_target": "160-180",
+    "task_description": "Write about your job or a job you would like to do. Use relative pronouns (e.g., 'un métier qui demande...'). Explain what is difficult and what is great about it.",
+    "time_allocation_minutes": null
+  },
+  {
+    "lesson_id": 46,
+    "title": "Depuis, je n'ai aucune nouvelle",
+    "phase": "passive",
+    "writing_task_type": "Description/Police Report",
+    "grammar_focus": "Negatives (ne...aucun, ne...plus), physical descriptions",
+    "word_count_target": "170-190",
+    "task_description": "Write a detailed description of a missing person. Describe their age, height, clothes, and what they were carrying. Use 'aucune nouvelle'.",
+    "time_allocation_minutes": null
+  },
+  {
+    "lesson_id": 47,
+    "title": "Un déménagement",
+    "phase": "passive",
+    "writing_task_type": "Planning",
+    "grammar_focus": "Comparatives (plus on...plus on...), furniture vocabulary",
+    "word_count_target": "170-190",
+    "task_description": "Write a plan for a house move. List the big items (sofa, wardrobe) and the small items. Describe the order of operations. Use 'plus on finit vite...'.",
+    "time_allocation_minutes": null
+  },
+  {
+    "lesson_id": 48,
+    "title": "Ça ne me dit rien",
+    "phase": "passive",
+    "writing_task_type": "Opinion",
+    "grammar_focus": "Expressions of preference, 'en' vs 'de'",
+    "word_count_target": "180-200",
+    "task_description": "Write a text about why you don't like picnics (or barbecues). Explain the discomfort, the food, and the insects. Use 'ça ne me dit rien' and 'je ne supporte pas'.",
+    "time_allocation_minutes": null
+  },
+  {
+    "lesson_id": 49,
+    "title": "Revision",
+    "phase": "passive",
+    "writing_task_type": "Consolidation",
+    "grammar_focus": "All passive phase grammar",
+    "word_count_target": "180-200",
+    "task_description": "Write a 200-word autobiography (your life so far). Include: where you were born (passé composé), your childhood routines (imparfait), a recent event (passé composé), and your future plans (future simple). This is your End of Passive Phase milestone.",
+    "time_allocation_minutes": null
+  },
+  {
+    "lesson_id": 50,
+    "title": "Je m'ennuie ...",
+    "phase": "passive",
+    "writing_task_type": "Descriptive Routine",
+    "grammar_focus": "Reflexive verbs (present), 'se lever', 's'habiller'",
+    "word_count_target": "180-200",
+    "task_description": "Write your typical morning routine from waking up to leaving the house, using reflexive verbs. This is the last Passive Phase writing exercise.",
+    "time_allocation_minutes": null
+  },
+  {
+    "lesson_id": 51,
+    "title": "Hâtez-vous lentement !",
+    "phase": "active",
+    "writing_task_type": "Personal Narrative",
+    "grammar_focus": "Imperative (active), reflexive pronouns in commands",
+    "word_count_target": "100-120",
+    "task_description": "ACTIVE PHASE START. Write a short story about the last time you lost something important. Describe the panic. Use the imperative style (e.g., 'Dépêchez-vous !').",
+    "time_allocation_minutes": 20
+  },
+  {
+    "lesson_id": 52,
+    "title": "Nous nous sommes bien amusés !",
+    "phase": "active",
+    "writing_task_type": "Past Narrative",
+    "grammar_focus": "Passé composé of reflexive verbs",
+    "word_count_target": "110-130",
+    "task_description": "Write about a party or event you attended. Describe how you prepared, what you did, and whether you enjoyed yourself. Use 'nous nous sommes...'.",
+    "time_allocation_minutes": 20
+  },
+  {
+    "lesson_id": 53,
+    "title": "Je ne ferai plus jamais ça !",
+    "phase": "active",
+    "writing_task_type": "Future Prediction",
+    "grammar_focus": "Future tense (simple) + negative",
+    "word_count_target": "110-130",
+    "task_description": "Write about your shopping plans for next week. Use the future tense. Then, conclude why you will NEVER do online shopping again (like in the dialogue).",
+    "time_allocation_minutes": 20
+  },
+  {
+    "lesson_id": 54,
+    "title": "Votez pour moi...",
+    "phase": "active",
+    "writing_task_type": "Persuasive Speech",
+    "grammar_focus": "Future tense (irregular verbs), politics",
+    "word_count_target": "120-140",
+    "task_description": "Write a short political speech (5-6 paragraphs) convincing people to vote for you. Promise you won't lie, and you will fight corruption. Use 'je ne serai pas...'.",
+    "time_allocation_minutes": 20
+  },
+  {
+    "lesson_id": 55,
+    "title": "Mais c'est horrible, ton film !",
+    "phase": "active",
+    "writing_task_type": "Film Review (Opinion)",
+    "grammar_focus": "Passé composé vs Imparfait in narration",
+    "word_count_target": "120-140",
+    "task_description": "Write a review of a horror or action film you saw. Describe what happened (passé composé) and why you liked/disliked it. Use 'je me suis caché(e)'.",
+    "time_allocation_minutes": 20
+  },
+  {
+    "lesson_id": 56,
+    "title": "Revision",
+    "phase": "active",
+    "writing_task_type": "Consolidation",
+    "grammar_focus": "All tenses so far",
+    "word_count_target": "130-150",
+    "task_description": "Write a 150-word email to a friend describing a chaotic day (lost keys, missed bus, late for work). Mix present, past, and future.",
+    "time_allocation_minutes": 20
+  },
+  {
+    "lesson_id": 57,
+    "title": "Vive les Bretons !",
+    "phase": "active",
+    "writing_task_type": "Storytelling",
+    "grammar_focus": "Imparfait (habits), plus-que-parfait",
+    "word_count_target": "130-150",
+    "task_description": "Tell a story from your childhood or the past of your family (e.g., how they learned a language). Use the imparfait for background and the passé composé for events.",
+    "time_allocation_minutes": 20
+  },
+  {
+    "lesson_id": 58,
+    "title": "Un grincheux",
+    "phase": "active",
+    "writing_task_type": "Argument/Advantage",
+    "grammar_focus": "Conditional (present)",
+    "word_count_target": "140-160",
+    "task_description": "You want to go away for the weekend, but your friend is grumpy and refuses. Write a dialogue where you try to convince them. Use 'ça vaut la peine' and 'tu ne regretteras pas'.",
+    "time_allocation_minutes": 20
+  },
+  {
+    "lesson_id": 59,
+    "title": "Il ne gagnait (presque) jamais",
+    "phase": "active",
+    "writing_task_type": "Biography/Habit",
+    "grammar_focus": "Imparfait (habits vs actions)",
+    "word_count_target": "140-160",
+    "task_description": "Write about an older relative's habits in the past (e.g., their daily routine, what they did for fun). Use 'il/elle jouait', 'il/elle aimait bien'.",
+    "time_allocation_minutes": 20
+  },
+  {
+    "lesson_id": 60,
+    "title": "Le voisinage est de plus en plus dangereux !",
+    "phase": "active",
+    "writing_task_type": "News Report",
+    "grammar_focus": "Comparatives (de plus en plus), 'pendant que'",
+    "word_count_target": "150-170",
+    "task_description": "Write a short news report about an incident in your neighborhood (real or imaginary). Describe what you were doing (imparfait) when the incident happened (passé composé).",
+    "time_allocation_minutes": 20
+  },
+  {
+    "lesson_id": 61,
+    "title": "La célébrité ne me dit pas grand-chose",
+    "phase": "active",
+    "writing_task_type": "Interview Summary",
+    "grammar_focus": "Passé composé, 'devenir'",
+    "word_count_target": "150-170",
+    "task_description": "Summarize the interview from the lesson. Explain why the photographer became famous and what she thinks about fame. Use indirect speech (e.g., 'elle a dit que...').",
+    "time_allocation_minutes": 20
+  },
+  {
+    "lesson_id": 62,
+    "title": "J'ai mis le doigt sur ton problème...",
+    "phase": "active",
+    "writing_task_type": "Advice Column",
+    "grammar_focus": "Idioms (body parts), giving advice",
+    "word_count_target": "150-170",
+    "task_description": "Write a response to a friend who is struggling with a subject (like coding). Use idioms: 'ne te casse pas la tête', 'donne un coup de main', 'serre les dents'.",
+    "time_allocation_minutes": 20
+  },
+  {
+    "lesson_id": 63,
+    "title": "Revision",
+    "phase": "active",
+    "writing_task_type": "Consolidation",
+    "grammar_focus": "Imparfait vs Passé Composé final review",
+    "word_count_target": "160-180",
+    "task_description": "Write a story about a time you got into trouble (or had a funny accident). Mix the two past tenses perfectly.",
+    "time_allocation_minutes": 20
+  },
+  {
+    "lesson_id": 64,
+    "title": "Je crains le pire ...",
+    "phase": "active",
+    "writing_task_type": "Formal Inquiry",
+    "grammar_focus": "Conditional (polite requests), comparisons",
+    "word_count_target": "160-180",
+    "task_description": "Write an email to a travel agency. Ask for a vacation package. Compare July and August. Politely ask for prices. Use 'je voudrais' and 'je pourrais'.",
+    "time_allocation_minutes": 20
+  },
+  {
+    "lesson_id": 65,
+    "title": "Cent pour cent des gagnants...",
+    "phase": "active",
+    "writing_task_type": "Hypothetical Scenario",
+    "grammar_focus": "Conditional (si clauses)",
+    "word_count_target": "170-190",
+    "task_description": "Write about what you would do if you won a free trip. Use 'si je gagnais... je pourrais...' and 'je serais prêt à...'.",
+    "time_allocation_minutes": 20
+  },
+  {
+    "lesson_id": 66,
+    "title": "Président d'un jour",
+    "phase": "active",
+    "writing_task_type": "Formal Debate",
+    "grammar_focus": "Subjunctive (introduction with 'il faut que')",
+    "word_count_target": "170-190",
+    "task_description": "Write a dialogue between a politician and a student. The student demands change (environment, cars). Use 'il faut que nous...' and 'je n'aimerais pas que...'.",
+    "time_allocation_minutes": 20
+  },
+  {
+    "lesson_id": 67,
+    "title": "L'encre la plus pâle ...",
+    "phase": "active",
+    "writing_task_type": "Narrative",
+    "grammar_focus": "Passé composé with avoir/être (transitive vs intransitive)",
+    "word_count_target": "180-200",
+    "task_description": "Write about visiting an elderly neighbor. Describe what you brought up, took down, and what you found. Use 'j'ai rentré', 'je suis monté', etc., correctly.",
+    "time_allocation_minutes": 20
+  },
+  {
+    "lesson_id": 68,
+    "title": "La visite de la petite-fille",
+    "phase": "active",
+    "writing_task_type": "Generational Dialogue",
+    "grammar_focus": "Relative pronouns (qui que ce soit), informal speech",
+    "word_count_target": "180-200",
+    "task_description": "Write a dialogue between a teenager and their grandparent. The grandparent asks about a boyfriend/girlfriend. Use 'tu peux nous présenter qui que ce soit'.",
+    "time_allocation_minutes": 20
+  },
+  {
+    "lesson_id": 69,
+    "title": "Les animaux ne mentent pas...",
+    "phase": "active",
+    "writing_task_type": "Descriptive Narrative",
+    "grammar_focus": "Animal idioms (faim de loup, etc.)",
+    "word_count_target": "180-200",
+    "task_description": "Write a story about a time you were very sick. Use animal idioms: 'malade comme un chien', 'avoir le cafard', 'faim de loup'.",
+    "time_allocation_minutes": 20
+  },
+  {
+    "lesson_id": 70,
+    "title": "Revision",
+    "phase": "active",
+    "writing_task_type": "Consolidation",
+    "grammar_focus": "Conditional, Past, and Future",
+    "word_count_target": "180-200",
+    "task_description": "Write a letter to a friend explaining a difficult decision you had to make. Use past tenses, conditionals, and future tenses.",
+    "time_allocation_minutes": 20
+  },
+  {
+    "lesson_id": 71,
+    "title": "La Dame de fer",
+    "phase": "active",
+    "writing_task_type": "Historical Summary",
+    "grammar_focus": "Passive voice (present & past)",
+    "word_count_target": "180-200",
+    "task_description": "Write a summary of the history of the Eiffel Tower. Use the passive voice (e.g., 'La tour a été construite en 1889...').",
+    "time_allocation_minutes": 20
+  },
+  {
+    "lesson_id": 72,
+    "title": "Ça ne se fait pas !",
+    "phase": "active",
+    "writing_task_type": "Formal Business Email",
+    "grammar_focus": "Impersonal 'se' (ça se fait), Passive review",
+    "word_count_target": "180-200",
+    "task_description": "Write a formal email to an office manager about organizing a farewell party. Use 'ça se fait' and 'il est préférable de...'.",
+    "time_allocation_minutes": 20
+  },
+  {
+    "lesson_id": 73,
+    "title": "Je n'en peux plus !",
+    "phase": "active",
+    "writing_task_type": "Complaint/Self-expression",
+    "grammar_focus": "Informal negatives (ne...plus, en avoir marre)",
+    "word_count_target": "180-200",
+    "task_description": "Write a text venting about a bad day (traffic, dentists, bureaucracy). Use informal expressions: 'j'en ai plein le dos', 'quelle galère', 'c'est dingue'.",
+    "time_allocation_minutes": 20
+  },
+  {
+    "lesson_id": 74,
+    "title": "Les soldes",
+    "phase": "active",
+    "writing_task_type": "Dialogue (Shopping)",
+    "grammar_focus": "Demonstrative pronouns (celui-ci/celle-là)",
+    "word_count_target": "180-200",
+    "task_description": "Write a dialogue at a clothing store during the sales. Hesitate between two coats. Discuss prices, colors, and whether it suits you. Use 'il me va bien'.",
+    "time_allocation_minutes": 20
+  },
+  {
+    "lesson_id": 75,
+    "title": "Le Prix 'Accord majeur'",
+    "phase": "active",
+    "writing_task_type": "Interview Summary",
+    "grammar_focus": "Indirect speech, passé composé",
+    "word_count_target": "190-210",
+    "task_description": "Summarize the interview with the musician. Report what he said about his career. Use 'il a dit qu'il...' and 'il a déclaré que...'.",
+    "time_allocation_minutes": 20
+  },
+  {
+    "lesson_id": 76,
+    "title": "'Culture générale' : le jeu radiophonique",
+    "phase": "active",
+    "writing_task_type": "Quiz/Trivia",
+    "grammar_focus": "Relative pronouns (ce qui, ce que), adverbs",
+    "word_count_target": "190-210",
+    "task_description": "Write a short quiz with 5 questions. Describe a famous thing (river, painting, author) using relative pronouns (e.g., 'C'est un fleuve qui prend sa source en Suisse').",
+    "time_allocation_minutes": 25
+  },
+  {
+    "lesson_id": 77,
+    "title": "Revision",
+    "phase": "active",
+    "writing_task_type": "Consolidation",
+    "grammar_focus": "Passive, Relative clauses, all tenses",
+    "word_count_target": "190-210",
+    "task_description": "Write a 200-word story about a construction project (e.g., building a road) that hit many obstacles. Use passive voice and relative clauses.",
+    "time_allocation_minutes": 25
+  },
+  {
+    "lesson_id": 78,
+    "title": "Les voyages forment la jeunesse",
+    "phase": "active",
+    "writing_task_type": "Narrative",
+    "grammar_focus": "Pronoun order (le lui, me le, etc.)",
+    "word_count_target": "190-210",
+    "task_description": "Write about a trip you proposed to your family, but they didn't want to go. Explain why you suggested it and how they reacted. Use 'je le leur ai proposé'.",
+    "time_allocation_minutes": 25
+  },
+  {
+    "lesson_id": 79,
+    "title": "Il faut que je trouve une bonne excuse...",
+    "phase": "active",
+    "writing_task_type": "Dialogue",
+    "grammar_focus": "Subjunctive (il faut que, je veux que)",
+    "word_count_target": "200-220",
+    "task_description": "Write a dialogue where a friend asks for a favor, and you must politely refuse. Use 'il faut que je...' and 'je préfère que vous...'.",
+    "time_allocation_minutes": 25
+  },
+  {
+    "lesson_id": 80,
+    "title": "Notre action ne dépend que de vous",
+    "phase": "active",
+    "writing_task_type": "Formal Letter/Manifesto",
+    "grammar_focus": "Subjunctive (exiger que, il est dommage que)",
+    "word_count_target": "200-220",
+    "task_description": "Write a formal letter of protest from a union. Demand better conditions and sick leave. Use 'nous exigeons que...' and 'il est urgent que...'.",
+    "time_allocation_minutes": 25
+  },
+  {
+    "lesson_id": 81,
+    "title": "La réaction des patrons",
+    "phase": "active",
+    "writing_task_type": "Formal Memo",
+    "grammar_focus": "Subjunctive (bien que, avant que, pourvu que)",
+    "word_count_target": "210-230",
+    "task_description": "Write a memo from the employer's perspective. Although they are under pressure, they must hold firm. Use 'bien que' and 'avant que'.",
+    "time_allocation_minutes": 25
+  },
+  {
+    "lesson_id": 82,
+    "title": "Qu'ils sont idiots !",
+    "phase": "active",
+    "writing_task_type": "Opinion Essay",
+    "grammar_focus": "Subjunctive (que... ou non), interrogative inversion",
+    "word_count_target": "210-230",
+    "task_description": "Write an opinion piece about political polls. Do you trust them? Use formal inverted questions and expressions like 'qu'on le veuille ou non'.",
+    "time_allocation_minutes": 25
+  },
+  {
+    "lesson_id": 83,
+    "title": "Du beurre dans les épinards ...",
+    "phase": "active",
+    "writing_task_type": "Radio Script",
+    "grammar_focus": "Subjunctive (il faut que vous sachiez), food idioms",
+    "word_count_target": "210-230",
+    "task_description": "Write a short radio quiz script. Introduce the game, ask a tricky question, and use idioms like 'avoir du pain sur la planche'.",
+    "time_allocation_minutes": 25
+  },
+  {
+    "lesson_id": 84,
+    "title": "Revision",
+    "phase": "active",
+    "writing_task_type": "Consolidation",
+    "grammar_focus": "Subjunctive review, Pronoun order",
+    "word_count_target": "210-230",
+    "task_description": "Write a 200-word complaint email to a service provider. Use the subjunctive for demands, arrange pronouns correctly, and sound convincingly exasperated.",
+    "time_allocation_minutes": 25
+  },
+  {
+    "lesson_id": 85,
+    "title": "Comment ça, je massacre le français ?",
+    "phase": "active",
+    "writing_task_type": "Informal Dialogue",
+    "grammar_focus": "Informal questions (c'est quoi...), idioms",
+    "word_count_target": "210-230",
+    "task_description": "Write an informal dialogue between siblings arguing. Use 'occupe-toi de tes oignons' and 'ce ne sont pas tes oignons'.",
+    "time_allocation_minutes": 25
+  },
+  {
+    "lesson_id": 86,
+    "title": "Un entretien avec un chasseur de têtes",
+    "phase": "active",
+    "writing_task_type": "Professional Profile",
+    "grammar_focus": "Relative pronouns (dont, lequel, auquel)",
+    "word_count_target": "220-240",
+    "task_description": "Write a detailed profile of a candidate for a job. Describe their skills, experience, and why they are perfect. Use 'dont' heavily.",
+    "time_allocation_minutes": 25
+  },
+  {
+    "lesson_id": 87,
+    "title": "Le commissaire Périer mène l'enquête",
+    "phase": "active",
+    "writing_task_type": "Crime Report",
+    "grammar_focus": "Pluperfect (plus-que-parfait)",
+    "word_count_target": "220-240",
+    "task_description": "Write a police report. Describe what the victim had done before the murder (pluperfect) and what was found at the scene.",
+    "time_allocation_minutes": 25
+  },
+  {
+    "lesson_id": 88,
+    "title": "Le commissaire Périer mène l'enquête (suite)",
+    "phase": "active",
+    "writing_task_type": "Dialogue (Slang)",
+    "grammar_focus": "Slang vocabulary (mec, flic, indic), subjunctive",
+    "word_count_target": "220-240",
+    "task_description": "Continue the detective dialogue. Include slang terms and use 'quoi que' and 'où que' to discuss the suspect.",
+    "time_allocation_minutes": 25
+  },
+  {
+    "lesson_id": 89,
+    "title": "Il faut le faire !",
+    "phase": "active",
+    "writing_task_type": "Anecdote",
+    "grammar_focus": "Causative (se faire + inf), idioms",
+    "word_count_target": "220-240",
+    "task_description": "Write an anecdote about someone who had a terrible time skiing or doing a sport. Use 'se faire aider', 'faire une croix'.",
+    "time_allocation_minutes": 25
+  },
+  {
+    "lesson_id": 90,
+    "title": "'Le' ou 'la' ? - Les deux !",
+    "phase": "active",
+    "writing_task_type": "Creative Writing",
+    "grammar_focus": "Noun genders (double meanings)",
+    "word_count_target": "230-250",
+    "task_description": "Write a funny story that uses at least 5 dual-gender nouns (le/la tour, le/la poste, un/une livre). Use them incorrectly to create confusion, then correct them.",
+    "time_allocation_minutes": 25
+  },
+  {
+    "lesson_id": 91,
+    "title": "Revision",
+    "phase": "active",
+    "writing_task_type": "Consolidation",
+    "grammar_focus": "All grammar (slang, subjunctive, pluperfect)",
+    "word_count_target": "230-250",
+    "task_description": "Write a story about a friend getting fired. Include slang, subjunctive, pluperfect, and informal dialogue.",
+    "time_allocation_minutes": 25
+  },
+  {
+    "lesson_id": 92,
+    "title": "Un magazine littéraire",
+    "phase": "active",
+    "writing_task_type": "Literary Analysis",
+    "grammar_focus": "Passé Simple (recognition)",
+    "word_count_target": "230-250",
+    "task_description": "Write a biography of a historical figure (e.g., Marie-Antoinette) using the passé simple for the main events. (Treat this as a writing exercise to understand the tense).",
+    "time_allocation_minutes": 25
+  },
+  {
+    "lesson_id": 93,
+    "title": "Un cours d'histoire",
+    "phase": "active",
+    "writing_task_type": "Historical Essay",
+    "grammar_focus": "Passé Simple (use), formal narrative",
+    "word_count_target": "240-260",
+    "task_description": "Write a 250-word historical summary of a revolution or major event. Use the passé simple to describe the key actions. Focus on formal, elevated style.",
+    "time_allocation_minutes": 25
+  },
+  {
+    "lesson_id": 94,
+    "title": "Les inconvénients du travail à domicile",
+    "phase": "active",
+    "writing_task_type": "Argumentative Essay",
+    "grammar_focus": "Past Conditional (j'aurais dû, j'aurais pu)",
+    "word_count_target": "240-260",
+    "task_description": "Write a letter explaining why remote work failed for you. Explain what you should have done (j'aurais dû) and what you could have done differently (j'aurais pu).",
+    "time_allocation_minutes": 25
+  },
+  {
+    "lesson_id": 95,
+    "title": "Le JT du soir",
+    "phase": "active",
+    "writing_task_type": "Journalistic Article",
+    "grammar_focus": "Passive voice (past), journalistic style",
+    "word_count_target": "240-260",
+    "task_description": "Write a newspaper article about a burglary. Use the passive voice (e.g., 'un collier a été dérobé') and report what the police said.",
+    "time_allocation_minutes": 25
+  },
+  {
+    "lesson_id": 96,
+    "title": "Une émission-débat : Réinventons le rire",
+    "phase": "active",
+    "writing_task_type": "Debate Summary",
+    "grammar_focus": "Formal vs Informal register switching",
+    "word_count_target": "250-270",
+    "task_description": "Write the transcript of a heated debate about humor. Switch between formal and informal registers depending on who is speaking.",
+    "time_allocation_minutes": 25
+  },
+  {
+    "lesson_id": 97,
+    "title": "En plein dans le mille !",
+    "phase": "active",
+    "writing_task_type": "Business Case Study",
+    "grammar_focus": "Sports idioms (business context), past tenses",
+    "word_count_target": "250-270",
+    "task_description": "Write a business case study about a failed project. Describe the timeline using past tenses and use idioms like 'brûler les étapes' and 'jeter l'éponge'.",
+    "time_allocation_minutes": 25
+  },
+  {
+    "lesson_id": 98,
+    "title": "Revision",
+    "phase": "active",
+    "writing_task_type": "Consolidation",
+    "grammar_focus": "Passé Simple, Conditionals, Idioms",
+    "word_count_target": "250-270",
+    "task_description": "Write a 270-word story about a football team that almost folded (failed) but made a miraculous comeback. Use all the sports idioms from Lesson 97.",
+    "time_allocation_minutes": 25
+  },
+  {
+    "lesson_id": 99,
+    "title": "Incroyable mais vrai...",
+    "phase": "active",
+    "writing_task_type": "Storytelling",
+    "grammar_focus": "Future Perfect (futur antérieur)",
+    "word_count_target": "260-280",
+    "task_description": "Write about a secret project. Explain what you will have completed by next month (future perfect: j'aurai fini, ils auront décidé).",
+    "time_allocation_minutes": 25
+  },
+  {
+    "lesson_id": 100,
+    "title": "La langue française",
+    "phase": "active",
+    "writing_task_type": "Reflective Essay (Graduation)",
+    "grammar_focus": "All B2 topics",
+    "word_count_target": "280-300",
+    "task_description": "FINAL TASK. Write a 300-word essay about your journey learning French. Describe what you knew before (imparfait), what you have learned (passé composé), and how you will use it (future). Reflect on the 'Francophonie'. This is your B2 graduation essay.",
+    "time_allocation_minutes": 25
+  }
+]
