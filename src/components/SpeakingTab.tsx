@@ -7,8 +7,8 @@ import {
   upsertPendingSubmission,
   getPendingByLesson,
   removePendingSubmission,
-  PendingSpeakingSubmission,
 } from "../services/offlineQueue";
+import type { PendingSpeakingSubmission } from "../services/offlineQueue";
 
 const DRAFT_PREFIX = "speaking:draft:";
 const SUBMISSION_PREFIX = "speaking:submission:";

@@ -7,14 +7,15 @@ import {
   saveCorrections,
   isTaskComplete,
   setTaskComplete,
+  clearTaskComplete,
 } from "../services/progress";
 import { CorrectionDrill } from "./CorrectionDrill";
 import {
   upsertPendingSubmission,
   getPendingByLesson,
   removePendingSubmission,
-  PendingWritingSubmission,
 } from "../services/offlineQueue";
+import type { PendingWritingSubmission } from "../services/offlineQueue";
 
 const DRAFT_PREFIX = "writing:draft:";
 const SUBMISSION_PREFIX = "writing:submission:";
@@ -77,7 +78,7 @@ export function WritingTab({ lessonId }: WritingTabProps) {
   const prevCorrections = useMemo(() => loadCorrections(lessonId - 1), [lessonId]);
   const isFirstLesson = lessonId === 1;
 
-  // Load any pending submission for this lesson
+  // Load pending submission
   useEffect(() => {
     const loadPending = async () => {
       const pendings = await getPendingByLesson(lessonId);
@@ -86,7 +87,6 @@ export function WritingTab({ lessonId }: WritingTabProps) {
       ) as PendingWritingSubmission | undefined;
       if (writingPending) {
         setPendingItem(writingPending);
-        // If no draft and no submission, set draft to pending text (so user can see it)
         if (!draft && !submission && writingPending.text) {
           setDraft(writingPending.text);
           setWordCount(countWords(writingPending.text));
@@ -97,7 +97,7 @@ export function WritingTab({ lessonId }: WritingTabProps) {
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [lessonId]);
 
-  // Restore submission from localStorage on mount
+  // Restore submission from localStorage
   useEffect(() => {
     if (submission) {
       setErrors(submission.corrections || []);
@@ -105,6 +105,7 @@ export function WritingTab({ lessonId }: WritingTabProps) {
     }
   }, [submission]);
 
+  // Timer logic (unchanged)
   useEffect(() => {
     if (!task || task.time_allocation_minutes == null) {
       setTimeLeft(null);
@@ -187,13 +188,11 @@ export function WritingTab({ lessonId }: WritingTabProps) {
       setTaskComplete(lessonId, "writing");
       setCompleted(true);
 
-      // If there was a pending item, remove it
       if (pendingItem) {
         await removePendingSubmission(pendingItem.id);
         setPendingItem(null);
       }
     } catch (err) {
-      // Save to local queue – replace any existing pending
       try {
         const pending: PendingWritingSubmission = {
           id: `writing-${lessonId}-${Date.now()}`,
@@ -229,6 +228,31 @@ export function WritingTab({ lessonId }: WritingTabProps) {
     setError(null);
   };
 
+  // ----- NEW: Redo Writing -----
+  const handleRedoWriting = async () => {
+    // 1. Clear task completion
+    clearTaskComplete(lessonId, "writing");
+    setCompleted(false);
+
+    // 2. Remove submission from localStorage
+    localStorage.removeItem(`${SUBMISSION_PREFIX}${lessonId}`);
+    setSubmission(null);
+
+    // 3. Remove any pending item
+    if (pendingItem) {
+      await removePendingSubmission(pendingItem.id);
+      setPendingItem(null);
+    }
+
+    // 4. Reset UI to "idle" state (keep draft as is so user can modify)
+    setErrors([]);
+    setShowCorrections(false);
+    setError(null);
+    // Optionally reset timer? Not necessary, but we can reset timeLeft if needed.
+    // We'll keep the timer as is, but user can restart it.
+  };
+
+  // Highlight function (unchanged)
   const buildHighlightedText = (text: string, errs: WritingError[]): React.ReactNode[] => {
     const segments: { type: "text" | "error"; content: string; error?: WritingError }[] = [];
     let searchFrom = 0;
@@ -257,7 +281,7 @@ export function WritingTab({ lessonId }: WritingTabProps) {
     });
   };
 
-  // ---------- Correction gate (must fix yesterday before today) ----------
+  // Correction gate (must fix yesterday before today)
   if (!isFirstLesson && hasPrevPending && !submission) {
     return (
       <div className="space-y-4">
@@ -273,7 +297,7 @@ export function WritingTab({ lessonId }: WritingTabProps) {
     );
   }
 
-  // ---------- Corrections from today's submission ----------
+  // Corrections view
   if (submission && showCorrections) {
     return (
       <div className="space-y-6">
@@ -315,22 +339,32 @@ export function WritingTab({ lessonId }: WritingTabProps) {
 
         {errors.length === 0 && <p className="text-sm font-semibold text-emerald-700">No errors detected. Great job.</p>}
 
-        {!completed && (
+        <div className="flex flex-wrap gap-3">
+          {!completed && (
+            <button
+              onClick={() => {
+                setTaskComplete(lessonId, "writing");
+                setCompleted(true);
+              }}
+              className="button-primary"
+            >
+              Mark writing as complete
+            </button>
+          )}
+          {/* NEW: Redo Writing button */}
           <button
-            onClick={() => {
-              setTaskComplete(lessonId, "writing");
-              setCompleted(true);
-            }}
-            className="button-primary"
+            onClick={handleRedoWriting}
+            className="border border-amber-300 bg-amber-50 px-4 py-2 text-sm font-semibold text-amber-700 hover:bg-amber-100 rounded-md"
+            type="button"
           >
-            Mark writing as complete
+            Redo Writing
           </button>
-        )}
+        </div>
       </div>
     );
   }
 
-  // ---------- Writing task screen ----------
+  // Writing task screen (idle / drafting)
   return (
     <div className="space-y-5">
       <div className="rounded-lg border border-stone-200 bg-stone-50 p-4">

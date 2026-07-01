@@ -1,5 +1,6 @@
 // src/services/offlineQueue.ts
-import { openDB, IDBPDatabase } from 'idb';
+import { openDB } from 'idb';
+import type { IDBPDatabase } from 'idb';
 
 export interface PendingWritingSubmission {
   id: string;
