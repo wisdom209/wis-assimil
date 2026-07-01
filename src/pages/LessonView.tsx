@@ -1,4 +1,6 @@
 import { useState, useEffect } from "react"; // Added useEffect
+import { WritingTab } from "../components/WritingTab";
+import { SpeakingTab } from "../components/SpeakingTab";
 import { useParams, useNavigate } from "react-router-dom";
 import type { Lesson, DialogueLine, Note, NewWord, TranslateExercise as TranslateExerciseType, FillExercise as FillExerciseType } from "../types";
 import { lessons } from "../data/lessons";
@@ -9,7 +11,7 @@ import { FillExercise } from "../components/FillExercise";
 import { Extras } from "../components/Extras";
 import { loadProgress, toggleLessonComplete } from "../services/progress";
 
-type Tab = "listen" | "study" | "words" | "translate" | "complete" | "extras";
+type Tab = "listen" | "study" | "words" | "translate" | "complete" | "writing" | "speaking" | "extras";
 
 export function LessonView() {
   const { id } = useParams<{ id: string }>();
@@ -18,10 +20,10 @@ export function LessonView() {
   const lesson = lessons.find((l: Lesson) => l.id === lessonId);
   const [activeTab, setActiveTab] = useState<Tab>("listen");
   const [progress, setProgress] = useState(loadProgress());
-  
+
   // 1. Add state for the English toggle
-  const [showEnglish, setShowEnglish] = useState(false); 
-  
+  const [showEnglish, setShowEnglish] = useState(false);
+
   const currentIndex = lessons.findIndex((l: Lesson) => l.id === lessonId);
 
   // 2. Reset the toggle when navigating to a different lesson
@@ -113,7 +115,7 @@ export function LessonView() {
                         {line.pronunciation && (
                           <p className="mt-1 text-sm italic text-slate-500">[{line.pronunciation}]</p>
                         )}
-                        
+
                         {/* 4. Conditionally render the English translation */}
                         {showEnglish && (
                           <p className="mt-1 text-sm leading-6 text-slate-700">{line.english}</p>
@@ -142,6 +144,10 @@ export function LessonView() {
             )}
           </div>
         );
+	  case "writing":
+        return <WritingTab lessonId={lessonId} />;
+      case "speaking":
+        return <SpeakingTab lessonId={lessonId} />;
       case "words":
         return (
           <div>
@@ -194,6 +200,8 @@ export function LessonView() {
     { key: "translate", label: "Translations" },
     { key: "complete", label: "Complete" },
     { key: "extras", label: "Extras" },
+	{ key: "writing", label: "Writing" },
+    { key: "speaking", label: "Speaking" },
   ];
 
   const visibleTabs = isRevision

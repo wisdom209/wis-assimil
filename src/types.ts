@@ -58,3 +58,65 @@ export interface Lesson {
   exercises: Exercises;
   extras: Extra[];
 }
+
+export interface WritingTaskData {
+  lesson_id: number;
+  title: string;
+  phase: string;
+  writing_task_type: string;
+  grammar_focus: string;
+  word_count_target: string;
+  task_description: string;
+  time_allocation_minutes: number | null;
+}
+
+export interface SpeakingTaskDetail {
+  type: string;
+  description: string;
+  duration_minutes: number;
+  recording_required: boolean;
+  instructions: string;
+  focus_points: string[];
+  questions?: string[];
+  prompt?: string;
+  topic?: string;
+}
+
+export interface SpeakingTaskData {
+  lesson_id: number;
+  title: string;
+  speaking_task: SpeakingTaskDetail;
+}
+
+export interface WritingError {
+  original: string;
+  corrected: string;
+  explanation: string;
+  category: string;
+}
+
+export interface WritingSubmission {
+  text: string;
+  wordCount: number;
+  timestamp: number;
+  corrections: WritingError[];
+}
+
+export interface CorrectionItem {
+  id: string;
+  original: string;
+  corrected: string;
+  explanation: string;
+  status: "pending" | "drilling" | "mastered";
+  drillSentence?: string;
+  drillCorrect?: string;
+}
+
+export interface SpeakingSubmission {
+  audioUrl: string;
+  publicId?: string;
+  timestamp: number;
+  durationSeconds: number;
+  transcript?: string;
+  aiFeedback?: string;
+}
