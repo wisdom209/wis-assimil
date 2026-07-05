@@ -11,6 +11,15 @@ export default [
   js.configs.recommended,
   ...tseslint.configs.recommended,
   {
+    files: ['api/**/*.mjs', 'scripts/**/*.mjs'],
+    languageOptions: {
+      globals: {
+        ...globals.node,
+        ...globals.browser,
+      },
+    },
+  },
+  {
     files: ['**/*.{ts,tsx}'],
     plugins: {
       'react-hooks': reactHooks,

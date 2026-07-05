@@ -24,12 +24,62 @@ export function LessonView() {
   // 1. Add state for the English toggle
   const [showEnglish, setShowEnglish] = useState(false);
 
+  // Transcript fixing states
+  const [useFixed, setUseFixed] = useState(false);
+  const [fixedDialogue, setFixedDialogue] = useState<DialogueLine[] | null>(null);
+  const [fixing, setFixing] = useState(false);
+  const [fixError, setFixError] = useState<string | null>(null);
+
   const currentIndex = lessons.findIndex((l: Lesson) => l.id === lessonId);
 
   // 2. Reset the toggle when navigating to a different lesson
   useEffect(() => {
     setShowEnglish(false);
   }, [lessonId]);
+
+  // Load fixed transcript from localStorage on lessonId change
+  useEffect(() => {
+    const stored = localStorage.getItem(`fixed_transcript_${lessonId}`);
+    if (stored) {
+      try {
+        setFixedDialogue(JSON.parse(stored));
+        setUseFixed(true);
+      } catch {
+        setFixedDialogue(null);
+        setUseFixed(false);
+      }
+    } else {
+      setFixedDialogue(null);
+      setUseFixed(false);
+    }
+    setFixError(null);
+  }, [lessonId]);
+
+  const handleFixTranscript = async () => {
+    if (!lesson) return;
+    setFixing(true);
+    setFixError(null);
+    try {
+      const res = await fetch("/api/fix-transcript", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ dialogue: lesson.dialogue }),
+      });
+      if (!res.ok) throw new Error("Failed to fix transcript");
+      const data = await res.json() as { corrected: string[] };
+      const correctedDialogue = lesson.dialogue.map((line, idx) => ({
+        ...line,
+        french: data.corrected[idx] || line.french,
+      }));
+      localStorage.setItem(`fixed_transcript_${lessonId}`, JSON.stringify(correctedDialogue));
+      setFixedDialogue(correctedDialogue);
+      setUseFixed(true);
+    } catch (err: any) {
+      setFixError(err.message || "Error fixing transcript");
+    } finally {
+      setFixing(false);
+    }
+  };
 
   if (!lesson) {
     return (
@@ -90,8 +140,26 @@ export function LessonView() {
               </div>
             ) : (
               <div>
-                {/* 3. Add the Toggle Button */}
-                <div className="mb-4 flex items-center justify-end">
+                {/* 3. Add the Toggle Buttons */}
+                <div className="mb-4 flex items-center justify-end gap-2 flex-wrap">
+                  {fixedDialogue ? (
+                    <button
+                      onClick={() => setUseFixed(!useFixed)}
+                      className="inline-flex items-center gap-2 rounded-md border border-stone-200 bg-stone-50 px-3 py-1.5 text-xs font-semibold text-slate-700 transition hover:bg-stone-100"
+                    >
+                      <span className={`h-2 w-2 rounded-full transition-colors ${useFixed ? 'bg-emerald-500' : 'bg-slate-300'}`}></span>
+                      {useFixed ? "Use Original" : "Use AI Fixed"}
+                    </button>
+                  ) : (
+                    <button
+                      onClick={handleFixTranscript}
+                      disabled={fixing}
+                      className="inline-flex items-center gap-2 rounded-md border border-rose-200 bg-rose-50 px-3 py-1.5 text-xs font-semibold text-rose-700 transition hover:bg-rose-100 disabled:opacity-50"
+                    >
+                      {fixing ? "Fixing Typos..." : "Fix Transcript (AI)"}
+                    </button>
+                  )}
+
                   <button
                     onClick={() => setShowEnglish(!showEnglish)}
                     className="inline-flex items-center gap-2 rounded-md border border-stone-200 bg-stone-50 px-3 py-1.5 text-xs font-semibold text-slate-700 transition hover:bg-stone-100"
@@ -100,8 +168,11 @@ export function LessonView() {
                     {showEnglish ? "Hide English" : "Show English"}
                   </button>
                 </div>
+                {fixError && (
+                  <p className="mb-2 text-right text-xs text-rose-600">{fixError}</p>
+                )}
 
-                {lesson.dialogue.map((line: DialogueLine, idx: number) => (
+                {(useFixed && fixedDialogue ? fixedDialogue : lesson.dialogue).map((line: DialogueLine, idx: number) => (
                   <div key={idx} className="border-b border-stone-100 py-4 last:border-0">
                     <div className="flex items-start gap-2">
                       <span className="mt-1 inline-flex h-7 w-7 shrink-0 items-center justify-center rounded-md bg-stone-100 font-mono text-xs font-bold text-rose-700">

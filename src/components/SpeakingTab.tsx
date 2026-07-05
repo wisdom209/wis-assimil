@@ -9,6 +9,9 @@ import {
   removePendingSubmission,
 } from "../services/offlineQueue";
 import type { PendingSpeakingSubmission } from "../services/offlineQueue";
+import { lessons } from "../data/lessons";
+import { storeAudioBlob, getAudioBlob, deleteAudioBlob } from "../services/audioStorage";
+import { TTSButton } from "./TTSButton";
 
 const DRAFT_PREFIX = "speaking:draft:";
 const SUBMISSION_PREFIX = "speaking:submission:";
@@ -36,6 +39,13 @@ export function SpeakingTab({ lessonId }: SpeakingTabProps) {
     }
     return null;
   });
+  const [submittedAudioUrl, setSubmittedAudioUrl] = useState<string | null>(null);
+  const [isDialogueModalOpen, setIsDialogueModalOpen] = useState(false);
+  const [showModalEnglish, setShowModalEnglish] = useState(false);
+
+  const lesson = useMemo(() => lessons.find((l) => l.id === lessonId), [lessonId]);
+  const dialogue = useMemo(() => lesson?.dialogue || [], [lesson]);
+
   const [duration, setDuration] = useState(0);
   const [timeLeft, setTimeLeft] = useState<number | null>(null);
   const [timerActive, setTimerActive] = useState(false);
@@ -47,11 +57,41 @@ export function SpeakingTab({ lessonId }: SpeakingTabProps) {
   const [pendingItem, setPendingItem] = useState<PendingSpeakingSubmission | null>(null);
   const [retrying, setRetrying] = useState(false);
 
+  // Resolve indexeddb: URLs for the submission audio
+  useEffect(() => {
+    let active = true;
+    let url: string | null = null;
+
+    if (submission?.audioUrl) {
+      if (submission.audioUrl.startsWith("indexeddb:")) {
+        const key = submission.audioUrl.replace("indexeddb:", "");
+        getAudioBlob(key).then((blob) => {
+          if (active && blob) {
+            url = URL.createObjectURL(blob);
+            setSubmittedAudioUrl(url);
+          }
+        });
+      } else {
+        setSubmittedAudioUrl(submission.audioUrl);
+      }
+    } else {
+      setSubmittedAudioUrl(null);
+    }
+
+    return () => {
+      active = false;
+      if (url) {
+        URL.revokeObjectURL(url);
+      }
+    };
+  }, [submission]);
+
   const mediaRecorderRef = useRef<MediaRecorder | null>(null);
   const chunksRef = useRef<Blob[]>([]);
   // eslint-disable-next-line @typescript-eslint/no-explicit-any
   const recognitionRef = useRef<any>(null);
   const timerRef = useRef<number | null>(null);
+  const streamRef = useRef<MediaStream | null>(null);
 
   const maxDuration = useMemo(() => task?.speaking_task.duration_minutes ?? 5, [task]);
 
@@ -90,6 +130,31 @@ export function SpeakingTab({ lessonId }: SpeakingTabProps) {
   useEffect(() => {
     return () => {
       if (timerRef.current) clearInterval(timerRef.current);
+      if (mediaRecorderRef.current) {
+        mediaRecorderRef.current.onstop = null;
+        if (mediaRecorderRef.current.state !== "inactive") {
+          try {
+            mediaRecorderRef.current.stop();
+          } catch {
+            // Safe ignore if already stopped or failed
+          }
+        }
+      }
+      if (streamRef.current) {
+        try {
+          streamRef.current.getTracks().forEach((t) => t.stop());
+        } catch {
+          // Safe ignore if track stopping fails
+        }
+        streamRef.current = null;
+      }
+      if (recognitionRef.current) {
+        try {
+          recognitionRef.current.stop();
+        } catch {
+          // Safe ignore if speech recognition stopping fails
+        }
+      }
     };
   }, []);
 
@@ -102,6 +167,7 @@ export function SpeakingTab({ lessonId }: SpeakingTabProps) {
   const startRecording = async () => {
     try {
       const stream = await navigator.mediaDevices.getUserMedia({ audio: true });
+      streamRef.current = stream;
       const mimeType = MediaRecorder.isTypeSupported("audio/webm;codecs=opus")
         ? "audio/webm;codecs=opus"
         : MediaRecorder.isTypeSupported("audio/mp4")
@@ -121,7 +187,8 @@ export function SpeakingTab({ lessonId }: SpeakingTabProps) {
         const url = URL.createObjectURL(blob);
         setAudioBlobUrl(url);
         setStatus("review");
-        stream.getTracks().forEach((t) => t.stop());
+        streamRef.current?.getTracks().forEach((t) => t.stop());
+        streamRef.current = null;
         if (timerRef.current) clearInterval(timerRef.current);
       };
 
@@ -198,36 +265,11 @@ export function SpeakingTab({ lessonId }: SpeakingTabProps) {
     setLoading(true);
     setError(null);
     try {
-      const sigRes = await fetch("/api/cloudinary-signature", { method: "POST" });
-      if (!sigRes.ok) throw new Error("Could not prepare upload. Check Cloudinary configuration.");
-      const { signature, timestamp, apiKey, cloudName, folder } = (await sigRes.json()) as {
-        signature: string;
-        timestamp: number;
-        apiKey: string;
-        cloudName: string;
-        folder: string;
-      };
-
-      const form = new FormData();
-      form.append("file", blob, `speaking-${lessonId}.webm`);
-      form.append("api_key", apiKey);
-      form.append("timestamp", String(timestamp));
-      form.append("signature", signature);
-      form.append("folder", folder);
-
-      const uploadRes = await fetch(`https://api.cloudinary.com/v1_1/${cloudName}/video/upload`, {
-        method: "POST",
-        body: form,
-      });
-      if (!uploadRes.ok) {
-        const txt = await uploadRes.text();
-        throw new Error(txt || "Upload failed");
-      }
-      const data = (await uploadRes.json()) as { secure_url: string; public_id: string };
+      const audioKey = `speaking-audio-${lessonId}`;
+      await storeAudioBlob(audioKey, blob);
 
       const sub: SpeakingSubmission = {
-        audioUrl: data.secure_url,
-        publicId: data.public_id,
+        audioUrl: `indexeddb:${audioKey}`,
         timestamp: Date.now(),
         durationSeconds: durationSec,
         transcript: transcriptText,
@@ -264,29 +306,8 @@ export function SpeakingTab({ lessonId }: SpeakingTabProps) {
       if (typeof localStorage !== "undefined") {
         localStorage.removeItem(`${DRAFT_PREFIX}${lessonId}`);
       }
-    } catch (err) {
-      // Save locally – replace any existing pending
-      try {
-        const pending: PendingSpeakingSubmission = {
-          id: `speaking-${lessonId}-${Date.now()}`,
-          lessonId,
-          type: "speaking",
-          audioBlob: blob,
-          transcript: transcriptText,
-          durationSeconds: durationSec,
-          status: "pending",
-          createdAt: Date.now(),
-        };
-        await upsertPendingSubmission(pending);
-        setPendingItem(pending);
-        setError("Upload failed. Recording saved locally. You can retry or submit again.");
-        // Keep the blob URL for preview
-        const url = URL.createObjectURL(blob);
-        setAudioBlobUrl(url);
-        setStatus("review");
-      } catch (queueErr) {
-        setError("Upload failed and could not be saved locally. Please try again.");
-      }
+    } catch (err: any) {
+      setError(`Failed to save recording locally: ${err.message || err}`);
     } finally {
       setLoading(false);
     }
@@ -342,6 +363,9 @@ export function SpeakingTab({ lessonId }: SpeakingTabProps) {
       await removePendingSubmission(pendingItem.id);
       setPendingItem(null);
     }
+
+    // Delete IndexedDB audio file
+    await deleteAudioBlob(`speaking-audio-${lessonId}`);
 
     // Reset UI to idle
     if (audioBlobUrl) {
@@ -399,6 +423,17 @@ export function SpeakingTab({ lessonId }: SpeakingTabProps) {
         {t.topic && (
           <div className="mt-3 rounded-md bg-indigo-50 p-3 text-sm leading-6 text-indigo-800">
             <strong>Topic:</strong> {t.topic}
+          </div>
+        )}
+        {dialogue.length > 0 && (
+          <div className="mt-4 pt-3 border-t border-stone-200 flex justify-end">
+            <button
+              onClick={() => setIsDialogueModalOpen(true)}
+              className="inline-flex items-center gap-2 rounded-md border border-rose-200 bg-rose-50 px-3 py-1.5 text-xs font-semibold text-rose-700 transition hover:bg-rose-100"
+              type="button"
+            >
+              📖 Read Aloud / View Dialogue
+            </button>
           </div>
         )}
       </div>
@@ -520,10 +555,10 @@ export function SpeakingTab({ lessonId }: SpeakingTabProps) {
             </p>
           </div>
 
-          {submission.audioUrl && (
+          {submittedAudioUrl && (
             <div className="rounded-lg border border-stone-200 bg-white p-4">
               <p className="text-xs font-semibold uppercase tracking-wide text-slate-500">Recording</p>
-              <audio controls src={submission.audioUrl} className="mt-2 w-full" />
+              <audio controls src={submittedAudioUrl} className="mt-2 w-full" />
               {submission.publicId && <p className="mt-1 truncate text-xs text-slate-500">ID: {submission.publicId}</p>}
             </div>
           )}
@@ -562,6 +597,66 @@ export function SpeakingTab({ lessonId }: SpeakingTabProps) {
             >
               Redo Recording
             </button>
+          </div>
+        </div>
+      )}
+
+      {/* Dialogue Modal */}
+      {isDialogueModalOpen && (
+        <div className="fixed inset-0 z-50 flex items-center justify-center bg-slate-900/60 p-4 backdrop-blur-sm">
+          <div className="flex h-full max-h-[85vh] w-full max-w-2xl flex-col rounded-xl border border-stone-200 bg-white shadow-2xl">
+            {/* Modal Header */}
+            <div className="flex items-center justify-between border-b border-stone-100 px-6 py-4">
+              <h3 className="text-lg font-bold text-slate-950">Dialogue - Lesson {lessonId}</h3>
+              <div className="flex items-center gap-3">
+                <button
+                  onClick={() => setShowModalEnglish(!showModalEnglish)}
+                  className="rounded-md border border-stone-200 bg-stone-50 px-3 py-1.5 text-xs font-semibold text-slate-700 transition hover:bg-stone-100"
+                >
+                  {showModalEnglish ? "Hide English" : "Show English"}
+                </button>
+                <button
+                  onClick={() => setIsDialogueModalOpen(false)}
+                  className="text-slate-400 hover:text-slate-600 font-semibold text-lg"
+                  aria-label="Close dialogue modal"
+                >
+                  ✕
+                </button>
+              </div>
+            </div>
+            {/* Modal Body */}
+            <div className="flex-1 overflow-y-auto px-6 py-4 space-y-4">
+              {dialogue.map((line, idx) => (
+                <div key={idx} className="border-b border-stone-50 pb-3 last:border-0 last:pb-0">
+                  <div className="flex items-start gap-2">
+                    <span className="mt-1 inline-flex h-6 w-6 shrink-0 items-center justify-center rounded bg-stone-100 font-mono text-xs font-bold text-rose-700">
+                      {line.speaker}
+                    </span>
+                    <div className="flex-1">
+                      <div className="flex items-start justify-between gap-2">
+                        <span className="text-base font-semibold leading-6 text-slate-950">{line.french}</span>
+                        <TTSButton text={line.french} />
+                      </div>
+                      {line.pronunciation && (
+                        <p className="mt-0.5 text-xs italic text-slate-500">[{line.pronunciation}]</p>
+                      )}
+                      {showModalEnglish && (
+                        <p className="mt-0.5 text-xs leading-5 text-slate-600">{line.english}</p>
+                      )}
+                    </div>
+                  </div>
+                </div>
+              ))}
+            </div>
+            {/* Modal Footer */}
+            <div className="border-t border-stone-100 px-6 py-3 flex justify-end">
+              <button
+                onClick={() => setIsDialogueModalOpen(false)}
+                className="button-secondary"
+              >
+                Close
+              </button>
+            </div>
           </div>
         </div>
       )}

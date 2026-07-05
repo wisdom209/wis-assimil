@@ -12,24 +12,50 @@ export function AudioPlayer({ audioFile, audioUrl, textForTTS }: AudioPlayerProp
   const [isPlaying, setIsPlaying] = useState(false);
   const audioRef = useRef<HTMLAudioElement | null>(null);
   const utteranceRef = useRef<SpeechSynthesisUtterance | null>(null);
+  const voiceRssAudioRef = useRef<HTMLAudioElement | null>(null);
   const streamingUrl = audioUrl || (AUDIO_BASE_URL ? new URL(audioFile, AUDIO_BASE_URL).toString() : "");
 
   const playTTS = () => {
-    if (!window.speechSynthesis) {
-      return;
+    if (voiceRssAudioRef.current) {
+      voiceRssAudioRef.current.pause();
+      voiceRssAudioRef.current = null;
     }
-
-    if (utteranceRef.current) {
+    if (window.speechSynthesis) {
       window.speechSynthesis.cancel();
     }
-    const utterance = new SpeechSynthesisUtterance(textForTTS);
-    utterance.lang = "fr-FR";
-    utterance.rate = 0.9;
-    utterance.onstart = () => setIsPlaying(true);
-    utterance.onend = () => setIsPlaying(false);
-    utterance.onerror = () => setIsPlaying(false);
-    window.speechSynthesis.speak(utterance);
-    utteranceRef.current = utterance;
+
+    const fallbackToWebTTS = () => {
+      if (!window.speechSynthesis) {
+        setIsPlaying(false);
+        return;
+      }
+      const utterance = new SpeechSynthesisUtterance(textForTTS);
+      utterance.lang = "fr-FR";
+      utterance.rate = 0.9;
+      utterance.onstart = () => setIsPlaying(true);
+      utterance.onend = () => setIsPlaying(false);
+      utterance.onerror = () => setIsPlaying(false);
+      window.speechSynthesis.speak(utterance);
+      utteranceRef.current = utterance;
+    };
+
+    // Try VoiceRSS first
+    const audio = new Audio(`/api/tts?text=${encodeURIComponent(textForTTS)}`);
+    voiceRssAudioRef.current = audio;
+    audio.onended = () => {
+      setIsPlaying(false);
+      voiceRssAudioRef.current = null;
+    };
+    audio.onerror = () => {
+      console.warn("VoiceRSS failed, falling back to Web TTS");
+      voiceRssAudioRef.current = null;
+      fallbackToWebTTS();
+    };
+    audio.play().catch((err) => {
+      console.warn("VoiceRSS play failed, falling back to Web TTS", err);
+      voiceRssAudioRef.current = null;
+      fallbackToWebTTS();
+    });
   };
 
   const playAudio = () => {
@@ -60,6 +86,10 @@ export function AudioPlayer({ audioFile, audioUrl, textForTTS }: AudioPlayerProp
     if (audio) {
       audio.pause();
       audio.currentTime = 0;
+    }
+    if (voiceRssAudioRef.current) {
+      voiceRssAudioRef.current.pause();
+      voiceRssAudioRef.current = null;
     }
     if (window.speechSynthesis) {
       window.speechSynthesis.cancel();

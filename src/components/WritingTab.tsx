@@ -74,9 +74,13 @@ export function WritingTab({ lessonId }: WritingTabProps) {
     return parseWordCountTarget(task.word_count_target);
   }, [task]);
 
-  const hasPrevPending = useMemo(() => hasPendingCorrections(lessonId - 1), [lessonId]);
+  const [hasPrevPending, setHasPrevPending] = useState(() => hasPendingCorrections(lessonId - 1));
   const prevCorrections = useMemo(() => loadCorrections(lessonId - 1), [lessonId]);
   const isFirstLesson = lessonId === 1;
+
+  useEffect(() => {
+    setHasPrevPending(hasPendingCorrections(lessonId - 1));
+  }, [lessonId]);
 
   // Load pending submission
   useEffect(() => {
@@ -192,7 +196,7 @@ export function WritingTab({ lessonId }: WritingTabProps) {
         await removePendingSubmission(pendingItem.id);
         setPendingItem(null);
       }
-    } catch (err) {
+    } catch {
       try {
         const pending: PendingWritingSubmission = {
           id: `writing-${lessonId}-${Date.now()}`,
@@ -205,7 +209,7 @@ export function WritingTab({ lessonId }: WritingTabProps) {
         await upsertPendingSubmission(pending);
         setPendingItem(pending);
         setError("Submission failed. It has been saved locally. You can retry or submit again.");
-      } catch (queueErr) {
+      } catch {
         setError("Submission failed and could not be saved locally. Please try again.");
       }
     } finally {
@@ -292,7 +296,7 @@ export function WritingTab({ lessonId }: WritingTabProps) {
             lesson {lessonId - 1}. Master them before starting today's writing task.
           </p>
         </div>
-        <CorrectionDrill lessonId={lessonId - 1} corrections={prevCorrections} onAllMastered={() => {}} />
+        <CorrectionDrill lessonId={lessonId - 1} corrections={prevCorrections} onAllMastered={() => setHasPrevPending(false)} />
       </div>
     );
   }
