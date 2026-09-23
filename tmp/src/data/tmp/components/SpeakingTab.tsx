@@ -4,7 +4,7 @@ import type { SpeakingSubmission } from "../types";
 import { getSpeakingTaskForLesson } from "../data/speaking";
 import { setTaskComplete, isTaskComplete, clearTaskComplete } from "../services/progress";
 import {
-  upsertPendingSubmission,
+  // upsertPendingSubmission,
   getPendingByLesson,
   removePendingSubmission,
 } from "../services/offlineQueue";

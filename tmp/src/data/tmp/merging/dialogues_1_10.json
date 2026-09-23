@@ -1,0 +1,472 @@
+[
+  {
+    "lesson_id": 1,
+    "dialogue": [
+      {
+        "speaker": 1,
+        "french": "Bonjour Jeanne, comment allez-vous ?",
+        "english": "Hello Jeanne, how are you (how go you)?",
+        "pronunciation": "boh-zhoor zhahn, koh-mah-tah-lay voo"
+      },
+      {
+        "speaker": 2,
+        "french": "Bien, et vous ?",
+        "english": "Well, and you?",
+        "pronunciation": "byah ay voo"
+      },
+      {
+        "speaker": 3,
+        "french": "Ça va très bien, merci.",
+        "english": "(It goes) Very well, thanks.",
+        "pronunciation": "sah-vah tray byah, mair-see"
+      },
+      {
+        "speaker": 4,
+        "french": "Je vous présente ma fille, Chloé.",
+        "english": "Let me introduce (I present you) my daughter, Chloe.",
+        "pronunciation": "zhuh voo pray-zah-tuh ma fee, klo-ay"
+      },
+      {
+        "speaker": 5,
+        "french": "Bonjour, Chloé. Comment ça va ?",
+        "english": "Hello, Chloe. How are you (it goes)?",
+        "pronunciation": "boh-zhoor klo-ay, koh-mah sah vah"
+      }
+    ]
+  },
+  {
+    "lesson_id": 2,
+    "dialogue": [
+      {
+        "speaker": 1,
+        "french": "Monsieur, madame, vous désirez ?",
+        "english": "Sir, Madam, [what] would you like (you desire)?",
+        "pronunciation": "muh-syuh, mah-dahm, voo day-zee-ray"
+      },
+      {
+        "speaker": 2,
+        "french": "Deux cafés et deux croissants, s'il vous plaît.",
+        "english": "Two coffees and two croissants, please (if it pleases you).",
+        "pronunciation": "duh kah-fay ay duh krwah-sah, seel voo play"
+      },
+      {
+        "speaker": 3,
+        "french": "Non, je préfère une tartine beurrée pour le petit-déjeuner.",
+        "english": "No, I prefer a slice of buttered bread for (the) breakfast.",
+        "pronunciation": "noh, zhuh pray-fair ewn tar-teen buh-ray poor luh puh-tee day-zhuh-nay"
+      },
+      {
+        "speaker": 4,
+        "french": "Donc, deux_expressos, un croissant et une tartine ?",
+        "english": "So, two espressos, one croissant and one slice of buttered bread?",
+        "pronunciation": "dohk, duhz-ex-pray-so, uh krwah-sah ay ewn tar-teen"
+      },
+      {
+        "speaker": 5,
+        "french": "Oui, c'est ça. Le croissant est pour moi et la tartine pour elle.",
+        "english": "Yes, that's right (this is it). The croissant is for me and the bread for her.",
+        "pronunciation": "wee, say sah. Luh krwah-sah ay poor mwah ay la tar-teen poor el"
+      }
+    ]
+  },
+  {
+    "lesson_id": 3,
+    "dialogue": [
+      {
+        "speaker": 1,
+        "french": "Je me présente : je m'appelle Sophie Mercier.",
+        "english": "[Let me] introduce myself (I introduce me): I am (I call myself) Sophie Mercier.",
+        "pronunciation": "zhuh muh pray-zah-tuh : zhuh mah-pel soh-fee mair-syay"
+      },
+      {
+        "speaker": 2,
+        "french": "Et voici mon ami Loïc Le Gall. Il est breton.",
+        "english": "And here is my friend Loic Le Gall. He is Breton.",
+        "pronunciation": "ay vwah-see moh-nah-mee lo-eek luh gal. Eel ay bruh-toh"
+      },
+      {
+        "speaker": 3,
+        "french": "Et vous, êtes-vous bretonne aussi ?",
+        "english": "And you, are you Breton, too?",
+        "pronunciation": "ay voo, et-voo bruh-ton oh-see"
+      },
+      {
+        "speaker": 4,
+        "french": "Pas du tout, je suis de Nîmes, dans le Midi de la France.",
+        "english": "Not at all, I am from Nîmes, in the south of France.",
+        "pronunciation": "pah dew too, zhuh swee duh neem, dah luh mee-dee duh la frah-suh"
+      },
+      {
+        "speaker": 5,
+        "french": "Mais maintenant nous sommes parisiens.",
+        "english": "But now we are Parisians.",
+        "pronunciation": "may mah-tuh-nah noo som pah-ree-zyah"
+      }
+    ]
+  },
+  {
+    "lesson_id": 4,
+    "dialogue": [
+      {
+        "speaker": 1,
+        "french": "Pardon, est-ce que vous avez l'heure ?",
+        "english": "Excuse me (pardon), do you have the time (hour)?",
+        "pronunciation": "par-doh, es-kuh voo-zah-vay luhr"
+      },
+      {
+        "speaker": 2,
+        "french": "Je n'ai pas de montre mais je pense qu'il est midi dix.",
+        "english": "I don't have a watch, but I think (that) it is ten past noon (noon ten).",
+        "pronunciation": "zhuh nay pah duh moh-truh may zhuh pah-suh keel ay mee-dee dees"
+      },
+      {
+        "speaker": 3,
+        "french": "Mais comment le savez-vous ?",
+        "english": "But how do you know that (how it you know)?",
+        "pronunciation": "may koh-mah luh sah-vay voo"
+      },
+      {
+        "speaker": 4,
+        "french": "Parce que j'ai rendez-vous avec ma femme à midi...",
+        "english": "Because I'm meeting (I have an appointment with) my wife at noon...",
+        "pronunciation": "pars-kuh zhay roh-day-voo ah-vek ma fam ah mee-dee"
+      },
+      {
+        "speaker": 5,
+        "french": "... et elle a toujours dix minutes de retard !",
+        "english": "... and she is (has) always ten minutes (of) late!",
+        "pronunciation": "ay el ah too-zhoor dees mee-newt duh ruh-tar"
+      }
+    ]
+  },
+  {
+    "lesson_id": 5,
+    "dialogue": [
+      {
+        "speaker": 1,
+        "french": "Excusez-moi, je cherche le métro Saint-Michel.",
+        "english": "Excuse me, I [am] look[ing] for the Saint-Michel metro [station].",
+        "pronunciation": "ex-kew-zay mwah, zhuh shersh luh may-troh sah-mee-shel"
+      },
+      {
+        "speaker": 2,
+        "french": "Désolée, madame, je ne suis pas d'ici.",
+        "english": "Sorry, madam, I'm not from here.",
+        "pronunciation": "day-zoh-lay, mah-dahm, zhuh nuh swee pah dee-see"
+      },
+      {
+        "speaker": 3,
+        "french": "Mais attendez une minute, j'ai un plan de la ville.",
+        "english": "But wait a minute, I have a map of the city.",
+        "pronunciation": "may ah-tah-day ewn mee-newt, zhay uh plah duh la veel"
+      },
+      {
+        "speaker": 4,
+        "french": "Voilà : traversez le boulevard et tournez à gauche à la fontaine.",
+        "english": "Here [we are]: cross the boulevard and turn (to) left at the fountain.",
+        "pronunciation": "vwah-lah : trah-ver-say luh bool-uh-var ay toor-nay ah gohsh ah la foh-tayn"
+      },
+      {
+        "speaker": 5,
+        "french": "Merci beaucoup pour votre aide !",
+        "english": "Thanks very much (a lot) for your help!",
+        "pronunciation": "mair-see boh-koo poor votr ed"
+      }
+    ]
+  },
+  {
+    "lesson_id": 6,
+    "dialogue": [
+      {
+        "speaker": 1,
+        "french": "Bonsoir monsieur, bonsoir madame. Bienvenue à l'Hôtel Molière.",
+        "english": "Good evening, sir; good evening, madam. Welcome to the Molière Hotel.",
+        "pronunciation": "boh-swahr muh-syuh, boh-swahr mah-dahm. Byah-vuh-new ah lo-tel moh-lyair"
+      },
+      {
+        "speaker": 2,
+        "french": "Bonsoir, nous avons une chambre réservée pour deux nuits.",
+        "english": "Good evening, we have a room reserved for two nights.",
+        "pronunciation": "boh-swahr, noo-zah-voh ewn shah-bruh ray-zervay poor duh nwee"
+      },
+      {
+        "speaker": 3,
+        "french": "Quel est votre nom, s'il vous plaît ?",
+        "english": "What is your name, please?",
+        "pronunciation": "kel ay votr noh, seel voo play"
+      },
+      {
+        "speaker": 4,
+        "french": "Je m'appelle Bailly : B-A-I deux L-Y. Alain.",
+        "english": "My name is (I call myself) Bailly: B-A-I double-L-Y. Alain.",
+        "pronunciation": "zhuh mah-pel bah-ee : bay-ah-ee duh el-ee-grek ah-lah"
+      },
+      {
+        "speaker": 5,
+        "french": "Absolument : une grande chambre avec un grand lit et une salle de bains.",
+        "english": "Absolutely: a large room with a double (big) bed and a bathroom (room of bath).",
+        "pronunciation": "ab-soh-lew-mah : ewn grah-d shah-bruh ah-vek uh grah lee ay ewn sal duh bah"
+      },
+      {
+        "speaker": 6,
+        "french": "C'est au quatrième étage. Voici la clé.",
+        "english": "It's on (at) the fourth floor. Here's the key.",
+        "pronunciation": "say oh kah-tree-em ay-tazh. Vwah-see la klay"
+      },
+      {
+        "speaker": 7,
+        "french": "Où sont vos bagages ?",
+        "english": "Where are your bags (your luggage)?",
+        "pronunciation": "oo soh voh bah-gazh"
+      }
+    ]
+  },
+  {
+    "lesson_id": 7,
+    "dialogue": [
+      {
+        "speaker": 1,
+        "french": "Bonjour Chloé, comment allez-vous ?",
+        "english": "Hello Chloe, how are you?",
+        "pronunciation": "boh-zhoor klo-ay, koh-mah-tah-lay voo"
+      },
+      {
+        "speaker": 2,
+        "french": "Ça va très bien merci.",
+        "english": "Very well, thanks.",
+        "pronunciation": "sah vah tray byah mair-see"
+      },
+      {
+        "speaker": 3,
+        "french": "Et vous ?",
+        "english": "And you?",
+        "pronunciation": "ay voo"
+      },
+      {
+        "speaker": 4,
+        "french": "Très bien. Est-ce que vous avez l'heure ?",
+        "english": "Very well. Do you have the time?",
+        "pronunciation": "tray byah. Es-kuh voo-zah-vay luhr"
+      },
+      {
+        "speaker": 5,
+        "french": "Désolée, je n'ai pas de montre.",
+        "english": "Sorry, I don't have a watch.",
+        "pronunciation": "day-zoh-lay, zhuh nay pah duh moh-truh"
+      },
+      {
+        "speaker": 6,
+        "french": "Mais je pense qu'il est midi.",
+        "english": "But I think it's noon.",
+        "pronunciation": "may zhuh pah-suh keel ay mee-dee"
+      },
+      {
+        "speaker": 7,
+        "french": "Comment le savez-vous ?",
+        "english": "How do you know?",
+        "pronunciation": "koh-mah luh sah-vay voo"
+      },
+      {
+        "speaker": 8,
+        "french": "Parce que j'ai rendez-vous avec ma fille",
+        "english": "Because I have a meeting with my daughter",
+        "pronunciation": "pars-kuh zhay roh-day-voo ah-vek ma fee"
+      },
+      {
+        "speaker": 9,
+        "french": "et elle a toujours cinq minutes de retard.",
+        "english": "and she's always late.",
+        "pronunciation": "ay el ah too-zhoor sah mee-newt duh ruh-tar"
+      },
+      {
+        "speaker": 10,
+        "french": "Merci beaucoup pour votre aide.",
+        "english": "Thanks very much for your help.",
+        "pronunciation": "mair-see boh-koo poor votr ed"
+      }
+    ]
+  },
+  {
+    "lesson_id": 8,
+    "dialogue": [
+      {
+        "speaker": 1,
+        "french": "Bonjour mademoiselle, est-ce que votre père est à la maison ?",
+        "english": "Good morning (Good day), miss. Is your father at home (Is it that your father is at the house)?",
+        "pronunciation": "boh-zhoor mad-mwah-zel, es-kuh votr pair ay ah la may-zoh"
+      },
+      {
+        "speaker": 2,
+        "french": "Non, monsieur ; il est au bureau aujourd'hui.",
+        "english": "No, sir; he is at the office today.",
+        "pronunciation": "noh, muh-syuh ; eel ay oh bew-roh oh-zhoor-dwee"
+      },
+      {
+        "speaker": 3,
+        "french": "À quelle heure est-ce qu'il rentre après le travail ?",
+        "english": "(At) what time (hour) [does] he come back after (the) work?",
+        "pronunciation": "ah kel uhr es-kuh eel rah-truh ah-pray luh trah-vye"
+      },
+      {
+        "speaker": 4,
+        "french": "Oh, pas avant huit heures normalement.",
+        "english": "Oh, not before 8 o'clock (hours) normally.",
+        "pronunciation": "oh, pah zah-vah weet uhr nor-mal-mah"
+      },
+      {
+        "speaker": 5,
+        "french": "Vous voulez l'adresse de son bureau ?",
+        "english": "[Do] you want the address of his office?",
+        "pronunciation": "voo voo-lay lah-dres duh soh bew-roh"
+      },
+      {
+        "speaker": 6,
+        "french": "Oui, s'il vous plaît.",
+        "english": "Yes, (if you) please.",
+        "pronunciation": "wee, seel voo play"
+      },
+      {
+        "speaker": 7,
+        "french": "Attendez un moment, je cherche mon carnet d'adresses.",
+        "english": "Wait a moment, I [am] looking for my address book.",
+        "pronunciation": "ah-tah-day uh moh-mah, zhuh shersh moh kar-nay dah-dres"
+      },
+      {
+        "speaker": 8,
+        "french": "Voilà. Sept rue Marbeuf, dans le huitième.",
+        "english": "There [it is]. 7 rue (street) Marbeuf, in the 8th [district].",
+        "pronunciation": "vwah-lah. Set rew mar-buhf, dah luh wee-tyem"
+      },
+      {
+        "speaker": 9,
+        "french": "Merci beaucoup, mademoiselle. Au revoir.",
+        "english": "Thank you very much, miss. Goodbye.",
+        "pronunciation": "mair-see boh-koo, mad-mwah-zel. Oh ruh-vwar"
+      },
+      {
+        "speaker": 10,
+        "french": "De rien, monsieur. Au revoir.",
+        "english": "You're welcome (of nothing), sir. Goodbye.",
+        "pronunciation": "duh ryah, muh-syuh. Oh ruh-vwar"
+      }
+    ]
+  },
+  {
+    "lesson_id": 9,
+    "dialogue": [
+      {
+        "speaker": 1,
+        "french": "Ce monsieur s'appelle Jérôme Laforge et cette dame est sa femme.",
+        "english": "This gentleman is called (calls himself) Jerome Laforge and this lady is his wife.",
+        "pronunciation": "suh muh-syuh sah-pel zhay-rohm lah-forzh ay set dam ay sa fam"
+      },
+      {
+        "speaker": 2,
+        "french": "Ils sont à la mairie pour demander une nouvelle carte d'identité pour leur fils.",
+        "english": "They are at the town hall to (for) ask [for] a new identity card for their son.",
+        "pronunciation": "eel soh ah la may-ree poor duh-mah-day ewn noo-vel kart eed-tay-ee-tay poor luhr fees"
+      },
+      {
+        "speaker": 3,
+        "french": "Quel âge a cet enfant ?",
+        "english": "How old is (what age has) this child?",
+        "pronunciation": "kel ahzh ah set ah-fah"
+      },
+      {
+        "speaker": 4,
+        "french": "Il a huit ans, monsieur.",
+        "english": "He is (has) eight years [old], sir.",
+        "pronunciation": "eel ah weet ah, muh-syuh"
+      },
+      {
+        "speaker": 5,
+        "french": "Et il s'appelle Laforge ? Est-ce que c'est votre enfant ?",
+        "english": "And he is called (calls himself) Laforge? Is it [he] your child?",
+        "pronunciation": "ay eel sah-pel lah-forzh ? Es-kuh say votr ah-fah"
+      },
+      {
+        "speaker": 6,
+        "french": "Oui, monsieur.",
+        "english": "Yes, sir.",
+        "pronunciation": "wee, muh-syuh"
+      },
+      {
+        "speaker": 7,
+        "french": "Bien. Et il habite chez vous ?",
+        "english": "Fine. And he lives with (at) you?",
+        "pronunciation": "byah. Ay eel ah-beet shay voo"
+      },
+      {
+        "speaker": 8,
+        "french": "Mais évidemment, avec moi et sa mère !",
+        "english": "(But) obviously, with me and his mother.",
+        "pronunciation": "may ay-vee-dah-mah, ah-vek mwah ay sa mair"
+      }
+    ]
+  },
+  {
+    "lesson_id": 10,
+    "dialogue": [
+      {
+        "speaker": 1,
+        "french": "D'accord. Je fais mon travail, c'est tout.",
+        "english": "OK. I'm doing my job, that's all.",
+        "pronunciation": "dah-kor. Zhuh fay moh trah-vye, say too"
+      },
+      {
+        "speaker": 2,
+        "french": "Est-ce que vous avez le formulaire B-52 ?",
+        "english": "Do you have (the) form B-52?",
+        "pronunciation": "es-kuh voo-zah-vay luh for-mew-lair bay-sah-kah-do"
+      },
+      {
+        "speaker": 3,
+        "french": "Oui monsieur, nous l'avons.",
+        "english": "Yes, sir, we have it (we it have).",
+        "pronunciation": "wee muh-syuh, noo lah-voh"
+      },
+      {
+        "speaker": 4,
+        "french": "Et l'imprimé A-65 ?",
+        "english": "And the printed [form] A-65?",
+        "pronunciation": "ay lah-prah-may ah swah-sah-sah"
+      },
+      {
+        "speaker": 5,
+        "french": "Ça aussi, nous l'avons.",
+        "english": "That also, we have it.",
+        "pronunciation": "sah oh-see, noo lah-voh"
+      },
+      {
+        "speaker": 6,
+        "french": "Ah bon ? Mais est-ce que vous avez son passeport ?",
+        "english": "Oh really (good)? But do you have his passport?",
+        "pronunciation": "ah boh ? May es-kuh voo-zah-vay soh pas-por"
+      },
+      {
+        "speaker": 7,
+        "french": "Bien sûr. Nous avons même sa photo.",
+        "english": "Of course. We have even his photo.",
+        "pronunciation": "byah sewr. Noo-zah-voh mem sa foh-toh"
+      },
+      {
+        "speaker": 8,
+        "french": "Très bien. Alors je vous fais la carte. Voilà.",
+        "english": "Very well. So I'll do (am doing) you the card. Here it is.",
+        "pronunciation": "tray byah. Ah-lor zhuh voo fay la kart. Vwah-lah"
+      },
+      {
+        "speaker": 9,
+        "french": "Réglez à la caisse, s'il vous plaît.",
+        "english": "Pay at the cash desk, please.",
+        "pronunciation": "ray-glay ah la kes, seel voo play"
+      },
+      {
+        "speaker": 10,
+        "french": "Zut ! Je ne trouve pas mon portefeuille !",
+        "english": "Damn! I can't find (not find not) my wallet!",
+        "pronunciation": "zewt ! Zhuh nuh troov pah moh por-tuh-fuh"
+      }
+    ]
+  }
+]

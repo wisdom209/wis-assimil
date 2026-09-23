@@ -1,12 +1,150 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Assimil French</title>
-  </head>
-  <body>
-    <div id="root"></div>
-    <script type="module" src="/src/main.tsx"></script>
-  </body>
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Boucle — French Story Loop</title>
+<meta name="description" content="Read, Listen, Shadow, Harvest — a bimodal loop for learning French from 100 Assimil-style lessons.">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🇫🇷</text></svg>">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,600;9..144,700&family=Source+Sans+3:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<div class="app" id="app">
+
+  <!-- ============ Top bar (mobile) ============ -->
+  <header class="topbar">
+    <button class="icon-btn" id="menuToggle" aria-label="Toggle lesson list" aria-expanded="false">
+      <span class="hamburger"></span>
+    </button>
+    <div class="brand">
+      <span class="brand-mark">Boucle</span>
+      <span class="brand-sub">Read · Listen · Shadow · Harvest</span>
+    </div>
+    <nav class="view-switch" role="tablist" aria-label="View">
+      <button class="view-tab is-active" data-view="lesson" role="tab" aria-selected="true">Lessons</button>
+      <button class="view-tab" data-view="review" role="tab" aria-selected="false">
+        Review <span class="due-pill" id="duePill" hidden>0</span>
+      </button>
+    </nav>
+  </header>
+
+  <div class="body-grid">
+
+    <!-- ============ Sidebar: lesson index ============ -->
+    <aside class="sidebar" id="sidebar">
+      <div class="sidebar-search">
+        <input type="search" id="lessonSearch" placeholder="Find a lesson…" aria-label="Search lessons">
+      </div>
+      <ol class="lesson-index" id="lessonIndex" aria-label="Lesson list"></ol>
+    </aside>
+
+    <div class="scrim" id="scrim"></div>
+
+    <!-- ============ Main: lesson view ============ -->
+    <main class="main" id="lessonView">
+      <div class="lesson-empty" id="lessonEmpty">
+        <p>Choose a lesson from the index to begin the loop.</p>
+      </div>
+
+      <article class="lesson" id="lessonArticle" hidden>
+
+        <header class="lesson-head">
+          <p class="lesson-eyebrow" id="lessonEyebrow"></p>
+          <div class="lesson-title-row">
+            <h1 class="lesson-title" id="lessonTitle"></h1>
+            <button class="edit-toggle" id="editToggle" title="Fix a typo in this lesson's text" aria-pressed="false">✎</button>
+          </div>
+          <div class="edit-bar" id="editBar" hidden>
+            <span class="edit-hint">Editing this lesson only — click any French or English line to fix it.</span>
+            <button class="edit-reset" id="editReset">Reset to original</button>
+          </div>
+        </header>
+
+        <section class="player" id="player">
+          <button class="play-btn" id="playPause" aria-label="Play audio">
+            <svg class="icon-play" viewBox="0 0 24 24" width="20" height="20" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg>
+            <svg class="icon-pause" viewBox="0 0 24 24" width="20" height="20" aria-hidden="true" hidden><path d="M6 5h4v14H6zM14 5h4v14h-4z"/></svg>
+          </button>
+
+          <div class="player-track">
+            <div class="player-times">
+              <span id="timeCurrent">0:00</span>
+              <input type="range" id="scrubber" class="scrubber" min="0" max="100" value="0" step="0.1" aria-label="Seek">
+              <span id="timeTotal">0:00</span>
+            </div>
+          </div>
+
+          <div class="speed-group" role="group" aria-label="Playback speed">
+            <button class="speed-btn" data-speed="0.75">0.75×</button>
+            <button class="speed-btn is-active" data-speed="1">1×</button>
+          </div>
+
+          <audio id="audioEl" preload="metadata"></audio>
+          <p class="player-status" id="playerStatus" hidden></p>
+        </section>
+
+        <section class="dialogue" id="dialogue" aria-label="Dialogue"></section>
+
+        <section class="harvest" id="newWordsSection" hidden>
+          <h2 class="harvest-title">New words worth keeping</h2>
+          <ul class="word-list" id="newWordsList"></ul>
+        </section>
+
+      </article>
+    </main>
+
+    <!-- ============ Main: SRS review view ============ -->
+    <main class="main review-view" id="reviewView" hidden>
+
+      <div class="review-empty" id="reviewEmpty" hidden>
+        <p class="review-empty-title">Nothing due right now.</p>
+        <p class="review-empty-sub">Harvest a few phrases from a lesson, or come back later — <span id="reviewEmptyCount">0</span> card(s) waiting in your deck.</p>
+      </div>
+
+      <div class="review-noDeck" id="reviewNoDeck" hidden>
+        <p class="review-empty-title">Your deck is empty.</p>
+        <p class="review-empty-sub">Tap “➕ Add to SRS” next to any line in a lesson to start harvesting phrases.</p>
+      </div>
+
+      <div class="review-session" id="reviewSession" hidden>
+        <div class="review-progress">
+          <span id="reviewCount"></span>
+          <div class="review-bar"><div class="review-bar-fill" id="reviewBarFill"></div></div>
+        </div>
+
+        <div class="srs-card" id="srsCard">
+          <p class="srs-source" id="srsSource"></p>
+          <p class="srs-prompt" id="srsPrompt"></p>
+
+          <div class="srs-answer" id="srsAnswer" hidden>
+            <hr class="srs-rule">
+            <p class="srs-french" id="srsFrench"></p>
+            <p class="srs-pron" id="srsPron"></p>
+            <button class="tts-btn" id="srsPlayTts">🔊 Play TTS</button>
+          </div>
+
+          <button class="show-answer-btn" id="showAnswerBtn">Show answer</button>
+
+          <div class="grade-row" id="gradeRow" hidden>
+            <button class="grade-btn grade-again" data-grade="again">Again</button>
+			<!-- <button class="grade-btn grade-hard" data-grade="hard">Hard</button> -->
+            <button class="grade-btn grade-good" data-grade="good">Good</button>
+			<!-- <button class="grade-btn grade-easy" data-grade="easy">Easy</button> -->
+          </div>
+        </div>
+      </div>
+
+    </main>
+
+  </div>
+</div>
+
+<div class="toast" id="toast" role="status" aria-live="polite"></div>
+
+<script src="app.js"></script>
+</body>
 </html>

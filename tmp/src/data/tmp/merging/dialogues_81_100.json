@@ -1,0 +1,2202 @@
+[
+  {
+    "lesson_id": 81,
+    "dialogue": [
+      {
+        "speaker": 1,
+        "french": "Bon, il n'est pas certain que nous puissions tenir cette réunion si l'autre partie ne fait pas un pas vers nous.",
+        "english": "Well, it's not certain that we can hold this meeting if the other side doesn't take a step towards us."
+      },
+      {
+        "speaker": 2,
+        "french": "Vous avez raison. Bien que nous fassions tous les efforts nécessaires, nous sommes dans un dialogue de sourds.",
+        "english": "You're right. Although we're making all the necessary efforts, we're in a dialogue of the deaf."
+      },
+      {
+        "speaker": 3,
+        "french": "Nous nous sommes fait attaquer par les médias qui nous désignent comme les méchants.",
+        "english": "We've been attacked by the media who are pointing at us as the villains."
+      },
+      {
+        "speaker": 4,
+        "french": "C'est ridicule, bien entendu. Il n'empêche que nous devons être très attentifs.",
+        "english": "It's ridiculous, of course. Nevertheless, we must be very careful."
+      },
+      {
+        "speaker": 5,
+        "french": "Leur déléguée du personnel, Inès Laurent, est très adroite et, de plus, c'est une négociatrice expérimentée.",
+        "english": "Their staff representative, Inès Laurent, is very skilful and, moreover, she's an experienced negotiator."
+      },
+      {
+        "speaker": 6,
+        "french": "Il n'est pas certain qu'elle attende la fin des pourparlers avant de déclencher un grand mouvement social.",
+        "english": "It's not certain that she'll wait for the end of the talks before launching a major social movement."
+      },
+      {
+        "speaker": 7,
+        "french": "Quoi qu'il en soit, ses idées gagnent du terrain et on doit être sur le qui-vive.",
+        "english": "Be that as it may, her ideas are gaining ground and we have to be on the alert."
+      },
+      {
+        "speaker": 8,
+        "french": "Je suis d'accord. Il faut qu'on fasse très attention car tout peut arriver.",
+        "english": "I agree. We have to be very careful because anything can happen."
+      },
+      {
+        "speaker": 9,
+        "french": "Il est peu probable que Madame Laurent comprenne notre stratégie ou qu'elle connaisse notre vraie position.",
+        "english": "It's unlikely that Mrs Laurent understands our strategy or knows our real position."
+      },
+      {
+        "speaker": 10,
+        "french": "En revanche, il est tout à fait probable qu'elle suspendra les négociations si elle n'obtient pas ce qu'elle veut.",
+        "english": "On the other hand, it's quite likely that she'll suspend negotiations if she doesn't get what she wants."
+      },
+      {
+        "speaker": 11,
+        "french": "De toutes les façons, les délégués du personnel en général nous en veulent à tous.",
+        "english": "In any case, the staff representatives generally resent all of us."
+      },
+      {
+        "speaker": 12,
+        "french": "Ce qui est sûr c'est que nous ne pouvons pas nous tourner les pouces en attendant que le problème se règle tout seul.",
+        "english": "What's certain is that we can't twiddle our thumbs waiting for the problem to sort itself out."
+      },
+      {
+        "speaker": 13,
+        "french": "Au contraire, il faut patienter jusqu'à ce que Laurent soumette un document avec ses propositions.",
+        "english": "On the contrary, we need to be patient until Laurent submits a document with her proposals."
+      },
+      {
+        "speaker": 14,
+        "french": "Si elle ne le fait pas dans un délai de quarante-huit heures, nous aurons le droit de rompre les négociations sans préavis.",
+        "english": "If she doesn't do so within forty-eight hours, we'll have the right to break off negotiations without notice."
+      },
+      {
+        "speaker": 15,
+        "french": "Disons d'ici à vendredi ? Pourvu que nous soyons tous du même avis,",
+        "english": "Let's say by Friday? Provided we're all of the same opinion,"
+      },
+      {
+        "speaker": 16,
+        "french": "je préparerai un communiqué de presse, comme prévu et on le publiera plus tard.",
+        "english": "I'll prepare a press release, as planned, and we'll publish it later."
+      },
+      {
+        "speaker": 17,
+        "french": "Avant que tu finisses, Yann, j'ai une anecdote qui illustre le genre d'individus à qui nous avons affaire.",
+        "english": "Before you finish, Yann, I have an anecdote that illustrates the kind of individuals we're dealing with."
+      },
+      {
+        "speaker": 18,
+        "french": "Un jeune homme, fraîchement sorti d'une école de commerce, me sollicite pour un poste de commercial et me demande le salaire.",
+        "english": "A young man, fresh out of a business school, asks me for a sales position and asks me about the salary."
+      },
+      {
+        "speaker": 19,
+        "french": "Je lui propose le salaire minimum pour commencer,",
+        "english": "I offer him the minimum wage to start with,"
+      },
+      {
+        "speaker": 20,
+        "french": "en lui disant qu'il serait augmenté de manière conséquente au bout de sa période d'essai de six mois.",
+        "english": "telling him it would be increased substantially at the end of his six-month probation period."
+      },
+      {
+        "speaker": 21,
+        "french": "Vous savez ce qu'il m'a répondu ?",
+        "english": "You know what he answered?"
+      },
+      {
+        "speaker": 22,
+        "french": "« D'accord, dans ce cas je reviendrai dans vingt-quatre semaines ».",
+        "english": "'All right, in that case I'll come back in twenty-four weeks.'"
+      },
+      {
+        "speaker": 23,
+        "french": "C'est inadmissible, sans doute, mais c'est logique.",
+        "english": "It's inadmissible, no doubt, but it's logical."
+      }
+    ]
+  },
+  {
+    "lesson_id": 82,
+    "dialogue": [
+      {
+        "speaker": 1,
+        "french": "Peut-on rire de tout ? C'est le sujet de notre débat ce soir, avec deux invités : un psychiatre et un jeune humoriste.",
+        "english": "Can we laugh at everything? That's the subject of our debate tonight, with two guests: a psychiatrist and a young comedian."
+      },
+      {
+        "speaker": 2,
+        "french": "Mm... je sens qu'on va bien rigoler. Mon petit doigt me dit que ce type est aussi drôle qu'une feuille d'impôts !",
+        "english": "Mm... I feel we're going to have a good laugh. My little finger tells me this guy is about as funny as a tax return!"
+      },
+      {
+        "speaker": 3,
+        "french": "Voyez-vous, mon jeune ami, c'est toute la différence entre le monde du spectacle et le monde des arts.",
+        "english": "You see, my young friend, that's the whole difference between the entertainment world and the arts world."
+      },
+      {
+        "speaker": 4,
+        "french": "Un film, on peut le voir et puis le revoir à l'infini, sans qu'il perde sa fraîcheur.",
+        "english": "A film, you can watch it and then rewatch it endlessly without it losing its freshness."
+      },
+      {
+        "speaker": 5,
+        "french": "Mais une histoire drôle, une plaisanterie, une boutade — appelez-la comme vous voudrez —",
+        "english": "But a funny story, a joke, a witty remark — call it whatever you like —"
+      },
+      {
+        "speaker": 6,
+        "french": "est périmée dès qu'on l'entend et ne supporte pas la répétition. Il faut renouveler constamment.",
+        "english": "is stale as soon as you hear it and can't bear repetition. You have to keep renewing constantly."
+      },
+      {
+        "speaker": 7,
+        "french": "Désolé de te contredire, mais tu t'es enfermé dans ton petit monde, qui, lui, est fermé à double tour.",
+        "english": "Sorry to contradict you, but you've locked yourself in your little world, which is locked double."
+      },
+      {
+        "speaker": 8,
+        "french": "Une bonne blague doit faire rire et réfléchir en même temps, tu vois.",
+        "english": "A good joke should make people laugh and think at the same time, you see."
+      },
+      {
+        "speaker": 9,
+        "french": "Je ne vous ai pas autorisé à me tutoyer, jeune homme. Un peu de politesse, je vous prie.",
+        "english": "I didn't give you permission to use the familiar form with me, young man. A little politeness, please."
+      },
+      {
+        "speaker": 10,
+        "french": "La jeunesse est une belle chose ; quel crime de la laisser gâcher par les jeunes !",
+        "english": "Youth is a beautiful thing; what a crime to let the young waste it!"
+      },
+      {
+        "speaker": 11,
+        "french": "Tu empoches une prime à chaque fois que tu recycles les bons vieux gags ?",
+        "english": "Do you pocket a bonus every time you recycle the good old gags?"
+      },
+      {
+        "speaker": 12,
+        "french": "Ne perdons pas de vue notre thème. Peut-on — doit-on — trouver de l'humour dans tout ?",
+        "english": "Let's not lose sight of our theme. Can we — should we — find humour in everything?"
+      },
+      {
+        "speaker": 13,
+        "french": "La grossesse, la vieillesse, la richesse : ne faudrait-il pas plutôt de la gentillesse et de la tendresse ?",
+        "english": "Pregnancy, old age, wealth: shouldn't we rather have kindness and tenderness?"
+      },
+      {
+        "speaker": 14,
+        "french": "Faut-il s'affoler si quelqu'un plaisante sur des étrangers, par exemple ?",
+        "english": "Should we panic if someone jokes about foreigners, for example?"
+      },
+      {
+        "speaker": 15,
+        "french": "On se permet de taquiner les Lillois, les Alsaciens, les Toulousains, ou les Marseillais.",
+        "english": "We allow ourselves to tease people from Lille, Alsace, Toulouse, or Marseille."
+      },
+      {
+        "speaker": 16,
+        "french": "Alors pourquoi pas des gens plus lointains ? Ce n'est pas de la méchanceté, c'est de la rigolade.",
+        "english": "So why not people further away? It's not nastiness, it's just having a laugh."
+      },
+      {
+        "speaker": 17,
+        "french": "Non : vous rhabillez de vieux préjugés avec des mots nouveaux, monsieur.",
+        "english": "No: you're dressing up old prejudices in new words, sir."
+      },
+      {
+        "speaker": 18,
+        "french": "Et je te dis qu'il faut se fier à ses instincts et se méfier comme de la peste des idées reçues.",
+        "english": "And I'm telling you that you must trust your instincts and beware of received ideas like the plague."
+      },
+      {
+        "speaker": 19,
+        "french": "L'humour adoucit les mœurs et allège notre quotidien grisâtre, je te — je vous — le garantis.",
+        "english": "Humour softens manners and lightens our greyish daily life, I guarantee you — I guarantee it to you."
+      },
+      {
+        "speaker": 20,
+        "french": "Notre débat touche à sa fin, messieurs, et nous ne disposons pas de suffisamment d'éléments",
+        "english": "Our debate is drawing to a close, gentlemen, and we don't have enough material"
+      },
+      {
+        "speaker": 21,
+        "french": "pour arriver à une conclusion ferme et définitive, mais...",
+        "english": "to reach a firm and definitive conclusion, but..."
+      },
+      {
+        "speaker": 22,
+        "french": "Si si. Tu sais ce qu'on dit : on peut rire de tout — mais pas avec tout le monde.",
+        "english": "Yes, yes. You know what they say: you can laugh about everything — but not with everyone."
+      }
+    ]
+  },
+  {
+    "lesson_id": 83,
+    "dialogue": [
+      {
+        "speaker": 1,
+        "french": "Bon réveil à toutes et à tous. Merci de votre fidélité.",
+        "english": "Good morning everyone. Thank you for your loyalty."
+      },
+      {
+        "speaker": 2,
+        "french": "C'est un plaisir de vous retrouver sur nos antennes, chères auditrices et chers auditeurs.",
+        "english": "It's a pleasure to find you again on our airwaves, dear listeners."
+      },
+      {
+        "speaker": 3,
+        "french": "Comme tous les jours, nous sommes en direct dès le petit matin, avec ma coéquipière Mireille.",
+        "english": "As every day, we're live from early morning, with my co-presenter Mireille."
+      },
+      {
+        "speaker": 4,
+        "french": "Guy vous attend au standard pour notre jeu : « Complétez l'expression ».",
+        "english": "Guy is waiting for you on the switchboard for our game: 'Complete the expression'."
+      },
+      {
+        "speaker": 5,
+        "french": "Il faut que vous sachiez que, personne n'ayant gagné cette semaine, la cagnotte s'élève dorénavant à mille euros.",
+        "english": "You should know that, since nobody won this week, the jackpot now stands at one thousand euros."
+      },
+      {
+        "speaker": 6,
+        "french": "De quoi mettre du beurre dans les épinards, quoi ! Eh oui, le sujet de la semaine, c'est la nourriture !",
+        "english": "Enough to put butter in the spinach! Indeed, this week's subject is food!"
+      },
+      {
+        "speaker": 7,
+        "french": "Donc vous avez du pain sur la planche ce matin. J'espère que vous avez la pêche.",
+        "english": "So you've got your work cut out this morning. I hope you're feeling peaches (on top form)."
+      },
+      {
+        "speaker": 8,
+        "french": "Bon, je m'arrête là. Je ne vais pas en faire tout un fromage.",
+        "english": "Right, I'll stop there. I'm not going to make a whole cheese of it."
+      },
+      {
+        "speaker": 9,
+        "french": "Non, mais ça suffit Fabrice. Arrête de faire l'andouille.",
+        "english": "No, but that's enough Fabrice. Stop being a sausage (acting the fool)."
+      },
+      {
+        "speaker": 10,
+        "french": "Tu vois, c'est contagieux ! Bon, puisque tu insistes, je vais être sérieux.",
+        "english": "You see, it's contagious! Right, since you insist, I'll be serious."
+      },
+      {
+        "speaker": 11,
+        "french": "Notre premier candidat ce matin s'appelle Olivier, qui habite à Montpellier.",
+        "english": "Our first candidate this morning is called Olivier, who lives in Montpellier."
+      },
+      {
+        "speaker": 12,
+        "french": "Salut, Olivier. Quel aliment trouve-t-on dans une expression qui veut dire « partager équitablement quelque chose » ?",
+        "english": "Hi Olivier. What food do we find in an expression that means 'to share something fairly'?"
+      },
+      {
+        "speaker": 13,
+        "french": "Par exemple : « Pendant longtemps je ne pouvais pas me décider puis, tout à coup, j'ai... »",
+        "english": "For example: 'For a long time I couldn't make up my mind, then suddenly I...'"
+      },
+      {
+        "speaker": 14,
+        "french": "Celle-là, je la connais. C'est une poire. « J'ai coupé la poire en deux ». C'est-à-dire, je l'ai partagée.",
+        "english": "That one, I know it. It's a pear. 'I cut the pear in two.' Meaning, I shared it."
+      },
+      {
+        "speaker": 15,
+        "french": "Bravo ! Mais vous n'êtes pas sorti de l'auberge, si je puis dire, car les questions deviennent de plus en plus dures.",
+        "english": "Well done! But you're not out of the inn (out of the woods) yet, if I may say so, because the questions are getting harder and harder."
+      },
+      {
+        "speaker": 16,
+        "french": "Par exemple : on dit de quelqu'un qui s'évanouit qu'il ou elle tombe dans un fruit ou un légume. Lequel ?",
+        "english": "For example: we say of someone who faints that he or she falls into a fruit or a vegetable. Which one?"
+      },
+      {
+        "speaker": 17,
+        "french": "Ah, ça m'est complètement sorti de la tête. Je vais donner une réponse au hasard : les choux ?",
+        "english": "Ah, that's completely gone from my head. I'll give an answer at random: cabbages?"
+      },
+      {
+        "speaker": 18,
+        "french": "Mais non ! Si vous êtes dans les choux, vous êtes dans une mauvaise situation.",
+        "english": "No! If you're in the cabbages, you're in a bad situation."
+      },
+      {
+        "speaker": 19,
+        "french": "Quelqu'un qui perd connaissance tombe dans les... ? Allez, c'est une spécialité de la Normandie. Toujours pas ?",
+        "english": "Someone who loses consciousness falls into the... ? Come on, it's a speciality of Normandy. Still nothing?"
+      },
+      {
+        "speaker": 20,
+        "french": "Les pommes ! On dit qu'il tombe dans les pommes. Il faut que vous alliez plus souvent en vacances dans le nord.",
+        "english": "Apples! We say he falls into the apples (faints). You should go on holiday to the north more often."
+      },
+      {
+        "speaker": 21,
+        "french": "Allez, un petit effort mon cher Olivier. Sinon, vous n'allez pas gagner un radis... Désolé.",
+        "english": "Come on, a little effort my dear Olivier. Otherwise, you won't win a radish (a penny)... Sorry."
+      },
+      {
+        "speaker": 22,
+        "french": "Nous reviendrons après une courte page de publicité. À tout de suite.",
+        "english": "We'll be back after a short advertising break. See you in a moment."
+      }
+    ]
+  },
+  {
+    "lesson_id": 84,
+    "dialogue": [
+      {
+        "speaker": 1,
+        "french": "Je vous appelle à propos des travaux de peinture que vous nous avez commandés.",
+        "english": "I'm calling you about the painting work you ordered from us."
+      },
+      {
+        "speaker": 2,
+        "french": "Je crains une mauvaise nouvelle... Dites-la-moi.",
+        "english": "I fear bad news... Tell me."
+      },
+      {
+        "speaker": 3,
+        "french": "Personne ne vous a prévenue ? Je pensais que mon collègue avait appelé.",
+        "english": "Nobody warned you? I thought my colleague had called."
+      },
+      {
+        "speaker": 4,
+        "french": "Non, personne ne m'a appelée. De quoi s'agit-il ?",
+        "english": "No, nobody called me. What is it about?"
+      },
+      {
+        "speaker": 5,
+        "french": "Bon, il n'est pas certain que nous puissions venir la semaine prochaine.",
+        "english": "Well, it's not certain that we can come next week."
+      },
+      {
+        "speaker": 6,
+        "french": "Je suis dans les choux car j'ai deux ouvriers qui sont malades et personne pour les remplacer.",
+        "english": "I'm in a mess because I have two workers who are ill and nobody to replace them."
+      },
+      {
+        "speaker": 7,
+        "french": "Je veux que vous sachiez que je ferai tout pour venir, comme prévu, mais il faut que vous soyez prête à reporter le rendez-vous.",
+        "english": "I want you to know that I'll do everything to come, as planned, but you need to be ready to postpone the appointment."
+      },
+      {
+        "speaker": 8,
+        "french": "Eh bien, vu que je n'ai pas le choix. Que me proposez-vous comme nouvelle date ?",
+        "english": "Well, since I have no choice. What new date do you suggest?"
+      },
+      {
+        "speaker": 9,
+        "french": "Je suis désolé de ne pas pouvoir être plus précis, mais ça ne dépend pas que de moi.",
+        "english": "I'm sorry not to be able to be more precise, but it doesn't depend only on me."
+      },
+      {
+        "speaker": 10,
+        "french": "Je vais faire appel à un collègue, mais il est sur un autre chantier en ce moment.",
+        "english": "I'm going to call on a colleague, but he's on another site at the moment."
+      },
+      {
+        "speaker": 11,
+        "french": "Quand il aura terminé, peut-il se libérer rapidement ?",
+        "english": "When he's finished, can he free himself up quickly?"
+      },
+      {
+        "speaker": 12,
+        "french": "Je ne sais pas quoi vous dire. Il n'est pas certain que son chantier soit terminé d'ici à la fin de la semaine.",
+        "english": "I don't know what to tell you. It's not certain that his site will be finished by the end of the week."
+      },
+      {
+        "speaker": 13,
+        "french": "Je sens que nous ne sommes pas sortis de l'auberge !",
+        "english": "I feel like we're not out of the inn (out of the woods)!"
+      }
+    ]
+  },
+  {
+    "lesson_id": 85,
+    "dialogue": [
+      {
+        "speaker": 1,
+        "french": "Tu sors par ce temps, Michel ? Tu ne vois pas qu'il fait un froid glacial ?",
+        "english": "You're going out in this weather, Michel? Can't you see it's freezing cold?"
+      },
+      {
+        "speaker": 2,
+        "french": "Et ils annoncent à nouveau de gros orages pour tout à l'heure.",
+        "english": "And they're forecasting big thunderstorms again for later."
+      },
+      {
+        "speaker": 3,
+        "french": "Il est où ton pardessus ? Et, de toute façon, où tu vas à cette heure-ci ?",
+        "english": "Where's your overcoat? And, anyway, where are you going at this hour?"
+      },
+      {
+        "speaker": 4,
+        "french": "Pourquoi tu veux savoir ? Ce ne sont pas tes oignons, mon frère.",
+        "english": "Why do you want to know? It's none of your business, brother."
+      },
+      {
+        "speaker": 5,
+        "french": "C'est quoi, ton problème ? Pourquoi tu es si grognon ce matin ?",
+        "english": "What's your problem? Why are you so grumpy this morning?"
+      },
+      {
+        "speaker": 6,
+        "french": "Je vais à ma banque, si tu veux savoir. Ça te va comme explication ?",
+        "english": "I'm going to my bank, if you must know. Does that work as an explanation?"
+      },
+      {
+        "speaker": 7,
+        "french": "On m'a appelé et on m'a demandé de passer à l'agence au plus vite.",
+        "english": "They called me and asked me to come to the branch as soon as possible."
+      },
+      {
+        "speaker": 8,
+        "french": "Il paraît que mon compte est à découvert. Je suis tombé des nues quand je l'ai appris.",
+        "english": "It seems my account is overdrawn. I was gobsmacked when I heard."
+      },
+      {
+        "speaker": 9,
+        "french": "Ils t'ont appelé quand ? C'est quand le rendez-vous ?",
+        "english": "When did they call you? When's the appointment?"
+      },
+      {
+        "speaker": 10,
+        "french": "Tu pars à quelle heure ? Ton conseiller de clientèle sera là-bas, au rendez-vous ?",
+        "english": "What time are you leaving? Will your account manager be there at the meeting?"
+      },
+      {
+        "speaker": 11,
+        "french": "Tu poses toutes ces questions pourquoi ? Tu mets ton nez partout.",
+        "english": "Why are you asking all these questions? You stick your nose in everywhere."
+      },
+      {
+        "speaker": 12,
+        "french": "Tu ne sais pas qu'il ne faut pas être curieux et se mêler des affaires des autres ?",
+        "english": "Don't you know you shouldn't be nosy and meddle in other people's business?"
+      },
+      {
+        "speaker": 13,
+        "french": "Bon, assez discuté. Quelle heure il est ? Il faut que je file.",
+        "english": "Right, enough chat. What time is it? I need to get going."
+      },
+      {
+        "speaker": 14,
+        "french": "Arrêtez, vous deux, pour l'amour du ciel ! Où avez-vous appris le français ?",
+        "english": "Stop it, you two, for heaven's sake! Where did you learn French?"
+      },
+      {
+        "speaker": 15,
+        "french": "Je vous écoute depuis cinq minutes, et vous massacrez la langue de Molière !",
+        "english": "I've been listening to you for five minutes, and you're massacring the language of Molière!"
+      },
+      {
+        "speaker": 16,
+        "french": "On doit dire « Où allez-vous ? » ou « Quand est ton rendez-vous ? ».",
+        "english": "You should say 'Where are you going?' or 'When is your appointment?'."
+      },
+      {
+        "speaker": 17,
+        "french": "De même, on ne dit pas « Il est arrivé quand ? » mais « Quand est-il arrivé ? ».",
+        "english": "Likewise, you don't say 'He arrived when?' but 'When did he arrive?'."
+      },
+      {
+        "speaker": 18,
+        "french": "Et « À quelle heure pars-tu ? » est dix fois plus élégant que « Tu pars à quelle heure ? ».",
+        "english": "And 'What time are you leaving?' is ten times more elegant than 'You're leaving at what time?'."
+      },
+      {
+        "speaker": 19,
+        "french": "Pour en revenir à toi, Michel. Pourquoi tu vas... euh... vas-tu à la banque ?",
+        "english": "To come back to you, Michel. Why are you going... er... are you going to the bank?"
+      },
+      {
+        "speaker": 20,
+        "french": "C'est-à-dire que j'ai emprunté ta carte de crédit et je me suis acheté quelques petits trucs...",
+        "english": "That is to say I borrowed your credit card and bought myself a few little things..."
+      },
+      {
+        "speaker": 21,
+        "french": "Tu as dépensé combien, espèce de petit voyou ? Pardon : combien as-tu dépensé, mon frère adoré ?",
+        "english": "How much did you spend, you little rascal? Sorry: how much have you spent, my beloved brother?"
+      },
+      {
+        "speaker": 22,
+        "french": "Occupe-toi de tes affaires. Je veux dire : La curiosité est un vilain défaut, cher ami.",
+        "english": "Mind your own business. I mean: Curiosity is an ugly flaw, dear friend."
+      },
+      {
+        "speaker": 23,
+        "french": "Vilain défaut ? Et comment !",
+        "english": "Ugly flaw? You can say that again!"
+      }
+    ]
+  },
+  {
+    "lesson_id": 86,
+    "dialogue": [
+      {
+        "speaker": 1,
+        "french": "Nous sommes à la recherche d'un responsable du commerce international",
+        "english": "We're looking for an international trade manager"
+      },
+      {
+        "speaker": 2,
+        "french": "qui s'occupera plus particulièrement des pays voisins de la France.",
+        "english": "who will look after, more particularly, the countries neighbouring France."
+      },
+      {
+        "speaker": 3,
+        "french": "La Suisse est un des marchés que nous essayons de pénétrer depuis très longtemps.",
+        "english": "Switzerland is one of the markets we've been trying to penetrate for a very long time."
+      },
+      {
+        "speaker": 4,
+        "french": "En fait, c'est le marché le plus difficile que nous ayons connu jusqu'à présent.",
+        "english": "In fact, it's the most difficult market we've experienced so far."
+      },
+      {
+        "speaker": 5,
+        "french": "La personne à qui nous confierons le poste sera quelqu'un d'exceptionnel —",
+        "english": "The person to whom we'll entrust the position will be someone exceptional —"
+      },
+      {
+        "speaker": 6,
+        "french": "une femme ou un homme dont les compétences techniques sont reconnues et dont nous pouvons être sûrs.",
+        "english": "a woman or a man whose technical skills are recognised and of whom we can be sure."
+      },
+      {
+        "speaker": 7,
+        "french": "Nous n'avons pas encore finalisé le profil de ce poste ni le périmètre dont le nouveau directeur sera responsable",
+        "english": "We haven't yet finalised the profile of this position or the scope for which the new director will be responsible"
+      },
+      {
+        "speaker": 8,
+        "french": "car cela dépendra en partie de la personne que nous trouverons ou qui nous sera présentée par votre cabinet.",
+        "english": "because it will depend partly on the person we find or who is introduced to us by your firm."
+      },
+      {
+        "speaker": 9,
+        "french": "Il se peut que ce soit quelqu'un en interne, qui travaille dans le groupe, mais ce n'est pas la piste que nous privilégions pour l'instant.",
+        "english": "It may be someone internal, who works within the group, but that's not the track we're favouring for now."
+      },
+      {
+        "speaker": 10,
+        "french": "En tout état de cause, il ou elle aura une excellente expression écrite et orale,",
+        "english": "In any case, he or she will have excellent written and oral expression,"
+      },
+      {
+        "speaker": 11,
+        "french": "une parfaite connaissance des marchés français, suisse et belge et de leurs différentes langues,",
+        "english": "a perfect knowledge of the French, Swiss and Belgian markets and their different languages,"
+      },
+      {
+        "speaker": 12,
+        "french": "ainsi que de la rigueur, une vision stratégique, et, surtout, l'esprit cartésien.",
+        "english": "as well as rigour, a strategic vision, and, above all, the Cartesian mind."
+      },
+      {
+        "speaker": 13,
+        "french": "C'est pour cette raison que nous avons besoin de vos services, dont on nous dit le plus grand bien.",
+        "english": "That's why we need your services, which we're told the highest things about."
+      },
+      {
+        "speaker": 14,
+        "french": "Le recrutement en ligne a ses limites, dont vous êtes certainement au courant.",
+        "english": "Online recruitment has its limits, which you're certainly aware of."
+      },
+      {
+        "speaker": 15,
+        "french": "Je vous remercie de votre confiance, dont nous nous montrerons dignes, je vous le promets.",
+        "english": "Thank you for your confidence, which we'll prove worthy of, I promise you."
+      },
+      {
+        "speaker": 16,
+        "french": "Nous saurons dénicher la personne dont vous avez besoin, celui ou celle qui correspondra au mieux à vos exigences.",
+        "english": "We'll know how to find the person you need, the one who will best match your requirements."
+      },
+      {
+        "speaker": 17,
+        "french": "Nous avons plusieurs possibilités, dont un Belge. Mais je pense connaître LE candidat qu'il vous faut.",
+        "english": "We have several possibilities, including a Belgian. But I think I know THE candidate you need."
+      },
+      {
+        "speaker": 18,
+        "french": "Il s'agit d'une femme ayant une grande expérience à l'export et dont les qualités sont reconnues par tous ses collègues.",
+        "english": "It's a woman with great export experience and whose qualities are recognised by all her colleagues."
+      },
+      {
+        "speaker": 19,
+        "french": "Je la connais personnellement. Je peux vous affirmer qu'elle pourra fidéliser les clients,",
+        "english": "I know her personally. I can assure you she'll be able to retain clients,"
+      },
+      {
+        "speaker": 20,
+        "french": "accroître les ventes et développer votre groupe, dont l'activité est en pleine croissance.",
+        "english": "increase sales and develop your group, whose activity is in full growth."
+      },
+      {
+        "speaker": 21,
+        "french": "Parmi ses nombreux atouts, elle est trilingue et, surtout, elle est suisse.",
+        "english": "Among her many assets, she's trilingual and, above all, she's Swiss."
+      },
+      {
+        "speaker": 22,
+        "french": "Il me la faut ! Qui est-ce, cette perle rare, et quand pouvez-vous me la présenter ?",
+        "english": "I need her! Who is this rare pearl, and when can you introduce her to me?"
+      },
+      {
+        "speaker": 23,
+        "french": "Rien de plus facile : elle est assise en face de vous en ce moment !",
+        "english": "Nothing easier: she's sitting right in front of you at this very moment!"
+      }
+    ]
+  },
+  {
+    "lesson_id": 87,
+    "dialogue": [
+      {
+        "speaker": 1,
+        "french": "Mes chers collègues, j'ai la nette impression que la guerre froide vient de se réchauffer.",
+        "english": "My dear colleagues, I have the distinct impression that the cold war has just warmed up."
+      },
+      {
+        "speaker": 2,
+        "french": "Un agent secret travaillant pour les services de sécurité de nos ennemis",
+        "english": "A secret agent working for the security services of our enemies"
+      },
+      {
+        "speaker": 3,
+        "french": "a été trouvé sans vie sur les marches du Trocadéro.",
+        "english": "was found lifeless on the steps of the Trocadéro."
+      },
+      {
+        "speaker": 4,
+        "french": "Tu veux dire qu'on a descendu un de leurs espions ? C'est super !",
+        "english": "You mean we bumped off one of their spies? That's great!"
+      },
+      {
+        "speaker": 5,
+        "french": "Pas si vite. L'histoire est plus compliquée qu'il ne paraît.",
+        "english": "Not so fast. The story is more complicated than it seems."
+      },
+      {
+        "speaker": 6,
+        "french": "L'homme qu'on a retrouvé mort était un agent double, un des nôtres,",
+        "english": "The man we found dead was a double agent, one of ours,"
+      },
+      {
+        "speaker": 7,
+        "french": "qui avait obtenu des renseignements à propos d'une arme secrète redoutable,",
+        "english": "who had obtained information about a formidable secret weapon,"
+      },
+      {
+        "speaker": 8,
+        "french": "capable de contaminer les réserves d'eau potable de nos plus grandes agglomérations.",
+        "english": "capable of contaminating the drinking water reserves of our largest urban areas."
+      },
+      {
+        "speaker": 9,
+        "french": "Antoine était sur le point de nous transmettre ces informations vitales quand...",
+        "english": "Antoine was about to pass on this vital information to us when..."
+      },
+      {
+        "speaker": 10,
+        "french": "C'est honteux ! Voilà quelqu'un qui a risqué sa peau en travaillant dans l'ombre, et nous étions incapables de le protéger.",
+        "english": "It's shameful! Here's someone who risked his skin working in the shadows, and we were incapable of protecting him."
+      },
+      {
+        "speaker": 11,
+        "french": "Taisez-vous, Lucas ! Vous ne connaissez pas le fin mot de l'histoire. Antoine a été trahi par quelqu'un de chez nous.",
+        "english": "Shut up, Lucas! You don't know the real story. Antoine was betrayed by one of our own."
+      },
+      {
+        "speaker": 12,
+        "french": "Qui oserait faire une chose pareille ?",
+        "english": "Who would dare do such a thing?"
+      },
+      {
+        "speaker": 13,
+        "french": "C'est justement ce qu'on va essayer de savoir. Vous pouvez compter sur moi.",
+        "english": "That's exactly what we're going to try to find out. You can count on me."
+      },
+      {
+        "speaker": 14,
+        "french": "Je ne lâcherai pas l'enquête tant qu'on n'aura pas mis la main sur le tueur et le commanditaire du meurtre.",
+        "english": "I won't let go of the investigation until we've got our hands on the killer and the mastermind of the murder."
+      },
+      {
+        "speaker": 15,
+        "french": "Est-ce qu'on sait au moins comment est mort notre collègue ? Abattu ? Poignardé ?",
+        "english": "Do we at least know how our colleague died? Shot? Stabbed?"
+      },
+      {
+        "speaker": 16,
+        "french": "Selon toute vraisemblance, il a été empoisonné.",
+        "english": "In all likelihood, he was poisoned."
+      },
+      {
+        "speaker": 17,
+        "french": "Sur le lieu du crime, il flottait comme une drôle d'odeur — on aurait dit des amandes amères.",
+        "english": "At the crime scene, there was a strange smell hanging in the air — it was like bitter almonds."
+      },
+      {
+        "speaker": 18,
+        "french": "Tout laisse à penser qu'il a bu quelque chose, probablement une tisane, avec son assassin, inconscient du danger qui le menaçait.",
+        "english": "Everything suggests he drank something, probably a herbal tea, with his killer, unaware of the danger that threatened him."
+      },
+      {
+        "speaker": 19,
+        "french": "Il a disparu de la circulation, jusqu'à ce qu'on trouve le cadavre.",
+        "english": "He disappeared from circulation, until we found the body."
+      },
+      {
+        "speaker": 20,
+        "french": "Avant de me lancer à la recherche du meurtrier, vous devez savoir que vous êtes tous des suspects.",
+        "english": "Before I launch the search for the murderer, you should know that you're all suspects."
+      },
+      {
+        "speaker": 21,
+        "french": "Je veux que vous sachiez que je n'épargnerai personne dans mon enquête et que le coupable n'ira pas en prison.",
+        "english": "I want you to know that I'll spare no one in my investigation and that the culprit won't go to prison."
+      },
+      {
+        "speaker": 22,
+        "french": "Comment ? Vous allez le laisser filer ?",
+        "english": "What? You're going to let him get away?"
+      },
+      {
+        "speaker": 23,
+        "french": "Surtout pas ! Mais les accidents malheureux sont si vite arrivés, vous savez...",
+        "english": "Certainly not! But unfortunate accidents happen so quickly, you know..."
+      }
+    ]
+  },
+  {
+    "lesson_id": 88,
+    "dialogue": [
+      {
+        "speaker": 1,
+        "french": "Qui qu'il soit, où qu'il se cache, et quoi qu'il fasse pour s'échapper",
+        "english": "Whoever he is, wherever he's hiding, and whatever he does to escape"
+      },
+      {
+        "speaker": 2,
+        "french": "on le retrouvera, ce flingueur, quelle que soit sa vraie identité.",
+        "english": "we'll find him, this gunman, whatever his real identity is."
+      },
+      {
+        "speaker": 3,
+        "french": "Il fera sans doute une gaffe. Et, là, je lui mettrai personnellement trois balles dans le corps.",
+        "english": "He'll no doubt make a blunder. And then, I'll personally put three bullets in his body."
+      },
+      {
+        "speaker": 4,
+        "french": "Vous êtes avec moi, les gars ? Je ne veux pas faire le sale boulot tout seul.",
+        "english": "Are you with me, guys? I don't want to do the dirty work all alone."
+      },
+      {
+        "speaker": 5,
+        "french": "Carrément ! Mais Gaëtan a quelque chose à nous dire, il me semble.",
+        "english": "Absolutely! But Gaëtan has something to tell us, it seems to me."
+      },
+      {
+        "speaker": 6,
+        "french": "C'est exact. Un mec vient me voir hier et me dit qu'il a un tuyau sur l'assassinat d'Antoine.",
+        "english": "That's right. A guy came to see me yesterday and told me he has a tip about Antoine's murder."
+      },
+      {
+        "speaker": 7,
+        "french": "Je crois qu'il bosse pour une boîte plus ou moins réglo qui revend des bagnoles d'occasion.",
+        "english": "I think he works for a more or less legit outfit that resells used cars."
+      },
+      {
+        "speaker": 8,
+        "french": "Je lui demande combien il veut et il me répond qu'il va me faire une fleur,",
+        "english": "I asked him how much he wanted and he told me he'd do me a favour,"
+      },
+      {
+        "speaker": 9,
+        "french": "qu'il ne veut pas de fric parce qu'Antoine était un de ses potes.",
+        "english": "that he doesn't want any cash because Antoine was one of his mates."
+      },
+      {
+        "speaker": 10,
+        "french": "D'après lui, les services secrets ont démasqué notre homme et découvert son secret.",
+        "english": "According to him, the secret services unmasked our man and discovered his secret."
+      },
+      {
+        "speaker": 11,
+        "french": "Il était fichu, le pauvre Antoine. Il ne portait même pas de flingue pour se défendre.",
+        "english": "He was done for, poor Antoine. He wasn't even carrying a gun to defend himself."
+      },
+      {
+        "speaker": 12,
+        "french": "Ce type avec qui tu as causé, il était comment ?",
+        "english": "This guy you chatted to, what was he like?"
+      },
+      {
+        "speaker": 13,
+        "french": "Grand, costaud et mal fringué, pas très propre, avec une vraie gueule de bandit.",
+        "english": "Tall, stocky and badly dressed, not very clean, with a real bandit's face."
+      },
+      {
+        "speaker": 14,
+        "french": "Ça se voyait qu'il n'était pas un enfant de chœur, si tu vois ce que je veux dire.",
+        "english": "You could tell he was no altar boy, if you see what I mean."
+      },
+      {
+        "speaker": 15,
+        "french": "C'est bizarre, tu ne trouves pas ? Pourquoi il n'est pas allé voir les flics directement ?",
+        "english": "It's strange, don't you think? Why didn't he go straight to the cops?"
+      },
+      {
+        "speaker": 16,
+        "french": "Je suis d'accord que c'est une histoire dingue, et ce type est carrément louche,",
+        "english": "I agree it's a crazy story, and this guy is totally shady,"
+      },
+      {
+        "speaker": 17,
+        "french": "mais ça ne veut pas dire pour autant qu'il raconte des salades.",
+        "english": "but that doesn't mean he's talking rubbish."
+      },
+      {
+        "speaker": 18,
+        "french": "C'est clair, et c'est le seul renseignement plus ou moins fiable que nous ayons reçu jusqu'à présent,",
+        "english": "That's clear, and it's the only more or less reliable piece of information we've received so far,"
+      },
+      {
+        "speaker": 19,
+        "french": "la meilleure piste que nous puissions suivre. Mais aussi, peut-être, le plus gros mensonge qui soit.",
+        "english": "the best lead we can follow. But also, perhaps, the biggest lie there is."
+      },
+      {
+        "speaker": 20,
+        "french": "N'empêche, il faut y aller carrément, coûte que coûte. La tâche est difficile, mais je m'en fiche.",
+        "english": "Still, we have to go at it full on, at all costs. The task is difficult, but I don't care."
+      },
+      {
+        "speaker": 21,
+        "french": "J'en ferai mon affaire, patron. Je suis l'unique personne qui connaisse notre indic.",
+        "english": "I'll handle it, boss. I'm the only person who knows our informer."
+      },
+      {
+        "speaker": 22,
+        "french": "Si tu insistes, mais sois prudent. Il ne faut pas que tu boives une infusion avec lui !",
+        "english": "If you insist, but be careful. You mustn't drink a herbal tea with him!"
+      }
+    ]
+  },
+  {
+    "lesson_id": 89,
+    "dialogue": [
+      {
+        "speaker": 1,
+        "french": "Oh là là, pourquoi est-ce que tu fais cette tête ? Qu'est qu'il t'arrive, ma pauvre amie ?",
+        "english": "Oh my, why are you making that face? What's happening to you, my poor friend?"
+      },
+      {
+        "speaker": 2,
+        "french": "Je devais partir hier aux sports d'hiver avec une bande de copains.",
+        "english": "I was supposed to leave yesterday for winter sports with a group of mates."
+      },
+      {
+        "speaker": 3,
+        "french": "On allait faire la fête — et peut-être un peu de sport — dans un super chalet au pied des pistes.",
+        "english": "We were going to party — and maybe do a bit of sport — in a great chalet at the foot of the slopes."
+      },
+      {
+        "speaker": 4,
+        "french": "J'avais fait les valises, préparé mes affaires de ski et commandé un taxi pour cinq heures —",
+        "english": "I'd packed the suitcases, prepared my ski gear and ordered a taxi for five o'clock —"
+      },
+      {
+        "speaker": 5,
+        "french": "il n'est pas question de faire la grasse matinée quand on est en vacances à la neige !",
+        "english": "there's no question of sleeping in when you're on holiday in the snow!"
+      },
+      {
+        "speaker": 6,
+        "french": "Je quittais la maison quand j'ai reçu un message du bureau disant que ma présence était demandée.",
+        "english": "I was leaving the house when I received a message from the office saying my presence was required."
+      },
+      {
+        "speaker": 7,
+        "french": "J'avais fait le point avec mes collègues la veille, mais ils m'ont quand même fait venir aux aurores.",
+        "english": "I'd already updated my colleagues the day before, but they still made me come in at the crack of dawn."
+      },
+      {
+        "speaker": 8,
+        "french": "Du coup, j'ai dû faire une croix sur les vacances. Voilà pourquoi je fais la tête.",
+        "english": "So I had to kiss goodbye to the holiday. That's why I'm pulling this face."
+      },
+      {
+        "speaker": 9,
+        "french": "Mais à vrai dire, ça me soulage un petit peu aussi car je devais partir avec Gaspard et Noé.",
+        "english": "But to be honest, it relieves me a little too because I was supposed to go with Gaspard and Noé."
+      },
+      {
+        "speaker": 10,
+        "french": "Partir avec ces deux-là, ensemble ? Il faut le faire !",
+        "english": "Going with those two, together? That takes some doing!"
+      },
+      {
+        "speaker": 11,
+        "french": "Gaspard s'est fait connaître pour son esprit de compétition bien développé.",
+        "english": "Gaspard made a name for himself with his highly developed competitive spirit."
+      },
+      {
+        "speaker": 12,
+        "french": "Pour ne pas dire esprit agressif ! Quand il est en compétition, celui-là, il ne fait pas de cadeau !",
+        "english": "Not to say aggressive spirit! When he's competing, that one doesn't give any quarter!"
+      },
+      {
+        "speaker": 13,
+        "french": "D'ailleurs, il s'est fait un certain nombre d'ennemis à cause de ça.",
+        "english": "Moreover, he's made a fair number of enemies because of that."
+      },
+      {
+        "speaker": 14,
+        "french": "Mais il sait aussi se faire respecter. Gaspard est ami avec toutes les stars du sport, à qui il fait la bise.",
+        "english": "But he also knows how to make himself respected. Gaspard is friends with all the sports stars, whom he kisses hello."
+      },
+      {
+        "speaker": 15,
+        "french": "Comment se fait-il qu'il soit devenu un si bon skieur ? Il a dû se faire aider par quelqu'un, non ?",
+        "english": "How come he became such a good skier? He must have had help from someone, right?"
+      },
+      {
+        "speaker": 16,
+        "french": "Non, il s'est fait tout seul, sans entraîneur, sans équipe et sans sponsor.",
+        "english": "No, he did it all by himself, without a coach, without a team and without a sponsor."
+      },
+      {
+        "speaker": 17,
+        "french": "Et Noé ?",
+        "english": "And Noé?"
+      },
+      {
+        "speaker": 18,
+        "french": "Il me fait de la peine, celui-là : c'est un désastre ambulant.",
+        "english": "He makes me feel sorry, that one: he's a walking disaster."
+      },
+      {
+        "speaker": 19,
+        "french": "On lui a souvent dit de faire gaffe mais il n'en fait qu'à sa tête.",
+        "english": "We've often told him to be careful but he only does what he wants."
+      },
+      {
+        "speaker": 20,
+        "french": "L'année dernière, il n'a fait que quelques mètres avant de tomber et se fracturer les deux bras.",
+        "english": "Last year, he only went a few metres before falling and breaking both arms."
+      },
+      {
+        "speaker": 21,
+        "french": "Il a dû se faire secourir par hélicoptère.",
+        "english": "He had to be rescued by helicopter."
+      },
+      {
+        "speaker": 22,
+        "french": "Cela dit, il a visiblement fait des progrès car l'année d'avant, il s'était cassé la cheville en descendant du train à la station de ski.",
+        "english": "That said, he's obviously made progress because the year before, he'd broken his ankle getting off the train at the ski resort."
+      }
+    ]
+  },
+  {
+    "lesson_id": 90,
+    "dialogue": [
+      {
+        "speaker": 1,
+        "french": "Vous n'ignorez certainement pas qu'il peut être compliqué d'apprendre le genre des noms,",
+        "english": "You certainly don't ignore that it can be complicated to learn the gender of nouns,"
+      },
+      {
+        "speaker": 2,
+        "french": "surtout ceux qui peuvent être et masculin et féminin.",
+        "english": "especially those that can be both masculine and feminine."
+      },
+      {
+        "speaker": 3,
+        "french": "Du coup, j'ai préparé un petit jeu pour vous aider, si ça vous convient.",
+        "english": "So I've prepared a little game to help you, if that suits you."
+      },
+      {
+        "speaker": 4,
+        "french": "Ça me va. Mais cela ne veut pas dire pour autant que je retiendrai tout !",
+        "english": "That suits me. But that doesn't mean I'll remember everything!"
+      },
+      {
+        "speaker": 5,
+        "french": "Allons-y. La critique du film faite par le critique du Monde n'était pas tendre. Elle était assez méchante !",
+        "english": "Let's go. The film review written by the critic at Le Monde wasn't tender. It was rather mean!"
+      },
+      {
+        "speaker": 6,
+        "french": "Quand Bruno a appris que le tableau était un faux, il était tellement furieux qu'il l'a déchiqueté avec une faux.",
+        "english": "When Bruno learned that the painting was a fake, he was so furious he shredded it with a scythe."
+      },
+      {
+        "speaker": 7,
+        "french": "Tout le monde a entendu parler du Tour de France et de la Tour Eiffel, même ceux qui ne sont jamais venus dans l'Hexagone.",
+        "english": "Everyone has heard of the Tour de France and the Eiffel Tower, even those who have never been to France (the Hexagon)."
+      },
+      {
+        "speaker": 8,
+        "french": "Les experts ont annoncé une vague de chaleur cet été, sans préciser quand. Comme d'habitude, ils sont restés dans le vague.",
+        "english": "Experts have announced a heat wave this summer, without specifying when. As usual, they remained vague."
+      },
+      {
+        "speaker": 9,
+        "french": "Mélangez un peu de cette vase avec de l'eau du ruisseau et mettez-la dans un vase avec vos plantes.",
+        "english": "Mix a little of this mud with water from the stream and put it in a vase with your plants."
+      },
+      {
+        "speaker": 10,
+        "french": "Ayant volé une somme importante d'argent, le voleur a fait un petit somme dans sa voiture. C'est comme ça qu'il a été arrêté !",
+        "english": "Having stolen a large sum of money, the thief had a little nap in his car. That's how he was caught!"
+      },
+      {
+        "speaker": 11,
+        "french": "J'ai appris ce matin que son frère a un nouveau poste. Il travaille maintenant à la poste du village.",
+        "english": "I learned this morning that his brother has a new job. He now works at the village post office."
+      },
+      {
+        "speaker": 12,
+        "french": "J'ai abîmé ma nouvelle poêle à frire en la posant sur un poêle trop chaud.",
+        "english": "I damaged my new frying pan by placing it on a stove that was too hot."
+      },
+      {
+        "speaker": 13,
+        "french": "Aussitôt son mémoire terminé, l'étudiante a tout oublié. Sa mémoire lui a fait défaut.",
+        "english": "As soon as her dissertation was finished, the student forgot everything. Her memory failed her."
+      },
+      {
+        "speaker": 14,
+        "french": "D'après ce livre de cuisine, il faut une livre de haricots verts et une livre et demie de petits pois.",
+        "english": "According to this cookbook, you need a pound of green beans and a pound and a half of peas."
+      },
+      {
+        "speaker": 15,
+        "french": "Tu t'y prends comme un manche ! Tu as enfilé le pied dans la manche de ta chemise.",
+        "english": "You're going about it like a handle (clumsily)! You've put your foot in the sleeve of your shirt."
+      },
+      {
+        "speaker": 16,
+        "french": "Suivre la mode peut s'avérer très fatigant. Ce n'est pas un mode de vie pour les vieux !",
+        "english": "Following fashion can prove very tiring. It's not a lifestyle for old people!"
+      },
+      {
+        "speaker": 17,
+        "french": "Le voile de la mariée était tellement volumineux qu'on aurait dit une voile de bateau.",
+        "english": "The bride's veil was so voluminous it looked like a boat sail."
+      },
+      {
+        "speaker": 18,
+        "french": "Pour fabriquer ce petit bronze, le sculpteur a utilisé la coquille d'une moule comme un moule.",
+        "english": "To make this little bronze, the sculptor used the shell of a mussel as a mould."
+      },
+      {
+        "speaker": 19,
+        "french": "Je voudrais un crème et un chocolat chaud, avec de la crème chantilly servie à part.",
+        "english": "I'd like a cream coffee and a hot chocolate, with whipped cream served on the side."
+      },
+      {
+        "speaker": 20,
+        "french": "Le prof a un physique de jeune premier mais il est connu pour ses recherches portant sur la physique théorique.",
+        "english": "The teacher has the looks of a young leading man but he's known for his research on theoretical physics."
+      },
+      {
+        "speaker": 21,
+        "french": "Merci, tout est très clair !",
+        "english": "Thank you, everything is very clear!"
+      },
+      {
+        "speaker": 22,
+        "french": "J'ai un petit quelque chose pour vous remercier, mais j'ai une chose à faire avant de vous le donner :",
+        "english": "I have a little something to thank you with, but I have one thing to do before giving it to you:"
+      },
+      {
+        "speaker": 23,
+        "french": "vous embrasser et vous donner plein de bises.",
+        "english": "kiss you and give you lots of kisses."
+      },
+      {
+        "speaker": 24,
+        "french": "Quel délice... je veux dire : quelles délices !",
+        "english": "What a delight... I mean: what delights!"
+      }
+    ]
+  },
+  {
+    "lesson_id": 91,
+    "dialogue": [
+      {
+        "speaker": 1,
+        "french": "Qu'est-ce qu'il y a, Driss ? Tu as l'air complètement KO. Ça ne va pas ?",
+        "english": "What's up, Driss? You look completely KO. Are you okay?"
+      },
+      {
+        "speaker": 2,
+        "french": "Si si, mais tout est sens dessus dessous en ce moment. J'ai le nez dans le guidon depuis cinq jours parce que j'écris un article sur les Dauphins.",
+        "english": "Yes, but everything is topsy-turvy at the moment. I've had my nose to the grindstone for five days because I'm writing an article about the Dolphins."
+      },
+      {
+        "speaker": 3,
+        "french": "Cette équipe de foot dont le capitaine, Dulong, a disparu dans la nature en 1980 ?",
+        "english": "That football team whose captain, Dulong, disappeared into the wild in 1980?"
+      },
+      {
+        "speaker": 4,
+        "french": "Je m'en souviens bien. C'est une histoire qui a défrayé la chronique à l'époque.",
+        "english": "I remember it well. It's a story that made the headlines at the time."
+      },
+      {
+        "speaker": 5,
+        "french": "C'est vrai, elle a fait couler beaucoup d'encre mais, d'après moi, on n'a jamais su toute la vérité.",
+        "english": "It's true, it generated a lot of ink, but in my opinion, we never knew the whole truth."
+      },
+      {
+        "speaker": 6,
+        "french": "Je n'ai pas réussi à parler avec Dulong, ou, plutôt, il a exigé une somme faramineuse pour une interview.",
+        "english": "I didn't manage to speak with Dulong, or rather, he demanded a fabulous sum for an interview."
+      },
+      {
+        "speaker": 7,
+        "french": "Mais son ancien agent, Jacques Cartier, lui, a donné son accord tout de suite. Bingo !",
+        "english": "But his former agent, Jacques Cartier, gave his agreement right away. Bingo!"
+      },
+      {
+        "speaker": 8,
+        "french": "Je pensais qu'il allait accepter du bout des lèvres, mais pas du tout ! Il en avait très envie. J'aurais dû m'en méfier, tant il était enthousiaste.",
+        "english": "I thought he'd accept half-heartedly, but not at all! He really wanted to. I should have been wary, he was so enthusiastic."
+      },
+      {
+        "speaker": 9,
+        "french": "Je lui posais des questions vachement précises mais, à chaque fois, il bottait en touche. Il me racontait la vérité, soit. Mais sa vérité à lui !",
+        "english": "I asked him really precise questions but each time he dodged the issue. He told me the truth, sure. But his version of the truth!"
+      },
+      {
+        "speaker": 10,
+        "french": "Tu aurais dû me demander de t'accompagner. « Au secours ! J'ai besoin d'aide ! »",
+        "english": "You should have asked me to come with you. 'Help! I need help!'"
+      },
+      {
+        "speaker": 11,
+        "french": "Je serais venue tout de suite. Avec des mecs comme ça, c'est toujours le plus fort qui l'emporte.",
+        "english": "I would have come right away. With guys like that, it's always the strongest who wins."
+      }
+    ]
+  },
+  {
+    "lesson_id": 92,
+    "dialogue": [
+      {
+        "speaker": 1,
+        "french": "Un grand merci d'être venue sur le plateau de « Virgules » pour parler de votre dernier livre : « Une réputation injuste, une vie écourtée »,",
+        "english": "Many thanks for coming to the set of 'Virgules' to talk about your latest book: 'An Unjust Reputation, A Life Cut Short',"
+      },
+      {
+        "speaker": 2,
+        "french": "dans lequel vous superposez deux Marie-Antoinette : une princesse inconstante et dépensière",
+        "english": "in which you superimpose two Marie-Antoinettes: a fickle and spendthrift princess"
+      },
+      {
+        "speaker": 3,
+        "french": "et une femme courageuse et sous-estimée. Je suis tenté de vous demander :",
+        "english": "and a brave and underestimated woman. I'm tempted to ask you:"
+      },
+      {
+        "speaker": 4,
+        "french": "pourquoi un livre de plus — qui n'est pas un roman — sur un personnage qui a déjà fait couler énormément d'encre ?",
+        "english": "why another book — which isn't a novel — about a character who has already generated enormous amounts of ink?"
+      },
+      {
+        "speaker": 5,
+        "french": "N'est-ce pas un peu irréaliste d'essayer de rétablir la réputation d'un personnage si controversé ?",
+        "english": "Isn't it a bit unrealistic to try to restore the reputation of such a controversial character?"
+      },
+      {
+        "speaker": 6,
+        "french": "Bien au contraire. On ne cesse de revisiter l'histoire de notre pays, nous, les historiens,",
+        "english": "Quite the contrary. We historians never stop revisiting the history of our country,"
+      },
+      {
+        "speaker": 7,
+        "french": "et de réexaminer la vie de celles et ceux qui en étaient les acteurs principaux.",
+        "english": "and re-examining the lives of those who were its main protagonists."
+      },
+      {
+        "speaker": 8,
+        "french": "Dans le cas de Marie-Antoinette, on a souvent essayé de défaire et de refaire la réputation de celle que l'on traitait de « Madame Déficit ».",
+        "english": "In the case of Marie-Antoinette, people have often tried to undo and redo the reputation of the one who was called 'Madame Deficit'."
+      },
+      {
+        "speaker": 9,
+        "french": "Je crois sincèrement qu'elle a été maltraitée par ces historiens, dont la plupart sont des hommes.",
+        "english": "I sincerely believe she was mistreated by these historians, most of whom are men."
+      },
+      {
+        "speaker": 10,
+        "french": "Je pensais qu'il fallait la réévaluer d'un point de vue féministe, non pas comme une femme irresponsable et écervelée",
+        "english": "I thought she needed to be reassessed from a feminist point of view, not as an irresponsible and scatterbrained woman"
+      },
+      {
+        "speaker": 11,
+        "french": "mais comme un personnage fort, en avance sur son temps — et injustement méprisée.",
+        "english": "but as a strong character, ahead of her time — and unjustly despised."
+      },
+      {
+        "speaker": 12,
+        "french": "Sa réputation est entachée depuis des siècles par un certain nombre de légendes",
+        "english": "Her reputation has been tainted for centuries by a certain number of legends"
+      },
+      {
+        "speaker": 13,
+        "french": "dont la fameuse « Qu'ils mangent de la brioche ». Une phrase qu'elle n'a jamais prononcée.",
+        "english": "including the famous 'Let them eat cake.' A phrase she never uttered."
+      },
+      {
+        "speaker": 14,
+        "french": "Mais, en lisant votre ouvrage, on a l'impression d'avoir affaire à une sainte. Je cite :",
+        "english": "But, reading your work, one gets the impression of dealing with a saint. I quote:"
+      },
+      {
+        "speaker": 15,
+        "french": "« Elle passa son enfance en Autriche, une fille heureuse qui fit le bonheur de sa famille. »",
+        "english": "'She spent her childhood in Austria, a happy girl who was the joy of her family.'"
+      },
+      {
+        "speaker": 16,
+        "french": "« Elle épousa le Dauphin, devenant une épouse irréprochable et une excellente mère. » On dirait un ange !",
+        "english": "'She married the Dauphin, becoming an irreproachable wife and an excellent mother.' You'd think she was an angel!"
+      },
+      {
+        "speaker": 17,
+        "french": "Mais dans l'avant-propos, j'écris « Elle fut au cœur de nombreux scandales, et elle dépensa des sommes faramineuses en robes et bijoux. »",
+        "english": "But in the foreword, I write 'She was at the heart of many scandals, and she spent fabulous sums on dresses and jewels.'"
+      },
+      {
+        "speaker": 18,
+        "french": "Ainsi, elle fut tour à tour adorée et haïe, mais elle était tenue éloignée du monde des hommes. »",
+        "english": "Thus, she was in turn adored and hated, but she was kept away from the world of men.'"
+      },
+      {
+        "speaker": 19,
+        "french": "Savez-vous quels ont été ses derniers mots ?",
+        "english": "Do you know what her last words were?"
+      },
+      {
+        "speaker": 20,
+        "french": "Euh, « Vive le Roi ! » ? « Que Dieu bénisse la France ! » ? Quelque chose de ce genre ?",
+        "english": "Um, 'Long live the King!'? 'God bless France!'? Something like that?"
+      },
+      {
+        "speaker": 21,
+        "french": "Vous n'y êtes pas du tout. Écoutez bien : « Ayant marché par mégarde sur le pied de son bourreau,",
+        "english": "You're completely wrong. Listen carefully: 'Having inadvertently stepped on her executioner's foot,"
+      },
+      {
+        "speaker": 22,
+        "french": "elle le regarda doucement et lui dit \"Excusez-moi, Monsieur, je ne l'ai pas fait exprès\". »",
+        "english": "she looked at him gently and said \"Excuse me, Monsieur, I didn't mean to.\"'"
+      },
+      {
+        "speaker": 23,
+        "french": "Peut-on dire vraiment que celle qui a écrit dans son testament « Que mon fils ne cherche jamais à venger notre mort »,",
+        "english": "Can we truly say that she who wrote in her testament 'May my son never seek to avenge our death',"
+      },
+      {
+        "speaker": 24,
+        "french": "peut-on vraiment dire que cette femme n'était qu'une tête de linotte ?",
+        "english": "can we truly say that this woman was nothing but a birdbrain?"
+      },
+      {
+        "speaker": 25,
+        "french": "Vous avez sans doute raison, mais connaissant le sort réservé à Marie-Antoinette, à votre place, j'éviterais le mot « tête »...",
+        "english": "You're no doubt right, but knowing the fate reserved for Marie-Antoinette, in your place, I'd avoid the word 'head'..."
+      }
+    ]
+  },
+  {
+    "lesson_id": 93,
+    "dialogue": [
+      {
+        "speaker": 1,
+        "french": "« Le quatorze juillet mil sept cent quatre-vingt-neuf marqua un tournant majeur dans l'histoire de France.",
+        "english": "'The fourteenth of July seventeen hundred and eighty-nine marked a major turning point in the history of France."
+      },
+      {
+        "speaker": 2,
+        "french": "En effet, la prise de la Bastille annonça la fin de la monarchie et les débuts de la République.",
+        "english": "Indeed, the storming of the Bastille heralded the end of the monarchy and the beginnings of the Republic."
+      },
+      {
+        "speaker": 3,
+        "french": "Mais qu'en fut-il vraiment ? Que se passa-t-il exactement en ce « jour de gloire » ?",
+        "english": "But what really happened? What exactly occurred on this 'day of glory'?"
+      },
+      {
+        "speaker": 4,
+        "french": "Combien de misérables prisonniers furent libérés de ce lieu morne par ces révolutionnaires de fortune ?",
+        "english": "How many wretched prisoners were freed from this dismal place by these makeshift revolutionaries?"
+      },
+      {
+        "speaker": 5,
+        "french": "Le récit est palpitant, même si le bilan de la libération n'est pas à la hauteur du mythe.",
+        "english": "The account is thrilling, even if the outcome of the liberation doesn't live up to the myth."
+      },
+      {
+        "speaker": 6,
+        "french": "En juillet de cette année fatidique, Louis Seize subissait les pressions de la toute nouvelle Assemblée nationale.",
+        "english": "In July of that fateful year, Louis the Sixteenth was under pressure from the brand-new National Assembly."
+      },
+      {
+        "speaker": 7,
+        "french": "Le roi fit semblant d'accepter leurs exigences, mais en réalité, il fit venir les troupes à Paris",
+        "english": "The king pretended to accept their demands, but in reality, he brought troops to Paris"
+      },
+      {
+        "speaker": 8,
+        "french": "et les concentra tout autour de la capitale.",
+        "english": "and concentrated them all around the capital."
+      },
+      {
+        "speaker": 9,
+        "french": "Les Parisiens s'inquiétèrent de la situation, et l'agitation grandit de minute en minute, d'heure en heure.",
+        "english": "The Parisians grew worried about the situation, and the agitation grew minute by minute, hour by hour."
+      },
+      {
+        "speaker": 10,
+        "french": "Le douze juillet une émeute éclata dans la ville et de violents combats firent rage.",
+        "english": "On the twelfth of July a riot broke out in the city and violent fighting raged."
+      },
+      {
+        "speaker": 11,
+        "french": "Peu à peu, les citoyens descendirent dans la rue, assoiffés de liberté et de justice.",
+        "english": "Little by little, the citizens took to the streets, thirsting for liberty and justice."
+      },
+      {
+        "speaker": 12,
+        "french": "La foule grossit, les voix s'élevèrent de plus en plus fort, les citoyens prirent les armes.",
+        "english": "The crowd swelled, voices rose louder and louder, the citizens took up arms."
+      },
+      {
+        "speaker": 13,
+        "french": "Les armes, soit, mais il manquait des munitions ! Où en trouver ? Dans une forteresse, forcément !",
+        "english": "Weapons, fine, but there were no munitions! Where to find them? In a fortress, of course!"
+      },
+      {
+        "speaker": 14,
+        "french": "Alors s'éleva le cri « À la Bastille, citoyens ! La liberté ou la mort ! »",
+        "english": "Then the cry rose up 'To the Bastille, citizens! Liberty or death!'"
+      },
+      {
+        "speaker": 15,
+        "french": "et, comme un seul homme, la foule se dirigea vers l'effroyable prison, déterminée à en faire tomber ses murs sinistres.",
+        "english": "and, as one man, the crowd headed towards the dreadful prison, determined to bring down its sinister walls."
+      },
+      {
+        "speaker": 16,
+        "french": "En débouchant de la rue Saint-Antoine, les révoltés marquèrent un temps d'arrêt, tant l'édifice était menaçant,",
+        "english": "Coming out of the Rue Saint-Antoine, the rebels paused, so threatening was the building,"
+      },
+      {
+        "speaker": 17,
+        "french": "mais la colère et la passion l'emportèrent et toute la fureur du peuple se concentra sur ce symbole de leur oppression.",
+        "english": "but anger and passion prevailed and all the people's fury focused on this symbol of their oppression."
+      },
+      {
+        "speaker": 18,
+        "french": "Cependant, la Bastille ne fut pas prise, elle se rendit ;",
+        "english": "However, the Bastille was not taken, it surrendered;"
+      },
+      {
+        "speaker": 19,
+        "french": "et les révolutionnaires — car il s'agit bien d'une révolution, pas d'une révolte — ne tuèrent qu'un seul homme.",
+        "english": "and the revolutionaries — for this was indeed a revolution, not a revolt — killed only a single man."
+      },
+      {
+        "speaker": 20,
+        "french": "Ainsi, notre Fête nationale ne commémore ni la violence ni la haine,",
+        "english": "Thus, our National Day commemorates neither violence nor hatred,"
+      },
+      {
+        "speaker": 21,
+        "french": "mais la France libérée des traîtres et des menteurs de l'Ancien régime.",
+        "english": "but France liberated from the traitors and liars of the Old Regime."
+      },
+      {
+        "speaker": 22,
+        "french": "Au fait, au moment de la prise, le donjon funeste ne contenait qu'une petite poignée de prisonniers ! »",
+        "english": "By the way, at the time of the storming, the ominous keep contained only a small handful of prisoners!'"
+      }
+    ]
+  },
+  {
+    "lesson_id": 94,
+    "dialogue": [
+      {
+        "speaker": 1,
+        "french": "Au secours ! Qu'est-ce que j'ai fichu ?",
+        "english": "Help! What have I done?"
+      },
+      {
+        "speaker": 2,
+        "french": "Je faisais des tableaux tranquillement avec mon tableur quand je me suis arrêté pour chercher à manger à la cuisine.",
+        "english": "I was quietly making spreadsheets when I stopped to look for something to eat in the kitchen."
+      },
+      {
+        "speaker": 3,
+        "french": "Au retour, je me suis remis devant l'écran, et patatras ! Panne totale.",
+        "english": "When I came back, I sat down in front of the screen, and crash! Total breakdown."
+      },
+      {
+        "speaker": 4,
+        "french": "Maintenant, rien ne marche : ni l'ordinateur, ni le wifi, ni le clavier, ni la prise, rien de rien.",
+        "english": "Now, nothing works: not the computer, not the wifi, not the keyboard, not the plug, nothing at all."
+      },
+      {
+        "speaker": 5,
+        "french": "Aïe ! C'est embêtant. Mais tu aurais dû faire plus attention —",
+        "english": "Ouch! That's annoying. But you should have paid more attention —"
+      },
+      {
+        "speaker": 6,
+        "french": "ou plus de ménage : t'as vu le fouillis dans ton bureau ?",
+        "english": "or done more cleaning: did you see the mess in your office?"
+      },
+      {
+        "speaker": 7,
+        "french": "Mais par où commencer le rangement quand tout est sens dessus dessous ?",
+        "english": "But where to start tidying when everything is upside down?"
+      },
+      {
+        "speaker": 8,
+        "french": "C'est pas vrai ! Il y a juste un petit peu de désordre, c'est tout, deux ou trois choses de travers.",
+        "english": "That's not true! There's just a little bit of disorder, that's all, two or three things out of place."
+      },
+      {
+        "speaker": 9,
+        "french": "Je l'aurais rangé hier si j'avais eu le temps mais je travaillais contre la montre.",
+        "english": "I would have tidied it yesterday if I'd had the time but I was working against the clock."
+      },
+      {
+        "speaker": 10,
+        "french": "À ta place, j'aurais fait le ménage tous les jours. Comme ça tu n'aurais pas eu ce problème.",
+        "english": "In your place, I would have cleaned every day. That way you wouldn't have had this problem."
+      },
+      {
+        "speaker": 11,
+        "french": "Comment tu vas faire pour t'en sortir ? Tu n'es ni électricien, ni réparateur informatique.",
+        "english": "How are you going to sort this out? You're neither an electrician nor a computer repairman."
+      },
+      {
+        "speaker": 12,
+        "french": "J'ai tenté de contacter le service d'assistance en ligne mais l'attente était interminable.",
+        "english": "I tried to contact the online support service but the wait was endless."
+      },
+      {
+        "speaker": 13,
+        "french": "Tu aurais pu demander à Driss, c'est un as de l'ordinateur. Il aurait remis tout en ordre en moins de deux.",
+        "english": "You could have asked Driss, he's a computer whizz. He would have put everything back in order in no time."
+      },
+      {
+        "speaker": 14,
+        "french": "Mais il est parti ce matin à Toulouse pour assister à un atelier.",
+        "english": "But he left this morning for Toulouse to attend a workshop."
+      },
+      {
+        "speaker": 15,
+        "french": "Zut ! Si j'avais su, je l'aurais appelé sur le champ mais je pensais qu'il était toujours dans le coin.",
+        "english": "Damn! If I'd known, I would have called him right away but I thought he was still around."
+      },
+      {
+        "speaker": 16,
+        "french": "Je suis certain qu'il serait venu tout de suite si je lui avais demandé. Il est très serviable.",
+        "english": "I'm sure he would have come right away if I'd asked him. He's very helpful."
+      },
+      {
+        "speaker": 17,
+        "french": "Quand même, il aurait pu me dire qu'il partait et qu'il n'était pas disponible !",
+        "english": "Still, he could have told me he was leaving and that he wasn't available!"
+      },
+      {
+        "speaker": 18,
+        "french": "Là, tu te livres à ton passe-temps favori : te plaindre après coup. Sniff !",
+        "english": "Now you're indulging in your favourite pastime: complaining afterwards. Sniff!"
+      },
+      {
+        "speaker": 19,
+        "french": "Et toi, tu me critiques toujours : « T'aurais dû faire ci, tu n'aurais pas dû faire ça ». Et patati et patata.",
+        "english": "And you, you always criticise me: 'You should have done this, you shouldn't have done that.' And blah blah blah."
+      },
+      {
+        "speaker": 20,
+        "french": "Peut-être bien, mais j'aurais été contente si tu m'avais appelée. J'aurais pu t'aider.",
+        "english": "Maybe so, but I would have been pleased if you'd called me. I could have helped you."
+      },
+      {
+        "speaker": 21,
+        "french": "Comment cela ? Toi non plus, tu n'es pas un crack de l'informatique, que je sache.",
+        "english": "How so? You're not exactly a computer whizz either, as far as I know."
+      },
+      {
+        "speaker": 22,
+        "french": "Peut-être pas, et je n'aurais pas su réparer l'équipement. Mais j'ai de bons yeux et je sais regarder.",
+        "english": "Maybe not, and I wouldn't have known how to fix the equipment. But I have good eyes and I know how to look."
+      },
+      {
+        "speaker": 23,
+        "french": "Ta machine est débranchée : tu as dû te prendre les pieds bêtement dans le cordon d'alimentation.",
+        "english": "Your machine is unplugged: you must have stupidly caught your feet in the power cord."
+      }
+    ]
+  },
+  {
+    "lesson_id": 95,
+    "dialogue": [
+      {
+        "speaker": 1,
+        "french": "Bonsoir à tous et bienvenue. Voici les principaux titres de l'actualité de ce soir.",
+        "english": "Good evening everyone and welcome. Here are the main headlines for tonight."
+      },
+      {
+        "speaker": 2,
+        "french": "Un cambriolage a eu lieu hier aux alentours de minuit dans un palace de la Côte d'Azur :",
+        "english": "A burglary took place yesterday around midnight in a luxury hotel on the Côte d'Azur:"
+      },
+      {
+        "speaker": 3,
+        "french": "un collier de perles rares a été dérobé dans le coffre-fort d'une suite de cet hôtel luxueux,",
+        "english": "a necklace of rare pearls was stolen from the safe of a suite in this luxurious hotel,"
+      },
+      {
+        "speaker": 4,
+        "french": "qui accueille le gratin international pendant le festival du cinéma.",
+        "english": "which hosts the international cream of society during the film festival."
+      },
+      {
+        "speaker": 5,
+        "french": "Une série de vols de bijoux avait déjà défrayé la chronique l'été dernier,",
+        "english": "A series of jewellery thefts had already made the headlines last summer,"
+      },
+      {
+        "speaker": 6,
+        "french": "et ce même hôtel avait été le théâtre d'un casse record très médiatisé.",
+        "english": "and this same hotel had been the scene of a highly publicised record-breaking heist."
+      },
+      {
+        "speaker": 7,
+        "french": "Vous vous en souvenez peut-être : plusieurs centaines de milliers d'euros en diamants ont été volés,",
+        "english": "You may remember: several hundred thousand euros' worth of diamonds were stolen,"
+      },
+      {
+        "speaker": 8,
+        "french": "sous les yeux sidérés du personnel et des clients, par des hommes armés, qui ont disparu dans la nature.",
+        "english": "under the stunned eyes of staff and guests, by armed men who disappeared into thin air."
+      },
+      {
+        "speaker": 9,
+        "french": "Concernant l'incident d'hier, un porte-parole précise que la police ne dispose d'aucun indice à ce stade,",
+        "english": "Regarding yesterday's incident, a spokesperson states that the police have no leads at this stage,"
+      },
+      {
+        "speaker": 10,
+        "french": "mais que plusieurs pistes sont envisagées. Une enquête a été ouverte par le parquet de Nice.",
+        "english": "but that several leads are being considered. An investigation has been opened by the Nice prosecutor's office."
+      },
+      {
+        "speaker": 11,
+        "french": "Les activités vont reprendre à l'usine Dol après une semaine à l'arrêt à cause de dysfonctionnements techniques.",
+        "english": "Activities will resume at the Dol factory after a week's shutdown due to technical malfunctions."
+      },
+      {
+        "speaker": 12,
+        "french": "D'après un employé : « Nous répétons depuis des mois qu'il y a un problème au niveau du refroidissement,",
+        "english": "According to an employee: 'We've been repeating for months that there's a problem with the cooling system,"
+      },
+      {
+        "speaker": 13,
+        "french": "mais on n'a rien voulu entendre. J'aimerais connaître le fond de leur pensée !",
+        "english": "but nobody wanted to listen. I'd like to know what they're really thinking!"
+      },
+      {
+        "speaker": 14,
+        "french": "Maintenant on admet du bout des lèvres qu'il y a effectivement « un souci » — mais c'est un peu tardif. »",
+        "english": "Now they grudgingly admit that there is indeed 'a concern' — but it's a bit late.'"
+      },
+      {
+        "speaker": 15,
+        "french": "Le Salon de l'Agriculture — « la plus grande ferme de France » — ouvre ses portes au public à partir de lundi.",
+        "english": "The Agricultural Show — 'France's biggest farm' — opens its doors to the public from Monday."
+      },
+      {
+        "speaker": 16,
+        "french": "Veaux, vaches, moutons, cochons et taureaux seront au rendez-vous, pour la plus grande joie des visiteurs, grands et petits.",
+        "english": "Calves, cows, sheep, pigs and bulls will be there, to the great delight of visitors, young and old."
+      },
+      {
+        "speaker": 17,
+        "french": "Alors que le nombre d'agriculteurs ne cesse de diminuer et que les prévisions sont pessimistes,",
+        "english": "While the number of farmers keeps decreasing and forecasts are pessimistic,"
+      },
+      {
+        "speaker": 18,
+        "french": "le secteur du bio montre de nombreux signes de dynamisme, d'après les organisateurs.",
+        "english": "the organic sector shows many signs of dynamism, according to the organisers."
+      },
+      {
+        "speaker": 19,
+        "french": "Place à la culture. Koffi Wemba — retenez son nom — est la nouvelle vedette de la scène musicale francophone.",
+        "english": "Now for culture. Koffi Wemba — remember his name — is the new star of the French-speaking music scene."
+      },
+      {
+        "speaker": 20,
+        "french": "Son dernier clip, Je me débrouille, dévoilé hier, a déjà été visionné près de deux millions de fois.",
+        "english": "His latest video, 'I Get By', released yesterday, has already been viewed nearly two million times."
+      },
+      {
+        "speaker": 21,
+        "french": "On perçoit un sourire malicieux dans le regard du musicien lorsqu'il confie : « Je ne suis pas encore une star, mais j'ai de l'espoir ».",
+        "english": "You can detect a mischievous smile in the musician's gaze as he confides: 'I'm not a star yet, but I have hope.'"
+      },
+      {
+        "speaker": 22,
+        "french": "Nous aimerions tous pouvoir nous débrouiller comme lui !",
+        "english": "We'd all like to be able to get by like him!"
+      },
+      {
+        "speaker": 23,
+        "french": "Flash de dernière minute : Un carambolage vient de se produire sur l'autoroute en direction de Nice.",
+        "english": "Last-minute flash: A pile-up has just occurred on the motorway heading towards Nice."
+      },
+      {
+        "speaker": 24,
+        "french": "D'après la gendarmerie, il y aurait plusieurs victimes, dont deux seraient dans un état grave.",
+        "english": "According to the gendarmerie, there would be several victims, two of whom are reportedly in a serious condition."
+      },
+      {
+        "speaker": 25,
+        "french": "Nous vous tiendrons informés. Restez à l'antenne pour notre émission-débat : Aux Quatre coins de l'Hexagone.",
+        "english": "We'll keep you informed. Stay with us for our debate show: The Four Corners of France."
+      }
+    ]
+  },
+  {
+    "lesson_id": 96,
+    "dialogue": [
+      {
+        "speaker": 1,
+        "french": "Peut-on rire de tout ? C'est le sujet de notre débat ce soir, avec deux invités : un psychiatre et un jeune humoriste.",
+        "english": "Can we laugh about everything? That's the subject of tonight's debate, with two guests: a psychiatrist and a young comedian."
+      },
+      {
+        "speaker": 2,
+        "french": "Mm... je sens qu'on va bien rigoler. Mon petit doigt me dit que ce type est aussi drôle qu'une feuille d'impôts !",
+        "english": "Mm... I feel we're going to have a good laugh. My little finger tells me this guy is about as funny as a tax return!"
+      },
+      {
+        "speaker": 3,
+        "french": "Voyez-vous, mon jeune ami, c'est toute la différence entre le monde du spectacle et le monde des arts.",
+        "english": "You see, my young friend, that's the whole difference between the entertainment world and the arts world."
+      },
+      {
+        "speaker": 4,
+        "french": "Un film, on peut le voir et puis le revoir à l'infini, sans qu'il perde sa fraîcheur.",
+        "english": "A film, you can watch it and then rewatch it endlessly without it losing its freshness."
+      },
+      {
+        "speaker": 5,
+        "french": "Mais une histoire drôle, une plaisanterie, une boutade — appelez-la comme vous voudrez —",
+        "english": "But a funny story, a joke, a witty remark — call it whatever you like —"
+      },
+      {
+        "speaker": 6,
+        "french": "est périmée dès qu'on l'entend et ne supporte pas la répétition. Il faut renouveler constamment.",
+        "english": "is stale as soon as you hear it and can't bear repetition. You have to keep renewing constantly."
+      },
+      {
+        "speaker": 7,
+        "french": "Désolé de te contredire, mais tu t'es enfermé dans ton petit monde, qui, lui, est fermé à double tour.",
+        "english": "Sorry to contradict you, but you've locked yourself in your little world, which is double-locked."
+      },
+      {
+        "speaker": 8,
+        "french": "Une bonne blague doit faire rire et réfléchir en même temps, tu vois.",
+        "english": "A good joke should make people laugh and think at the same time, you see."
+      },
+      {
+        "speaker": 9,
+        "french": "Je ne vous ai pas autorisé à me tutoyer, jeune homme. Un peu de politesse, je vous prie.",
+        "english": "I didn't give you permission to use the familiar form with me, young man. A little politeness, please."
+      },
+      {
+        "speaker": 10,
+        "french": "La jeunesse est une belle chose ; quel crime de la laisser gâcher par les jeunes !",
+        "english": "Youth is a beautiful thing; what a crime to let the young waste it!"
+      },
+      {
+        "speaker": 11,
+        "french": "Tu empoches une prime à chaque fois que tu recycles les bons vieux gags ?",
+        "english": "Do you pocket a bonus every time you recycle the good old gags?"
+      },
+      {
+        "speaker": 12,
+        "french": "Ne perdons pas de vue notre thème. Peut-on — doit-on — trouver de l'humour dans tout ?",
+        "english": "Let's not lose sight of our theme. Can we — should we — find humour in everything?"
+      },
+      {
+        "speaker": 13,
+        "french": "La grossesse, la vieillesse, la richesse : ne faudrait-il pas plutôt de la gentillesse et de la tendresse ?",
+        "english": "Pregnancy, old age, wealth: shouldn't we rather have kindness and tenderness?"
+      },
+      {
+        "speaker": 14,
+        "french": "Faut-il s'affoler si quelqu'un plaisante sur des étrangers, par exemple ?",
+        "english": "Should we panic if someone jokes about foreigners, for example?"
+      },
+      {
+        "speaker": 15,
+        "french": "On se permet de taquiner les Lillois, les Alsaciens, les Toulousains, ou les Marseillais.",
+        "english": "We allow ourselves to tease people from Lille, Alsace, Toulouse, or Marseille."
+      },
+      {
+        "speaker": 16,
+        "french": "Alors pourquoi pas des gens plus lointains ? Ce n'est pas de la méchanceté, c'est de la rigolade.",
+        "english": "So why not people further away? It's not nastiness, it's just having a laugh."
+      },
+      {
+        "speaker": 17,
+        "french": "Non : vous rhabillez de vieux préjugés avec des mots nouveaux, monsieur.",
+        "english": "No: you're dressing up old prejudices in new words, sir."
+      },
+      {
+        "speaker": 18,
+        "french": "Et je te dis qu'il faut se fier à ses instincts et se méfier comme de la peste des idées reçues.",
+        "english": "And I'm telling you that you must trust your instincts and beware of received ideas like the plague."
+      },
+      {
+        "speaker": 19,
+        "french": "L'humour adoucit les mœurs et allège notre quotidien grisâtre, je te — je vous — le garantis.",
+        "english": "Humour softens manners and lightens our greyish daily life, I guarantee you — I guarantee it to you."
+      },
+      {
+        "speaker": 20,
+        "french": "Notre débat touche à sa fin, messieurs, et nous ne disposons pas de suffisamment d'éléments",
+        "english": "Our debate is drawing to a close, gentlemen, and we don't have enough material"
+      },
+      {
+        "speaker": 21,
+        "french": "pour arriver à une conclusion ferme et définitive, mais...",
+        "english": "to reach a firm and definitive conclusion, but..."
+      },
+      {
+        "speaker": 22,
+        "french": "Si si. Tu sais ce qu'on dit : on peut rire de tout — mais pas avec tout le monde.",
+        "english": "Yes, yes. You know what they say: you can laugh about everything — but not with everyone."
+      }
+    ]
+  },
+  {
+    "lesson_id": 97,
+    "dialogue": [
+      {
+        "speaker": 1,
+        "french": "Aurélien Fauré dirige une jeune pousse normande spécialisée dans l'équipement automobile,",
+        "english": "Aurélien Fauré runs a Normandy-based start-up specialising in automotive equipment,"
+      },
+      {
+        "speaker": 2,
+        "french": "qui a mis au point un dispositif pour remplacer les pneus classiques par un coussin d'air. Reportage.",
+        "english": "which has developed a device to replace conventional tyres with an air cushion. Report."
+      },
+      {
+        "speaker": 3,
+        "french": "Au début, nous avons travaillé sans filet car le projet était innovant et nous n'avions qu'une vision partielle du produit.",
+        "english": "At the start, we worked without a safety net because the project was innovative and we only had a partial vision of the product."
+      },
+      {
+        "speaker": 4,
+        "french": "Jusqu'en juin dernier, ayant fait un vrai parcours sans faute, nous avions le vent en poupe.",
+        "english": "Until last June, having had a truly faultless run, we had the wind in our sails."
+      },
+      {
+        "speaker": 5,
+        "french": "N'avez-vous pas placé la barre trop haut, en cherchant à remplacer quelque chose d'aussi rudimentaire qu'un pneumatique ?",
+        "english": "Haven't you set the bar too high by trying to replace something as rudimentary as a tyre?"
+      },
+      {
+        "speaker": 6,
+        "french": "Au départ nous avons voulu brûler les étapes pour coiffer nos concurrents au poteau.",
+        "english": "At the outset we wanted to cut corners to pip our competitors at the post."
+      },
+      {
+        "speaker": 7,
+        "french": "Nous avions le nez dans le guidon, si bien que nous avons failli déclarer forfait au bout de six mois,",
+        "english": "We had our noses to the grindstone, so much so that we nearly threw in the towel after six months,"
+      },
+      {
+        "speaker": 8,
+        "french": "car les choses se sont compliquées. Je pensais alors que nous avions fait un faux départ.",
+        "english": "because things got complicated. I thought then that we'd made a false start."
+      },
+      {
+        "speaker": 9,
+        "french": "J'étais même prêt à jeter l'éponge car le projet devenait de plus en plus coûteux.",
+        "english": "I was even ready to throw in the towel because the project was getting more and more expensive."
+      },
+      {
+        "speaker": 10,
+        "french": "Mais mes équipes ont refusé de changer de cap :",
+        "english": "But my teams refused to change course:"
+      },
+      {
+        "speaker": 11,
+        "french": "chaque fois que je leur disais qu'il fallait tout arrêter, ils m'ont renvoyé dans les cordes.",
+        "english": "every time I told them we had to stop everything, they sent me back into the ropes."
+      },
+      {
+        "speaker": 12,
+        "french": "Je me rends compte maintenant qu'ils ont reculé pour mieux sauter.",
+        "english": "I realise now that they stepped back to jump better."
+      },
+      {
+        "speaker": 13,
+        "french": "Vous avez soumis un prototype au Fonds régional de capital-investissement, n'est-ce pas ?",
+        "english": "You submitted a prototype to the Regional Venture Capital Fund, didn't you?"
+      },
+      {
+        "speaker": 14,
+        "french": "Oui. Mais il a botté en touche, sous prétexte que les fonds nécessaires n'étaient plus disponibles",
+        "english": "Yes. But it dodged the issue, on the pretext that the necessary funds were no longer available"
+      },
+      {
+        "speaker": 15,
+        "french": "car un autre projet similaire était plus avancé que le nôtre.",
+        "english": "because another similar project was more advanced than ours."
+      },
+      {
+        "speaker": 16,
+        "french": "Ça alors ! Qu'avez-vous fait ?",
+        "english": "Well, well! What did you do?"
+      },
+      {
+        "speaker": 17,
+        "french": "Rebelote. Nous avons modifié légèrement le dossier et l'avons présenté à nouveau,",
+        "english": "Same again. We slightly modified the file and submitted it again,"
+      },
+      {
+        "speaker": 18,
+        "french": "mais cette fois-ci au Ministère de l'innovation.",
+        "english": "but this time to the Ministry of Innovation."
+      },
+      {
+        "speaker": 19,
+        "french": "Là, nous avons visé en plein dans le mille ! Le ministre ne pouvait pas rester sur le banc sans rien faire.",
+        "english": "There, we hit the bull's eye! The minister couldn't stay on the bench doing nothing."
+      },
+      {
+        "speaker": 20,
+        "french": "Maintenant que nos résultats initiaux sont convaincants, la balle est dans leur camp.",
+        "english": "Now that our initial results are convincing, the ball is in their court."
+      },
+      {
+        "speaker": 21,
+        "french": "Et je suis sûr que nous allons tirer notre épingle du jeu. C'est la dernière ligne droite !",
+        "english": "And I'm sure we'll pull our pin out of the game (come out on top). It's the final straight!"
+      },
+      {
+        "speaker": 22,
+        "french": "Alors ça, c'est formidable !",
+        "english": "Well, that's fantastic!"
+      },
+      {
+        "speaker": 23,
+        "french": "On a failli vous mettre KO, mais vous avez encaissé les coups. Chapeau !",
+        "english": "We nearly knocked you out, but you took the punches. Hats off!"
+      }
+    ]
+  },
+  {
+    "lesson_id": 98,
+    "dialogue": [
+      {
+        "speaker": 1,
+        "french": "Qu'est-ce qu'il y a, Driss ? Tu as l'air complètement KO. Ça ne va pas ?",
+        "english": "What's up, Driss? You look completely KO. Are you okay?"
+      },
+      {
+        "speaker": 2,
+        "french": "Si si, mais tout est sens dessus dessous en ce moment. J'ai le nez dans le guidon depuis cinq jours parce que j'écris un article sur les Dauphins.",
+        "english": "Yes, but everything is topsy-turvy at the moment. I've had my nose to the grindstone for five days because I'm writing an article about the Dolphins."
+      },
+      {
+        "speaker": 3,
+        "french": "Cette équipe de foot dont le capitaine, Dulong, a disparu dans la nature en 1980 ?",
+        "english": "That football team whose captain, Dulong, disappeared into the wild in 1980?"
+      },
+      {
+        "speaker": 4,
+        "french": "Je m'en souviens bien. C'est une histoire qui a défrayé la chronique à l'époque.",
+        "english": "I remember it well. It's a story that made the headlines at the time."
+      },
+      {
+        "speaker": 5,
+        "french": "C'est vrai, elle a fait couler beaucoup d'encre mais, d'après moi, on n'a jamais su toute la vérité.",
+        "english": "It's true, it generated a lot of ink, but in my opinion, we never knew the whole truth."
+      },
+      {
+        "speaker": 6,
+        "french": "Je n'ai pas réussi à parler avec Dulong, ou, plutôt, il a exigé une somme faramineuse pour une interview.",
+        "english": "I didn't manage to speak with Dulong, or rather, he demanded a fabulous sum for an interview."
+      },
+      {
+        "speaker": 7,
+        "french": "Mais son ancien agent, Jacques Cartier, lui, a donné son accord tout de suite. Bingo !",
+        "english": "But his former agent, Jacques Cartier, gave his agreement right away. Bingo!"
+      },
+      {
+        "speaker": 8,
+        "french": "Je pensais qu'il allait accepter du bout des lèvres, mais pas du tout ! Il en avait très envie. J'aurais dû m'en méfier, tant il était enthousiaste.",
+        "english": "I thought he'd accept half-heartedly, but not at all! He really wanted to. I should have been wary, he was so enthusiastic."
+      },
+      {
+        "speaker": 9,
+        "french": "Je lui posais des questions vachement précises mais, à chaque fois, il bottait en touche. Il me racontait la vérité, soit. Mais sa vérité à lui !",
+        "english": "I asked him really precise questions but each time he dodged the issue. He told me the truth, sure. But his version of the truth!"
+      },
+      {
+        "speaker": 10,
+        "french": "Tu aurais dû me demander de t'accompagner. « Au secours ! J'ai besoin d'aide ! »",
+        "english": "You should have asked me to come with you. 'Help! I need help!'"
+      },
+      {
+        "speaker": 11,
+        "french": "Je serais venue tout de suite. Avec des mecs comme ça, c'est toujours le plus fort qui l'emporte.",
+        "english": "I would have come right away. With guys like that, it's always the strongest who wins."
+      }
+    ]
+  },
+  {
+    "lesson_id": 99,
+    "dialogue": [
+      {
+        "speaker": 1,
+        "french": "Tu aurais pu me faire signe ou me texter : c'est la moindre des choses, entre amis.",
+        "english": "You could have given me a sign or texted me: it's the least you can do, between friends."
+      },
+      {
+        "speaker": 2,
+        "french": "Ça fait des semaines que tu devais m'appeler mais tu n'as pas fait le moindre effort.",
+        "english": "It's been weeks since you were supposed to call me but you haven't made the slightest effort."
+      },
+      {
+        "speaker": 3,
+        "french": "Bon, passons. Quoi de neuf ? Qu'est-ce que tu deviens ?",
+        "english": "Right, let's move on. What's new? What have you been up to?"
+      },
+      {
+        "speaker": 4,
+        "french": "Moi et mes associés travaillons depuis des mois sur quelque chose d'hyper-sensible.",
+        "english": "Me and my partners have been working for months on something hyper-sensitive."
+      },
+      {
+        "speaker": 5,
+        "french": "Quel genre de chose ? Pas le projet dont tu m'as parlé dernièrement ?",
+        "english": "What kind of thing? Not the project you told me about recently?"
+      },
+      {
+        "speaker": 6,
+        "french": "Non, pas celui-là. Un autre, qui n'a rien à voir avec ça.",
+        "english": "No, not that one. Another one, which has nothing to do with that."
+      },
+      {
+        "speaker": 7,
+        "french": "Dès que nous aurons finalisé les derniers détails, et quand j'aurai complété le dossier,",
+        "english": "As soon as we've finalised the last details, and when I've completed the file,"
+      },
+      {
+        "speaker": 8,
+        "french": "je pourrai t'en parler plus longuement. Pour l'instant, je ne peux te donner que les grandes lignes.",
+        "english": "I'll be able to tell you more about it. For now, I can only give you the broad outlines."
+      },
+      {
+        "speaker": 9,
+        "french": "Vas-y ! Je suis tout ouïe.",
+        "english": "Go ahead! I'm all ears."
+      },
+      {
+        "speaker": 10,
+        "french": "Te souviens-tu du concours Concevons la ville de demain dont tout le monde parle depuis un an ?",
+        "english": "Do you remember the Design Tomorrow's City competition that everyone's been talking about for a year?"
+      },
+      {
+        "speaker": 11,
+        "french": "Bien sûr que je m'en souviens ! Et alors ?",
+        "english": "Of course I remember! And so?"
+      },
+      {
+        "speaker": 12,
+        "french": "Disons que nous avons un certain avantage par rapport à nos concurrents.",
+        "english": "Let's say we have a certain advantage over our competitors."
+      },
+      {
+        "speaker": 13,
+        "french": "Nous avons tout pensé dans les moindres détails, contrairement à eux.",
+        "english": "We've thought of everything down to the smallest details, unlike them."
+      },
+      {
+        "speaker": 14,
+        "french": "Certains ont misé sur l'informatique — les logiciels et les technologies numériques — ainsi que les solutions haut débit.",
+        "english": "Some have bet on IT — software and digital technologies — as well as broadband solutions."
+      },
+      {
+        "speaker": 15,
+        "french": "Ils envisagent l'avenir sans billets ni pièces de monnaie : que de l'argent virtuel.",
+        "english": "They envision the future without notes or coins: only virtual money."
+      },
+      {
+        "speaker": 16,
+        "french": "D'autres portent leur attention sur une question et une seule : la circulation automobile.",
+        "english": "Others focus their attention on one question and one only: car traffic."
+      },
+      {
+        "speaker": 17,
+        "french": "Ils pensent que la solution miracle serait d'interdire tous les véhicules, qu'ils soient particuliers ou professionnels,",
+        "english": "They think the miracle solution would be to ban all vehicles, whether private or professional,"
+      },
+      {
+        "speaker": 18,
+        "french": "et d'obliger tout le monde de se déplacer autrement, ou à pied, ou par les transports collectifs.",
+        "english": "and to oblige everyone to get around differently, either on foot or by public transport."
+      },
+      {
+        "speaker": 19,
+        "french": "Un des grands avantages, disent-ils, est qu'il n'y aura plus d'accidents de la route.",
+        "english": "One of the great advantages, they say, is that there will be no more road accidents."
+      },
+      {
+        "speaker": 20,
+        "french": "Et aussi, il n'y aura plus de PV !",
+        "english": "And also, there will be no more traffic tickets!"
+      },
+      {
+        "speaker": 21,
+        "french": "J'ai le sentiment que tu ne prends pas la chose au sérieux.",
+        "english": "I get the feeling you're not taking this seriously."
+      },
+      {
+        "speaker": 22,
+        "french": "Mais si, je te taquinais. Que propose ton équipe ?",
+        "english": "But I am, I was teasing you. What does your team propose?"
+      },
+      {
+        "speaker": 23,
+        "french": "Nous avons une solution radicale pour s'attaquer aussi bien à la circulation qu'à la pollution :",
+        "english": "We have a radical solution to tackle both traffic and pollution:"
+      },
+      {
+        "speaker": 24,
+        "french": "nous allons construire les villes à la campagne, où l'air est plus pur.",
+        "english": "we're going to build cities in the countryside, where the air is purer."
+      }
+    ]
+  },
+  {
+    "lesson_id": 100,
+    "dialogue": [
+      {
+        "speaker": 1,
+        "french": "Nous voici à la fin du livre, mais pas à la fin du voyage.",
+        "english": "Here we are at the end of the book, but not at the end of the journey."
+      },
+      {
+        "speaker": 2,
+        "french": "Pour assurer votre réussite, vous devez continuer à lire, parler, écouter et écrire le plus possible.",
+        "english": "To ensure your success, you must continue to read, speak, listen and write as much as possible."
+      },
+      {
+        "speaker": 3,
+        "french": "À propos de voyages, vous pouvez désormais profiter de vos connaissances en faisant un tour du monde francophone.",
+        "english": "Speaking of travel, you can now take advantage of your knowledge by taking a tour of the French-speaking world."
+      },
+      {
+        "speaker": 4,
+        "french": "Vous serez le bienvenu non seulement en Suisse, en Belgique et au Luxembourg mais partout où l'on parle le français.",
+        "english": "You'll be welcome not only in Switzerland, Belgium and Luxembourg but everywhere French is spoken."
+      },
+      {
+        "speaker": 5,
+        "french": "Bien sûr, vous trouverez des différences d'accent et de vocabulaire relatif à des spécificités culturelles.",
+        "english": "Of course, you'll find differences in accent and vocabulary relating to cultural specificities."
+      },
+      {
+        "speaker": 6,
+        "french": "Au Canada, par exemple, vous pourrez faire vos emplettes chez un dépanneur, manger un chien-chaud ou encore conduire votre char.",
+        "english": "In Canada, for example, you can do your shopping at a convenience store, eat a hot dog or even drive your car."
+      },
+      {
+        "speaker": 7,
+        "french": "En Afrique francophone, « un alphabète » est une personne qui sait lire et écrire",
+        "english": "In French-speaking Africa, 'an alphabète' is a person who can read and write"
+      },
+      {
+        "speaker": 8,
+        "french": "et « un taxieur » vous conduira à votre destination — mais pas avant d'avoir fait le plein à une « essencerie ».",
+        "english": "and 'a taxieur' will drive you to your destination — but not before filling up at a 'petrol station'."
+      },
+      {
+        "speaker": 9,
+        "french": "Des mots de diverses origines ont toujours enrichi notre vocabulaire : de « arobase » à « vasistas »",
+        "english": "Words of various origins have always enriched our vocabulary: from 'at sign' to 'fanlight'"
+      },
+      {
+        "speaker": 10,
+        "french": "en passant par « le caoutchouc », « le goudron » ou encore « le paquebot »",
+        "english": "along with 'rubber', 'tar' or even 'ocean liner'"
+      },
+      {
+        "speaker": 11,
+        "french": "le français est riche, varié et très accueillant.",
+        "english": "French is rich, varied and very welcoming."
+      },
+      {
+        "speaker": 12,
+        "french": "C'est aussi une langue précise et nuancée, forte de son héritage de langue diplomatique :",
+        "english": "It's also a precise and nuanced language, strengthened by its heritage as a diplomatic language:"
+      },
+      {
+        "speaker": 13,
+        "french": "« Ce qui n'est pas clair n'est pas français », disait un grand auteur.",
+        "english": "'What is not clear is not French,' said a great author."
+      },
+      {
+        "speaker": 14,
+        "french": "Et puis il y a la Francophonie, un « pays sans frontières » où des centaines de millions de gens partagent leur passion pour cette belle langue.",
+        "english": "And then there's La Francophonie, a 'country without borders' where hundreds of millions of people share their passion for this beautiful language."
+      },
+      {
+        "speaker": 15,
+        "french": "Maintenant, vous aussi, vous faites partie de cette communauté francophone,",
+        "english": "Now, you too are part of this French-speaking community,"
+      },
+      {
+        "speaker": 16,
+        "french": "composée de femmes et d'hommes qui peuvent se permettre de déclarer :",
+        "english": "made up of women and men who can allow themselves to declare:"
+      },
+      {
+        "speaker": 17,
+        "french": "« Ma patrie, c'est la langue française ! »",
+        "english": "'My homeland is the French language!'"
+      }
+    ]
+  }
+]

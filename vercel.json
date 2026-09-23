@@ -1,8 +1,12 @@
 {
-	"rewrites": [
-		{
-			"source": "/(.*)",
-			"destination": "/"
-		}
-	]
+  "cleanUrls": true,
+  "trailingSlash": false,
+  "headers": [
+    {
+      "source": "/data/(.*)",
+      "headers": [
+        { "key": "Cache-Control", "value": "public, max-age=3600" }
+      ]
+    }
+  ]
 }

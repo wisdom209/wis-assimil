@@ -1,0 +1,8 @@
+Cleaning Report for lessons.json
+==================================================
+
+Total lessons processed: 100
+
+No structural warnings found.
+
+Cleaned file written to: lessons_cleaned.json

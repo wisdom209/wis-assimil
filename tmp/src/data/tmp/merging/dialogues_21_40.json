@@ -1,0 +1,702 @@
+[
+  {
+    "lesson_id": 21,
+    "dialogue": [
+      {
+        "speaker": 1,
+        "french": "Bonjour madame, comment allez-vous ?",
+        "english": "Good morning ma'am, how are you?"
+      },
+      {
+        "speaker": 2,
+        "french": "Très bien, merci. Et vous ?",
+        "english": "Very well, thanks. And you?"
+      },
+      {
+        "speaker": 3,
+        "french": "Je cherche le métro Saint-Michel.",
+        "english": "I am looking for the Saint-Michel metro."
+      },
+      {
+        "speaker": 4,
+        "french": "Traversez le boulevard et tournez à gauche.",
+        "english": "Cross the boulevard and turn left."
+      },
+      {
+        "speaker": 5,
+        "french": "Merci beaucoup pour votre aide.",
+        "english": "Thank you very much for your help."
+      },
+      {
+        "speaker": 6,
+        "french": "De rien. Bonne journée !",
+        "english": "You're welcome. Have a good day!"
+      }
+    ]
+  },
+  {
+    "lesson_id": 22,
+    "dialogue": [
+      {
+        "speaker": 1,
+        "french": "Vous jouez aux courses de chevaux ?",
+        "english": "Do you bet on horse races?"
+      },
+      {
+        "speaker": 2,
+        "french": "Oui, je réfléchis beaucoup avant de choisir.",
+        "english": "Yes, I think a lot before choosing."
+      },
+      {
+        "speaker": 3,
+        "french": "Et vous gagnez souvent ?",
+        "english": "And do you win often?"
+      },
+      {
+        "speaker": 4,
+        "french": "Non, je perds presque toujours.",
+        "english": "No, I almost always lose."
+      },
+      {
+        "speaker": 5,
+        "french": "Alors, pourquoi jouez-vous ?",
+        "english": "So, why do you play?"
+      },
+      {
+        "speaker": 6,
+        "french": "Pour le plaisir, c'est tout !",
+        "english": "For pleasure, that's all!"
+      }
+    ]
+  },
+  {
+    "lesson_id": 23,
+    "dialogue": [
+      {
+        "speaker": 1,
+        "french": "Comment choisissez-vous vos numéros de loto ?",
+        "english": "How do you choose your lottery numbers?"
+      },
+      {
+        "speaker": 2,
+        "french": "Je prends ma date de naissance.",
+        "english": "I take my date of birth."
+      },
+      {
+        "speaker": 3,
+        "french": "Et vous remplissez la grille comment ?",
+        "english": "And how do you fill out the grid?"
+      },
+      {
+        "speaker": 4,
+        "french": "Je choisis les numéros finissant par quatre.",
+        "english": "I choose the numbers ending in four."
+      },
+      {
+        "speaker": 5,
+        "french": "Vous avez déjà gagné ?",
+        "english": "Have you ever won?"
+      },
+      {
+        "speaker": 6,
+        "french": "Jamais, mais je continue d'investir dans l'avenir !",
+        "english": "Never, but I continue to invest in the future!"
+      }
+    ]
+  },
+  {
+    "lesson_id": 24,
+    "dialogue": [
+      {
+        "speaker": 1,
+        "french": "Qu'est-ce que vous avez ?",
+        "english": "What is wrong with you? (What do you have?)"
+      },
+      {
+        "speaker": 2,
+        "french": "J'ai mal à la tête et mal aux oreilles.",
+        "english": "I have a headache and an earache."
+      },
+      {
+        "speaker": 3,
+        "french": "Vous avez de la fièvre ?",
+        "english": "Do you have a fever?"
+      },
+      {
+        "speaker": 4,
+        "french": "Oui, et je tousse beaucoup.",
+        "english": "Yes, and I am coughing a lot."
+      },
+      {
+        "speaker": 5,
+        "french": "Ouvrez la bouche. Je vais vérifier votre tension.",
+        "english": "Open your mouth. I am going to check your blood pressure."
+      },
+      {
+        "speaker": 6,
+        "french": "Il faut prendre ce sirop et ces comprimés.",
+        "english": "You must take this syrup and these pills."
+      }
+    ]
+  },
+  {
+    "lesson_id": 25,
+    "dialogue": [
+      {
+        "speaker": 1,
+        "french": "J'ai faim. On va où ?",
+        "english": "I'm hungry. Where are we going?"
+      },
+      {
+        "speaker": 2,
+        "french": "Ça m'est égal. Une pizzeria ?",
+        "english": "It's all the same to me. A pizzeria?"
+      },
+      {
+        "speaker": 3,
+        "french": "Non, je préfère la brasserie au coin de la rue.",
+        "english": "No, I prefer the brasserie on the corner of the street."
+      },
+      {
+        "speaker": 4,
+        "french": "D'accord, on y va tout droit puis à droite.",
+        "english": "Okay, we go straight ahead then to the right."
+      },
+      {
+        "speaker": 5,
+        "french": "Zut ! C'est fermé le lundi !",
+        "english": "Damn! It's closed on Mondays!"
+      },
+      {
+        "speaker": 6,
+        "french": "Alors, allons à la crêperie.",
+        "english": "Then, let's go to the crêperie."
+      }
+    ]
+  },
+  {
+    "lesson_id": 26,
+    "dialogue": [
+      {
+        "speaker": 1,
+        "french": "Garçon, le menu, s'il vous plaît.",
+        "english": "Waiter, the menu, please."
+      },
+      {
+        "speaker": 2,
+        "french": "Quel menu prenez-vous ?",
+        "english": "Which menu are you having?"
+      },
+      {
+        "speaker": 3,
+        "french": "Une entrecôte saignante avec des frites.",
+        "english": "A rare rib steak with fries."
+      },
+      {
+        "speaker": 4,
+        "french": "Et comme boisson ?",
+        "english": "And to drink?"
+      },
+      {
+        "speaker": 5,
+        "french": "Une carafe d'eau, s'il vous plaît.",
+        "english": "A jug of tap water, please."
+      },
+      {
+        "speaker": 6,
+        "french": "L'addition, s'il vous plaît. Le service est compris ?",
+        "english": "The bill, please. Is service included?"
+      }
+    ]
+  },
+  {
+    "lesson_id": 27,
+    "dialogue": [
+      {
+        "speaker": 1,
+        "french": "Je cherche un hôtel près de l'aéroport.",
+        "english": "I am looking for a hotel near the airport."
+      },
+      {
+        "speaker": 2,
+        "french": "Celui qui est à côté du terminal est complet.",
+        "english": "The one next to the terminal is full."
+      },
+      {
+        "speaker": 3,
+        "french": "Et celui qui est à deux kilomètres ?",
+        "english": "And the one that is two kilometers away?"
+      },
+      {
+        "speaker": 4,
+        "french": "Il est moins cher, mais les chambres sont bruyantes.",
+        "english": "It is cheaper, but the rooms are noisy."
+      },
+      {
+        "speaker": 5,
+        "french": "Je préfère celui qui est calme.",
+        "english": "I prefer the one that is quiet."
+      },
+      {
+        "speaker": 6,
+        "french": "Désolé, tout est complet ce soir !",
+        "english": "Sorry, everything is full tonight!"
+      }
+    ]
+  },
+  {
+    "lesson_id": 28,
+    "dialogue": [
+      {
+        "speaker": 1,
+        "french": "Tu as rempli ta grille de loto ?",
+        "english": "Did you fill out your lottery grid?"
+      },
+      {
+        "speaker": 2,
+        "french": "Oui, j'ai choisi mes numéros préférés.",
+        "english": "Yes, I chose my favorite numbers."
+      },
+      {
+        "speaker": 3,
+        "french": "Après, on va déjeuner ?",
+        "english": "Afterwards, are we going to lunch?"
+      },
+      {
+        "speaker": 4,
+        "french": "Oui, j'ai réservé une table à la brasserie.",
+        "english": "Yes, I reserved a table at the brasserie."
+      },
+      {
+        "speaker": 5,
+        "french": "L'hôtel est-il loin d'ici ?",
+        "english": "Is the hotel far from here?"
+      },
+      {
+        "speaker": 6,
+        "french": "Non, c'est celui qui est en face de la gare.",
+        "english": "No, it's the one opposite the train station."
+      }
+    ]
+  },
+  {
+    "lesson_id": 29,
+    "dialogue": [
+      {
+        "speaker": 1,
+        "french": "Salut ! Comment vas-tu ?",
+        "english": "Hi! How are you doing?"
+      },
+      {
+        "speaker": 2,
+        "french": "Ça va, et toi, la forme ?",
+        "english": "I'm good, and you, in good shape?"
+      },
+      {
+        "speaker": 3,
+        "french": "Je cherche une pâtisserie pour acheter un gâteau.",
+        "english": "I'm looking for a pastry shop to buy a cake."
+      },
+      {
+        "speaker": 4,
+        "french": "Tu sais où il y en a une ?",
+        "english": "Do you know where there is one?"
+      },
+      {
+        "speaker": 5,
+        "french": "Oui, au bout de la rue. Tu es gourmand !",
+        "english": "Yes, at the end of the street. You're greedy!"
+      },
+      {
+        "speaker": 6,
+        "french": "C'est pour l'anniversaire de ma femme !",
+        "english": "It's for my wife's birthday!"
+      }
+    ]
+  },
+  {
+    "lesson_id": 30,
+    "dialogue": [
+      {
+        "speaker": 1,
+        "french": "Allô ? C'est toi ?",
+        "english": "Hello? Is that you?"
+      },
+      {
+        "speaker": 2,
+        "french": "Oui, je t'entends très mal.",
+        "english": "Yes, I can hear you very poorly."
+      },
+      {
+        "speaker": 3,
+        "french": "Peux-tu me prêter ton aspirateur ?",
+        "english": "Can you lend me your vacuum cleaner?"
+      },
+      {
+        "speaker": 4,
+        "french": "Mon aspirateur ? Il est en panne.",
+        "english": "My vacuum cleaner? It's broken."
+      },
+      {
+        "speaker": 5,
+        "french": "Mince ! J'en ai besoin pour nettoyer.",
+        "english": "Darn! I need it to clean."
+      },
+      {
+        "speaker": 6,
+        "french": "Je te prêterai celui de mon voisin. À tout à l'heure !",
+        "english": "I'll lend you my neighbor's. See you in a bit!"
+      }
+    ]
+  },
+  {
+    "lesson_id": 31,
+    "dialogue": [
+      {
+        "speaker": 1,
+        "french": "Bonjour, vous avez des bouilloires ?",
+        "english": "Hello, do you have any kettles?"
+      },
+      {
+        "speaker": 2,
+        "french": "Oui, j'en ai deux modèles.",
+        "english": "Yes, I have two models of them."
+      },
+      {
+        "speaker": 3,
+        "french": "Celle-ci coûte moins de cent euros.",
+        "english": "This one costs less than a hundred euros."
+      },
+      {
+        "speaker": 4,
+        "french": "Et celle-là ?",
+        "english": "And that one?"
+      },
+      {
+        "speaker": 5,
+        "french": "Celle-là est à quatre cents euros.",
+        "english": "That one is four hundred euros."
+      },
+      {
+        "speaker": 6,
+        "french": "C'est hors de prix ! Je vais prendre celle-ci.",
+        "english": "That's outrageously expensive! I'll take this one."
+      }
+    ]
+  },
+  {
+    "lesson_id": 32,
+    "dialogue": [
+      {
+        "speaker": 1,
+        "french": "Tu as l'air épuisé.",
+        "english": "You look exhausted."
+      },
+      {
+        "speaker": 2,
+        "french": "Je reçois des centaines de mails chaque jour.",
+        "english": "I receive hundreds of emails every day."
+      },
+      {
+        "speaker": 3,
+        "french": "Tu ne refuses jamais d'aider tes collègues.",
+        "english": "You never refuse to help your colleagues."
+      },
+      {
+        "speaker": 4,
+        "french": "Je leur donne toujours un coup de main.",
+        "english": "I always give them a hand."
+      },
+      {
+        "speaker": 5,
+        "french": "Il faut que tu te reposes.",
+        "english": "You need to rest."
+      },
+      {
+        "speaker": 6,
+        "french": "Je ne peux plus continuer comme ça. Je vais voir le directeur.",
+        "english": "I can't go on like this. I'm going to see the manager."
+      }
+    ]
+  },
+  {
+    "lesson_id": 33,
+    "dialogue": [
+      {
+        "speaker": 1,
+        "french": "Tu cherches quelque chose de spécial ?",
+        "english": "Are you looking for something special?"
+      },
+      {
+        "speaker": 2,
+        "french": "Je n'ai rien à me mettre pour la soirée.",
+        "english": "I have nothing to wear for the evening."
+      },
+      {
+        "speaker": 3,
+        "french": "Tu as regardé sur Internet ?",
+        "english": "Did you look on the Internet?"
+      },
+      {
+        "speaker": 4,
+        "french": "Oui, mais je ne vois rien qui m'intéresse.",
+        "english": "Yes, but I don't see anything that interests me."
+      },
+      {
+        "speaker": 5,
+        "french": "Tu veux une robe verte ou bleue ?",
+        "english": "Do you want a green or blue dress?"
+      },
+      {
+        "speaker": 6,
+        "french": "Plutôt noire. Les couleurs claires, c'est fini !",
+        "english": "Rather black. Light colors, that's over!"
+      }
+    ]
+  },
+  {
+    "lesson_id": 34,
+    "dialogue": [
+      {
+        "speaker": 1,
+        "french": "Vous êtes partis à quelle heure ?",
+        "english": "What time did you leave?"
+      },
+      {
+        "speaker": 2,
+        "french": "Nous sommes partis bien avant le soleil.",
+        "english": "We left well before sunrise."
+      },
+      {
+        "speaker": 3,
+        "french": "Et vous êtes arrivés quand ?",
+        "english": "And when did you arrive?"
+      },
+      {
+        "speaker": 4,
+        "french": "Nous sommes arrivés le lendemain, épuisés.",
+        "english": "We arrived the next day, exhausted."
+      },
+      {
+        "speaker": 5,
+        "french": "Il a plu pendant toute la randonnée ?",
+        "english": "Did it rain during the whole hike?"
+      },
+      {
+        "speaker": 6,
+        "french": "Oui, il faisait un froid de canard !",
+        "english": "Yes, it was freezing cold! (duck cold)"
+      }
+    ]
+  },
+  {
+    "lesson_id": 35,
+    "dialogue": [
+      {
+        "speaker": 1,
+        "french": "Salut, comment vas-tu depuis ta randonnée ?",
+        "english": "Hi, how are you doing since your hike?"
+      },
+      {
+        "speaker": 2,
+        "french": "Je suis mort de fatigue, j'ai mal aux jambes.",
+        "english": "I'm dead tired, my legs hurt."
+      },
+      {
+        "speaker": 3,
+        "french": "Tu as acheté ta nouvelle robe ?",
+        "english": "Did you buy your new dress?"
+      },
+      {
+        "speaker": 4,
+        "french": "Non, je n'ai rien trouvé de beau.",
+        "english": "No, I didn't find anything nice."
+      },
+      {
+        "speaker": 5,
+        "french": "Et ton voisin, il t'a prêté l'aspirateur ?",
+        "english": "And your neighbor, did he lend you the vacuum?"
+      },
+      {
+        "speaker": 6,
+        "french": "Oui, et je le lui ai rendu ce matin !",
+        "english": "Yes, and I gave it back to him this morning!"
+      }
+    ]
+  },
+  {
+    "lesson_id": 36,
+    "dialogue": [
+      {
+        "speaker": 1,
+        "french": "Le taxi est en bas. Tu as tout vérifié ?",
+        "english": "The taxi is downstairs. Did you check everything?"
+      },
+      {
+        "speaker": 2,
+        "french": "J'ai fermé les fenêtres et vidé le réfrigérateur.",
+        "english": "I closed the windows and emptied the fridge."
+      },
+      {
+        "speaker": 3,
+        "french": "Tu as arrosé les plantes ?",
+        "english": "Did you water the plants?"
+      },
+      {
+        "speaker": 4,
+        "french": "Oui, et j'ai changé les draps.",
+        "english": "Yes, and I changed the sheets."
+      },
+      {
+        "speaker": 5,
+        "french": "Où est ton sac à main ?",
+        "english": "Where is your handbag?"
+      },
+      {
+        "speaker": 6,
+        "french": "Zut ! Je l'ai laissé sur la table du salon !",
+        "english": "Damn! I left it on the living room table!"
+      }
+    ]
+  },
+  {
+    "lesson_id": 37,
+    "dialogue": [
+      {
+        "speaker": 1,
+        "french": "Alors, cet appartement ?",
+        "english": "So, this apartment?"
+      },
+      {
+        "speaker": 2,
+        "french": "Il est plus spacieux que l'autre, mais le loyer est prohibitif.",
+        "english": "It is more spacious than the other, but the rent is prohibitive."
+      },
+      {
+        "speaker": 3,
+        "french": "Celui du centre-ville est moins cher.",
+        "english": "The one in the city center is cheaper."
+      },
+      {
+        "speaker": 4,
+        "french": "Oui, mais il est aussi plus bruyant.",
+        "english": "Yes, but it is also noisier."
+      },
+      {
+        "speaker": 5,
+        "french": "Il faut vivre au-dessous de ses moyens.",
+        "english": "One must live below one's means."
+      },
+      {
+        "speaker": 6,
+        "french": "Tu as raison. Je vais prendre le plus petit.",
+        "english": "You're right. I'll take the smaller one."
+      }
+    ]
+  },
+  {
+    "lesson_id": 38,
+    "dialogue": [
+      {
+        "speaker": 1,
+        "french": "Allô, je voudrais parler à Monsieur Castille.",
+        "english": "Hello, I would like to speak to Mr. Castille."
+      },
+      {
+        "speaker": 2,
+        "french": "C'est de la part de qui ?",
+        "english": "Who is calling? (It's on the part of whom?)"
+      },
+      {
+        "speaker": 3,
+        "french": "C'est Madame Lacroix.",
+        "english": "It's Mrs. Lacroix."
+      },
+      {
+        "speaker": 4,
+        "french": "Ne quittez pas, je vous prie. Il est en ligne.",
+        "english": "Hold on, please. He is on the line."
+      },
+      {
+        "speaker": 5,
+        "french": "Pouvez-vous lui demander de me recontacter ?",
+        "english": "Can you ask him to contact me back?"
+      },
+      {
+        "speaker": 6,
+        "french": "Bien sûr, j'ai votre numéro.",
+        "english": "Of course, I have your number."
+      }
+    ]
+  },
+  {
+    "lesson_id": 39,
+    "dialogue": [
+      {
+        "speaker": 1,
+        "french": "Tu as vu le nouveau film d'horreur ?",
+        "english": "Did you see the new horror film?"
+      },
+      {
+        "speaker": 2,
+        "french": "Oui, l'action se passe dans une vieille maison.",
+        "english": "Yes, the action takes place in an old house."
+      },
+      {
+        "speaker": 3,
+        "french": "C'est effrayant ?",
+        "english": "Is it scary?"
+      },
+      {
+        "speaker": 4,
+        "french": "Tellement que je me suis caché sous la table !",
+        "english": "So much so that I hid under the table!"
+      },
+      {
+        "speaker": 5,
+        "french": "Le metteur en scène est très connu.",
+        "english": "The director is very well known."
+      },
+      {
+        "speaker": 6,
+        "french": "Oui, mais le scénario est un peu fou.",
+        "english": "Yes, but the screenplay is a bit crazy."
+      }
+    ]
+  },
+  {
+    "lesson_id": 40,
+    "dialogue": [
+      {
+        "speaker": 1,
+        "french": "Dépêche-toi, le film commence dans dix minutes !",
+        "english": "Hurry up, the film starts in ten minutes!"
+      },
+      {
+        "speaker": 2,
+        "french": "Tu es si impatient ! Je ne trouve pas mes clés.",
+        "english": "You are so impatient! I can't find my keys."
+      },
+      {
+        "speaker": 3,
+        "french": "Elles sont sur la table, comme d'habitude.",
+        "english": "They are on the table, as usual."
+      },
+      {
+        "speaker": 4,
+        "french": "Ah oui. On prend la voiture ?",
+        "english": "Ah yes. Are we taking the car?"
+      },
+      {
+        "speaker": 5,
+        "french": "Non, il y a trop de bouchons. On y va à pied.",
+        "english": "No, there are too many traffic jams. We'll walk."
+      },
+      {
+        "speaker": 6,
+        "french": "D'accord, mais fais vite !",
+        "english": "Okay, but be quick!"
+      }
+    ]
+  }
+]

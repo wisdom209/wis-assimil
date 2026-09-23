@@ -1,0 +1,1852 @@
+[
+{
+ "lesson_id": 1,
+ "title": "Comment allez-vous ?",
+ "speaking_task": {
+  "type": "read_aloud",
+  "description": "Read the greetings dialogue aloud 3 times, focusing on liaison and silent consonants.",
+  "duration_minutes": 5,
+  "recording_required": true,
+  "instructions": "Read the dialogue slowly the first time, normally the second time, and naturally the third time. Focus on the liaison in 'comment allez-vous' and the silent final consonants in 'vous', 'bien', 'merci'. Say 'bonjour' with the nasal [on] sound.",
+  "focus_points": [
+   "Liaison: comment allez-vous → koh-mah-tah-lay-voo",
+   "Nasal vowel: bonjour → boh-zhoor",
+   "Silent final consonants: vous → voo, bien → byah",
+   "Rhythm: Je vous présente ma fille → smooth flow"
+  ]
+ }
+},
+{
+ "lesson_id": 2,
+ "title": "Le café",
+ "speaking_task": {
+  "type": "read_aloud",
+  "description": "Read the café ordering dialogue aloud 3 times, focusing on liaison with numbers and silent consonants.",
+  "duration_minutes": 5,
+  "recording_required": true,
+  "instructions": "Focus on the liaison 'deux_expressos' where the x becomes [z]. Practice the silent final s in 'deux', 'croissants', and the silent z in 'désirez'. Say 's'il vous plaît' as one fluid phrase.",
+  "focus_points": [
+   "Liaison: deux_expressos → duhz-expresso (x becomes z)",
+   "Silent final s: deux → duh, croissants → krwah-soh",
+   "Silent final z: désirez → day-zee-ray",
+   "Fluid phrase: s'il vous plaît → seel-voo-play"
+  ]
+ }
+},
+{
+ "lesson_id": 3,
+ "title": "Présentations",
+ "speaking_task": {
+  "type": "read_aloud",
+  "description": "Read the introductions dialogue aloud 3 times, focusing on the verb être and liaison.",
+  "duration_minutes": 5,
+  "recording_required": true,
+  "instructions": "Focus on the liaison 'mon_ami' (the n links to the a). Practice 'je m'appelle' with the double-l sound. Say 'pas du tout' with the correct rhythm. Notice the inverted question 'êtes-vous bretonne?'",
+  "focus_points": [
+   "Liaison: mon_ami → moh-nah-mee",
+   "Double-l: je m'appelle → zhuh-mah-pel",
+   "Rhythm: pas du tout → pah-dew-too",
+   "Inversion: êtes-vous → et-voo"
+  ]
+ }
+},
+{
+ "lesson_id": 4,
+ "title": "L'heure",
+ "speaking_task": {
+  "type": "read_aloud",
+  "description": "Read the time-telling dialogue aloud 3 times, focusing on est-ce que and negative forms.",
+  "duration_minutes": 5,
+  "recording_required": true,
+  "instructions": "Focus on the liaison 'vous_avez' and 'il est'. Practice the negative 'je n'ai pas de montre' as a fluid phrase. Say 'rendez-vous' and 'toujours' with correct nasal sounds.",
+  "focus_points": [
+   "Liaison: vous_avez → vooz-ah-vay",
+   "Negative flow: je n'ai pas de montre → zhuh-nay-pah-duh-moh-truh",
+   "Time expression: il est midi dix → eel-ay-mee-dee-deess",
+   "Nasal: toujours → too-zhoor, rendez-vous → roh-day-voo"
+  ]
+ }
+},
+{
+ "lesson_id": 5,
+ "title": "Je cherche le métro",
+ "speaking_task": {
+  "type": "read_aloud",
+  "description": "Read the directions dialogue aloud 3 times, focusing on command intonation and polite phrases.",
+  "duration_minutes": 5,
+  "recording_required": true,
+  "instructions": "Focus on the polite command intonation of 'Attendez une minute'. Practice 'traversez le boulevard et tournez à gauche' with correct rhythm. Say 'merci beaucoup pour votre aide' smoothly.",
+  "focus_points": [
+   "Command intonation: Attendez → ah-tahn-day (rising)",
+   "Directions flow: traversez le boulevard → trah-ver-say-luh-bool-uh-var",
+   "Preposition: à gauche → ah-gohsh",
+   "Polite phrase: merci beaucoup → mair-see-boh-koo"
+  ]
+ }
+},
+{
+ "lesson_id": 6,
+ "title": "A l'hôtel",
+ "speaking_task": {
+  "type": "shadow",
+  "description": "Shadow the hotel check-in dialogue. Listen, pause, and repeat each line.",
+  "duration_minutes": 8,
+  "recording_required": true,
+  "instructions": "Listen to the audio, pause after each speaker's line, and repeat immediately. Focus on the formal register (vous forms), the liaison in 'une grande chambre', and the spelling sequence 'B-A-I deux L-Y'.",
+  "focus_points": [
+   "Formal register: vous forms throughout",
+   "Adjective agreement: une grande chambre vs un grand lit",
+   "Liaison: vos bagages → voh-bah-gahzh",
+   "Spelling aloud: B-A-I deux L-Y"
+  ]
+ }
+},
+{
+ "lesson_id": 7,
+ "title": "Revision - Revision",
+ "speaking_task": {
+  "type": "shadow",
+  "description": "Shadow the revision dialogue covering lessons 1-6. Listen, pause, and repeat.",
+  "duration_minutes": 8,
+  "recording_required": true,
+  "instructions": "Shadow the full revision dialogue. This combines greetings, time-telling, and directions. Focus on maintaining smooth rhythm across different sentence types and the liaison patterns from previous lessons.",
+  "focus_points": [
+   "Review liaisons: comment le savez-vous",
+   "Negative forms: je n'ai pas de montre",
+   "Time expressions: il est midi",
+   "Polite phrases: merci beaucoup pour votre aide"
+  ]
+ }
+},
+{
+ "lesson_id": 8,
+ "title": "Une visite",
+ "speaking_task": {
+  "type": "shadow",
+  "description": "Shadow the visiting dialogue. Focus on question intonation and à la/au prepositions.",
+  "duration_minutes": 8,
+  "recording_required": true,
+  "instructions": "Listen and repeat each line. Focus on the question 'À quelle heure est-ce qu'il rentre?' with rising intonation. Practice 'à la maison' and 'au bureau' as fixed phrases. Say 'aujourd'hui' smoothly.",
+  "focus_points": [
+   "Question intonation: À quelle heure est-ce qu'il rentre?",
+   "Prepositions: à la maison (feminine) vs au bureau (masculine)",
+   "Pronounce: aujourd'hui → oh-zhoor-dwee",
+   "Numbers: huit heures → weet-uhr"
+  ]
+ }
+},
+{
+ "lesson_id": 9,
+ "title": "A la mairie",
+ "speaking_task": {
+  "type": "shadow",
+  "description": "Shadow the town hall dialogue. Focus on ce/cet/cette and age expressions.",
+  "duration_minutes": 8,
+  "recording_required": true,
+  "instructions": "Listen and repeat. Focus on the demonstratives 'ce monsieur', 'cette dame', 'cet enfant'. Practice the age question 'Quel âge a cet enfant?' and the answer 'Il a huit ans'. Notice 'chez vous'.",
+  "focus_points": [
+   "Demonstratives: ce/cet/cette before different nouns",
+   "Age: Quel âge a...? / Il a huit ans",
+   "Liaison: huit_ans → weet-ahn",
+   "Pronounce: chez → shay, évidemment → ay-vee-dah-mah"
+  ]
+ }
+},
+{
+ "lesson_id": 10,
+ "title": "C'est très simple !",
+ "speaking_task": {
+  "type": "shadow",
+  "description": "Shadow the administrative office dialogue. Focus on possessive adjectives and exclamations.",
+  "duration_minutes": 8,
+  "recording_required": true,
+  "instructions": "Listen and repeat. Focus on 'son passeport' vs 'sa photo' (possessive agrees with the object). Practice the exclamation 'Zut!' and 'je ne trouve pas mon portefeuille'. Say 'B-52' and 'A-65' clearly.",
+  "focus_points": [
+   "Possessive agreement: son passeport (masc) vs sa photo (fem)",
+   "Exclamation: Zut! → zewt",
+   "Negative: je ne trouve pas → zhuh-nuh-troov-pah",
+   "Codes: B-52, A-65 pronounced clearly"
+  ]
+ }
+},
+{
+ "lesson_id": 11,
+ "title": "Au marché (Première partie)",
+ "speaking_task": {
+  "type": "substitution",
+  "description": "Read the market dialogue aloud, substituting different food items and quantities.",
+  "duration_minutes": 5,
+  "recording_required": true,
+  "instructions": "Change 'de fruits et de légumes' to 'de fromage et de jambon'. Change 'une livre de cerises' to 'deux kilos de tomates'. Keep the structure but swap the items. Say 'il n'y a rien à manger' and 'allons-y' with correct rhythm.",
+  "focus_points": [
+   "Partitive: de fruits, de légumes, de pain",
+   "Quantities: une livre, un kilo, trois cents grammes",
+   "Expression: il n'y a rien à manger → eel-nyah-ryah-ah-meh-zhay",
+   "Imperative: Allons-y → ah-loh-zee"
+  ]
+ }
+},
+{
+ "lesson_id": 12,
+ "title": "Au marché (Deuxième partie)",
+ "speaking_task": {
+  "type": "substitution",
+  "description": "Read the market dialogue aloud, changing the fruit, prices, and quantities.",
+  "duration_minutes": 5,
+  "recording_required": true,
+  "instructions": "Change 'fraises' to 'cerises', 'quinze euros' to 'douze euros', 'trente' to 'vingt'. Practice 'elles sont à combien?' with rising intonation. Say 'allez-y' and 'n'hésitez pas' as encouraging phrases.",
+  "focus_points": [
+   "Price question: Elles sont à combien? → el-soh-tah-koh-byah",
+   "Encouragement: Allez-y → ah-lay-zee",
+   "Negation: N'hésitez pas → nay-zee-tay-pah",
+   "Numbers: quinze → kah-zuh, vingt-six → vah-soix"
+  ]
+ }
+},
+{
+ "lesson_id": 13,
+ "title": "Un cadeau",
+ "speaking_task": {
+  "type": "substitution",
+  "description": "Read the gadget dialogue aloud, changing the device and its functions.",
+  "duration_minutes": 5,
+  "recording_required": true,
+  "instructions": "Change 'téléphone' to 'ordinateur portable'. Change 'envoyer des messages' to 'prendre des photos'. Change 'il ne marche pas' to 'il ne s'allume pas'. Keep 'qu'est-ce que c'est?' and 'malheureusement'.",
+  "focus_points": [
+   "Question: Qu'est-ce que c'est? → kes-kuh-say",
+   "Pouvoir: vous pouvez, je peux",
+   "Negative: il ne marche pas → eel-nuh-marsh-pah",
+   "Adverb: malheureusement → mal-uh-ruhz-mah"
+  ]
+ }
+},
+{
+ "lesson_id": 14,
+ "title": "Revision",
+ "speaking_task": {
+  "type": "substitution",
+  "description": "Read the revision dialogue aloud, changing names, places, and objects.",
+  "duration_minutes": 5,
+  "recording_required": true,
+  "instructions": "Change the character names and the gift. Practice the possessive adjectives (mon, ma, mes, son, sa, ses) in context. Say 'c'est un téléphone qui fait absolument tout' with correct rhythm.",
+  "focus_points": [
+   "Possessive adjectives: mon/ma/mes, son/sa/ses",
+   "C'est vs Il est distinction",
+   "Relative pronoun: qui fait absolument tout",
+   "Review of -er verb conjugation"
+  ]
+ }
+},
+{
+ "lesson_id": 15,
+ "title": "Un tour dans Paris (Première partie)",
+ "speaking_task": {
+  "type": "substitution",
+  "description": "Read the tour guide dialogue aloud, changing the landmarks and questions.",
+  "duration_minutes": 5,
+  "recording_required": true,
+  "instructions": "Change 'le Louvre' to 'le Musée d'Orsay'. Change 'la Tour Eiffel' to 'Notre-Dame'. Change 'Où sont les toilettes?' to 'Où est la sortie?'. Practice 'Devant vous, vous pouvez voir...' with guide intonation.",
+  "focus_points": [
+   "Guide voice: Devant vous, vous pouvez voir...",
+   "Landmarks: le Louvre, la Tour Eiffel",
+   "Polite interruption: S'il vous plaît madame...",
+   "Plural: les toilettes → lay-twa-let"
+  ]
+ }
+},
+{
+ "lesson_id": 16,
+ "title": "Un tour dans Paris (Deuxième partie)",
+ "speaking_task": {
+  "type": "paraphrase_short",
+  "description": "Describe 3 landmarks in your own words using the vocabulary from the lesson.",
+  "duration_minutes": 3,
+  "recording_required": true,
+  "instructions": "Using 'regardez là-bas', 'ce bâtiment superbe', 'construit par', 'derrière', 'en face', describe 3 things you can see. Example: 'Regardez là-bas : ce bâtiment superbe est l'Opéra, construit par Charles Garnier.'",
+  "focus_points": [
+   "Imperative: Regardez! → ruh-gar-day",
+   "Past participle: construit par → koh-stree-par",
+   "Prepositions: derrière, en face, à côté de",
+   "On as impersonal: on voit, on l'appelle"
+  ]
+ }
+},
+{
+ "lesson_id": 17,
+ "title": "Quels sont vos projets ?",
+ "speaking_task": {
+  "type": "paraphrase_short",
+  "description": "Describe your plans for tomorrow using 'il y a', 'avoir envie de', and 'devoir'.",
+  "duration_minutes": 3,
+  "recording_required": true,
+  "instructions": "Say 3-4 sentences about what you want to do tomorrow. Use 'Il y a une exposition que j'ai envie de voir', 'Je dois aller chez le médecin', 'On peut y aller aujourd'hui'. Use 24-hour clock times.",
+  "focus_points": [
+   "Il y a + noun: il y a une exposition",
+   "Avoir envie de: j'ai très envie de voir",
+   "Devoir: je dois aller",
+   "24-hour clock: seize heures, dix-sept heures"
+  ]
+ }
+},
+{
+ "lesson_id": 18,
+ "title": "Prenons rendez-vous avec le banquier",
+ "speaking_task": {
+  "type": "paraphrase_short",
+  "description": "Describe a scheduling conflict using days, months, and 'du...au...'.",
+  "duration_minutes": 3,
+  "recording_required": true,
+  "instructions": "Say 4-5 sentences about trying to schedule a meeting. Use 'du lundi au vendredi', 'en mai', 'hors de question', 'la rentrée scolaire'. Mention at least 3 different months.",
+  "focus_points": [
+   "Date ranges: du lundi vingt et un au vendredi vingt-cinq",
+   "Months: mai, juin, juillet, août, septembre",
+   "Expression: hors de question → or-duh-kes-tyoh",
+   "Cultural: la rentrée scolaire, les ponts"
+  ]
+ }
+},
+{
+ "lesson_id": 19,
+ "title": "Un bel endroit pour une fête",
+ "speaking_task": {
+  "type": "paraphrase_short",
+  "description": "Describe what you need for a party using 'quelque chose de' and 'bel/beau/belle'.",
+  "duration_minutes": 3,
+  "recording_required": true,
+  "instructions": "Say 4-5 sentences about planning a party. Use 'quelque chose de beau et pas trop cher', 'une trentaine de personnes', 'un bel endroit'. Mention the date and budget.",
+  "focus_points": [
+   "Quelque chose de + adjective: de beau, de plus petit",
+   "Bel before vowel: un bel endroit",
+   "Approximation: une trentaine, une cinquantaine",
+   "Gratuit vs libre distinction"
+  ]
+ }
+},
+{
+ "lesson_id": 20,
+ "title": "Un monde idéal",
+ "speaking_task": {
+  "type": "paraphrase_short",
+  "description": "Express what you would want for an ideal world using partitive articles.",
+  "duration_minutes": 3,
+  "recording_required": true,
+  "instructions": "Say 4-5 sentences about what you want for the world. Use partitives: 'du bonheur', 'de la paix', 'des droits humains', 'de la santé'. Mention 2 countries. End with something personal like the French ambassador.",
+  "focus_points": [
+   "Partitives: du bonheur, de la paix, des emplois",
+   "Country genders: le Japon, l'Inde, les États-Unis, la France",
+   "Nationality adjectives: japonais, indien, américain, français",
+   "Superlative: la plus intéressante"
+  ]
+ }
+},
+{
+ "lesson_id": 21,
+ "title": "Vingt et unième leçon - Revision",
+ "speaking_task": {
+  "type": "paraphrase_short",
+  "description": "Describe a day out using être, avoir, vouloir, and telling time.",
+  "duration_minutes": 3,
+  "recording_required": true,
+  "instructions": "Say 5-6 sentences combining: what you want to do (vouloir), where you want to go (être), what time it is, and what you need (avoir). Use 'quel est le plus beau...', 'il est déjà cinq heures'.",
+  "focus_points": [
+   "Être/avoir/vouloir conjugation review",
+   "Telling time: il est cinq heures et quart",
+   "24-hour clock: dix-sept heures quinze",
+   "Adjective agreement: un bel endroit, une belle photo"
+  ]
+ }
+},
+{
+ "lesson_id": 22,
+ "title": "Réfléchissez, choisissez, jouez",
+ "speaking_task": {
+  "type": "paraphrase_short",
+  "description": "Describe a game or hobby using -ir verbs (réfléchir, choisir, remplir, finir).",
+  "duration_minutes": 3,
+  "recording_required": true,
+  "instructions": "Say 4-5 sentences about how you play a game or pursue a hobby. Use 'je réfléchis', 'je choisis', 'je remplis', 'je finis'. Mention 'les jeux de hasard', 'les courses de chevaux'. End with 'je n'ai pas un sou'.",
+  "focus_points": [
+   "-ir verbs: réfléchir, choisir, remplir, finir",
+   "Plurals: des jeux, des chevaux, des journaux",
+   "Expression: au fait → oh-fayt",
+   "Vocabulary: gagner, perdre, un sou"
+  ]
+ }
+},
+{
+ "lesson_id": 23,
+ "title": "Comment réussir au loto",
+ "speaking_task": {
+  "type": "paraphrase_short",
+  "description": "Describe your lucky numbers or strategy using -ir verbs and numbers.",
+  "duration_minutes": 3,
+  "recording_required": true,
+  "instructions": "Say 4-5 sentences about how you would choose lottery numbers. Use 'je joue toujours les mêmes numéros', 'finissant par quatre', 'ma date de naissance'. Practice numbers: soixante-deux, quarante-trois.",
+  "focus_points": [
+   "Present participle: finissant par quatre",
+   "Numbers: soixante-deux, quarante-trois, cinquante-cinq",
+   "Expression: tout à fait → too-tah-fayt",
+   "Vocabulary: investir, l'avenir, réussir"
+  ]
+ }
+},
+{
+ "lesson_id": 24,
+ "title": "Je ne vais pas bien du tout",
+ "speaking_task": {
+  "type": "paraphrase_short",
+  "description": "Describe feeling unwell using 'avoir mal à' and body vocabulary.",
+  "duration_minutes": 3,
+  "recording_required": true,
+  "instructions": "Say 5-6 sentences about being sick. Use 'j'ai mal à la tête', 'mal aux oreilles', 'mal au genou droit', 'j'ai de la fièvre'. Mention the doctor's instructions: 'un sirop', 'des comprimés', 'une gélule'.",
+  "focus_points": [
+   "Avoir mal à + body part: à la tête, aux oreilles, au genou",
+   "Direct object pronouns: vous le prenez, il faut les avaler",
+   "Medicine vocabulary: sirop, comprimés, gélule, ordonnance",
+   "Doctor's commands: ouvrez la bouche, respirez"
+  ]
+ }
+},
+{
+ "lesson_id": 25,
+ "title": "Déjeunons ensemble",
+ "speaking_task": {
+  "type": "summary_short",
+  "description": "Summarize the restaurant-choosing dialogue in 4-5 sentences.",
+  "duration_minutes": 3,
+  "recording_required": true,
+  "instructions": "Summarize: They are hungry, they discuss 3 restaurants (pizzeria, crêperie, brasserie), they choose one, but it's closed on Monday. Use 'j'ai faim', 'ça m'est égal', 'ça vous dit', 'venons de penser'.",
+  "focus_points": [
+   "Expressions: j'ai faim, ça m'est égal, ça vous dit",
+   "Directions: tout droit, à droite, à gauche",
+   "Venir de + infinitive: je viens de penser",
+   "Imperative: faisons vite, allons"
+  ]
+ }
+},
+{
+ "lesson_id": 26,
+ "title": "Déjeunons ensemble (suite)",
+ "speaking_task": {
+  "type": "summary_short",
+  "description": "Summarize the restaurant ordering scene in 4-5 sentences.",
+  "duration_minutes": 3,
+  "recording_required": true,
+  "instructions": "Summarize: They sit down, order entrecôte saignante with frites, drink water, and ask for the bill. Use 'quelle cuisson?', 'saignante', 'le service est compris', 'le pourboire'.",
+  "focus_points": [
+   "Quel/quelle interrogatives: quel menu, quelle cuisson",
+   "Food vocabulary: entrecôte, saumon, frites",
+   "Restaurant: l'addition, service compris, pourboire",
+   "Expressions: j'ai chaud, j'ai soif"
+  ]
+ }
+},
+{
+ "lesson_id": 27,
+ "title": "\"Hôtel complet\"",
+ "speaking_task": {
+  "type": "summary_short",
+  "description": "Summarize the hotel comparison dialogue in 4-5 sentences using demonstrative pronouns.",
+  "duration_minutes": 3,
+  "recording_required": true,
+  "instructions": "Summarize: They compare two hotels near the airport using 'celui qui', 'celles au premier étage'. One is cheaper but noisy, the other is more comfortable. Use comparatives: 'plus près', 'moins chère', 'plus bruyante'.",
+  "focus_points": [
+   "Demonstrative pronouns: celui, celle, ceux, celles",
+   "Comparatives: plus près, moins chère que, plus bruyante",
+   "Superlative: le plus près",
+   "Vocabulary: les équipements, les tarifs, disponibles"
+  ]
+ }
+},
+{
+ "lesson_id": 28,
+ "title": "Revision",
+ "speaking_task": {
+  "type": "summary_short",
+  "description": "Summarize the revision dialogue about lottery, lunch, and restaurants in 5 sentences.",
+  "duration_minutes": 3,
+  "recording_required": true,
+  "instructions": "Summarize the revision dialogue. It covers: playing the lottery, choosing numbers, going to lunch, ordering at a restaurant, and asking for the bill. Use -ir verbs, demonstratives, and restaurant vocabulary.",
+  "focus_points": [
+   "-ir verbs review: réfléchir, choisir, remplir",
+   "Demonstrative pronouns review: celui, celle",
+   "Restaurant vocabulary review",
+   "Numbers and dates review"
+  ]
+ }
+},
+{
+ "lesson_id": 29,
+ "title": "Comment vas-tu ?",
+ "speaking_task": {
+  "type": "summary_short",
+  "description": "Summarize the informal dialogue between friends in 4-5 sentences using 'tu'.",
+  "duration_minutes": 3,
+  "recording_required": true,
+  "instructions": "Summarize: Two friends meet in the street. One is shopping for a cake and a wedding anniversary gift. Use informal 'tu' forms: 'comment vas-tu?', 'tu sais où...'. Mention 'une pâtisserie', 'un tableau', 'des tisanes'.",
+  "focus_points": [
+   "Informal tu: comment vas-tu, tu fais, tu sais",
+   "Vocabulary: pâtisserie, tarte, gâteau, tableau",
+   "Expressions: la forme?, gourmands",
+   "Plural of -eau: des gâteaux, des tableaux"
+  ]
+ }
+},
+{
+ "lesson_id": 30,
+ "title": "J'ai un truc à te demander...",
+ "speaking_task": {
+  "type": "summary_short",
+  "description": "Summarize the phone call dialogue in 4-5 sentences.",
+  "duration_minutes": 3,
+  "recording_required": true,
+  "instructions": "Summarize: Someone calls, the signal is bad, they ask to borrow a vacuum cleaner to clean a pool. The other person agrees conditionally. Use 'allô', 'je t'entends mal', 'peux-tu me prêter', 'à tout à l'heure'.",
+  "focus_points": [
+   "Phone vocabulary: allô, ne quitte pas, haut-parleur",
+   "Informal requests: peux-tu me prêter",
+   "En pronoun: j'en ai besoin",
+   "Expressions: un truc, faire confiance, à tout à l'heure"
+  ]
+ }
+},
+{
+ "lesson_id": 31,
+ "title": "J'en ai besoin rapidement",
+ "speaking_task": {
+  "type": "summary_short",
+  "description": "Summarize the shopping dialogue in 4-5 sentences using 'en' and demonstratives.",
+  "duration_minutes": 3,
+  "recording_required": true,
+  "instructions": "Summarize: A customer wants a kettle. The seller shows two options (celle-ci at 100€, celle-là at 400€). The customer is shocked. The expensive one is out of stock. Use 'j'en ai deux', 'celle-ci', 'celle-là', 'hors de prix'.",
+  "focus_points": [
+   "En pronoun: j'en ai deux, j'en vends beaucoup",
+   "Demonstratives: celle-ci, celle-là",
+   "Expression: hors de prix → or-duh-pree",
+   "Vocabulary: sophistiqué, connecté à Internet"
+  ]
+ }
+},
+{
+ "lesson_id": 32,
+ "title": "Je ne peux plus continuer comme ça",
+ "speaking_task": {
+  "type": "summary_short",
+  "description": "Summarize the work stress dialogue in 4-5 sentences.",
+  "duration_minutes": 3,
+  "recording_required": true,
+  "instructions": "Summarize: A person is exhausted from work. They answer hundreds of emails, help colleagues, get headaches. They decide to see the director. Use 'épuisant', 'je ne peux plus', 'un coup d'œil', 'un coup de main'.",
+  "focus_points": [
+   "Indirect object pronouns: je leur donne, lui dire",
+   "Negatives: ne...jamais, ne...plus",
+   "Expressions: un coup d'œil, un coup de main",
+   "Vocabulary: épuisant, débordé, démissionner"
+  ]
+ }
+},
+{
+ "lesson_id": 33,
+ "title": "Je n'ai rien dans ma garde-robe",
+ "speaking_task": {
+  "type": "summary_short",
+  "description": "Summarize the clothes shopping dialogue in 4-5 sentences using negatives.",
+  "duration_minutes": 3,
+  "recording_required": true,
+  "instructions": "Summarize: A woman needs a summer dress. She searches online (mode.fr). She rejects a blouse because she wants a dress. She finds nothing she likes. Use 'je n'ai rien', 'quelque chose de beau', 'bon marché'.",
+  "focus_points": [
+   "Negative: ne...rien → je n'ai rien",
+   "Quelque chose de + adjective: de beau, de plus petit",
+   "Colors: verte, noire, bleue, orange, jaune",
+   "Expression: bon marché (invariable)"
+  ]
+ }
+},
+{
+ "lesson_id": 34,
+ "title": "Les randonneurs",
+ "speaking_task": {
+  "type": "summary_short",
+  "description": "Summarize the hiking story in 4-5 sentences using être verbs in passé composé.",
+  "duration_minutes": 3,
+  "recording_required": true,
+  "instructions": "Summarize: A person walks 70km between Colmar and Strasbourg. They leave early, stop at Sélestat, sleep, and continue. Use 'je suis parti', 'je suis arrivé', 'je me suis arrêté', 'je suis reparti'. Mention the weather.",
+  "focus_points": [
+   "Être verbs in PC: partir, arriver, s'arrêter, repartir",
+   "Weather: il pleut, il neige, il fait froid",
+   "Time: le lendemain, à mi-chemin",
+   "Vocabulary: randonnée, copains, y compris"
+  ]
+ }
+},
+{
+ "lesson_id": 35,
+ "title": "Revision",
+ "speaking_task": {
+  "type": "summary_short",
+  "description": "Summarize the revision dialogue in 5 sentences, covering lessons 29-34.",
+  "duration_minutes": 3,
+  "recording_required": true,
+  "instructions": "Summarize the revision dialogue. It covers: informal greetings (tu), phone calls, shopping, work stress, clothes, and hiking. Mix informal and formal registers appropriately.",
+  "focus_points": [
+   "Tu vs vous register switching",
+   "Être verbs in passé composé review",
+   "En and y pronouns review",
+   "Negatives: ne...rien, ne...plus, ne...jamais"
+  ]
+ }
+},
+{
+ "lesson_id": 36,
+ "title": "J'espère que je n'ai rien oublié...",
+ "speaking_task": {
+  "type": "summary_and_opinion",
+  "description": "Summarize the departure checklist dialogue, then give your opinion about the speaker.",
+  "duration_minutes": 4,
+  "recording_required": true,
+  "instructions": "Summarize: A woman checks everything before leaving (windows, fridge, plants, oven). At the airport, she realizes she forgot her handbag. Then say: 'Je pense que...' or 'À mon avis, elle est...' Give your opinion.",
+  "focus_points": [
+   "Passé composé with avoir: j'ai vérifié, j'ai vidé",
+   "Agreement: les fenêtres fermées, les plantes arrosées",
+   "Household vocabulary: réfrigérateur, congélateur, four",
+   "Opinion: Je pense que..., À mon avis..."
+  ]
+ }
+},
+{
+ "lesson_id": 37,
+ "title": "J'ai réfléchi à la question du loyer...",
+ "speaking_task": {
+  "type": "summary_and_opinion",
+  "description": "Summarize the apartment search, then give your opinion on the choices.",
+  "duration_minutes": 4,
+  "recording_required": true,
+  "instructions": "Summarize: She compares 3 apartments (small but quiet, big but noisy, spacious with terrace but too expensive). Use comparatives: 'plus petit que', 'moins cher', 'le plus spacieux'. Then say which you would choose and why.",
+  "focus_points": [
+   "Comparatives: plus...que, moins...que, aussi...que",
+   "Superlatives: le plus spacieux, le plus joli",
+   "Vocabulary: loyer, prohibitif, salaire mensuel",
+   "Opinion: Je choisirais..., À mon avis..."
+  ]
+ }
+},
+{
+ "lesson_id": 38,
+ "title": "C'est de la part de qui ?",
+ "speaking_task": {
+  "type": "summary_and_opinion",
+  "description": "Summarize the business phone call, then give your opinion on phone etiquette.",
+  "duration_minutes": 4,
+  "recording_required": true,
+  "instructions": "Summarize: A woman calls to reach Alain Bolland. She met him at the Motor Show. He's busy. She leaves a message with her number. Use 'c'est de la part de qui?', 'ne quittez pas', 'je vous prie'. Then comment on phone politeness.",
+  "focus_points": [
+   "Formal phone language: c'est de la part de qui?",
+   "Passé composé 3rd group: j'ai pris, j'ai appris, il a dit",
+   "Formal expressions: je vous prie, entendu",
+   "Opinion: Je trouve que..., Il est important de..."
+  ]
+ }
+},
+{
+ "lesson_id": 39,
+ "title": "Le septième art",
+ "speaking_task": {
+  "type": "summary_and_opinion",
+  "description": "Summarize the film review dialogue, then say if you would enjoy it.",
+  "duration_minutes": 4,
+  "recording_required": true,
+  "instructions": "Summarize: A woman describes a horror film set in Annecy. An old couple, a strange house, dead birds, a husband with an axe. She hid under the table. Then say: 'Moi, j'aimerais/j'aurais peur...' Give your reaction.",
+  "focus_points": [
+   "Passé composé with être: elle est sortie, elle s'est cachée",
+   "Cinema vocabulary: metteur en scène, vedette, scénario",
+   "Narrative tenses: l'action se passe, elle entend",
+   "Opinion: J'aurais peur, Je n'aimerais pas"
+  ]
+ }
+},
+{
+ "lesson_id": 40,
+ "title": "Tu es si impatient !",
+ "speaking_task": {
+  "type": "summary_and_opinion",
+  "description": "Summarize the film discussion, then give your opinion on the characters.",
+  "duration_minutes": 4,
+  "recording_required": true,
+  "instructions": "Summarize: Two friends discuss going to the cinema. One is impatient, the other is reluctant. They argue about the film. Use 'tu es si impatient', 'c'est dingue', 'quelle histoire de fou'. Then say who you agree with.",
+  "focus_points": [
+   "Past participles: mis, pris, bu",
+   "Informal exclamations: c'est dingue, bof",
+   "Expressions: ça ne me dit rien, j'en ai marre",
+   "Opinion: Je suis d'accord avec..., Je trouve que..."
+  ]
+ }
+},
+{
+ "lesson_id": 41,
+ "title": "Un accueil désagréable",
+ "speaking_task": {
+  "type": "summary_and_opinion",
+  "description": "Summarize the restaurant booking complaint, then say how you would react.",
+  "duration_minutes": 4,
+  "recording_required": true,
+  "instructions": "Summarize: A customer tries to book a restaurant. The staff is rude. The restaurant is full. They demand bank details. Use 'il est préférable de', 'ça ne se fait pas', 'un discours sera prononcé'. Then say what you would do.",
+  "focus_points": [
+   "Passive voice: le buffet a été commandé, un discours sera prononcé",
+   "Impersonal se: ça ne se fait pas, tout se mange froid",
+   "Formal register: il est préférable de",
+   "Opinion: Je serais fâché(e), Je trouverais ça..."
+  ]
+ }
+},
+{
+ "lesson_id": 42,
+ "title": "Revision",
+ "speaking_task": {
+  "type": "summary_and_opinion",
+  "description": "Summarize the revision dialogue covering lessons 36-41, then give a general opinion.",
+  "duration_minutes": 4,
+  "recording_required": true,
+  "instructions": "Summarize the revision dialogue. It covers: leaving for a trip, apartment hunting, phone calls, cinema, and restaurant complaints. Then say: 'En résumé, je pense que...' Give an overall reflection.",
+  "focus_points": [
+   "Passive voice review",
+   "All past tenses review",
+   "Formal vs informal register",
+   "Opinion structures: Je pense que, Je trouve que"
+  ]
+ }
+},
+{
+ "lesson_id": 43,
+ "title": "Le foot féminin",
+ "speaking_task": {
+  "type": "summary_and_qa",
+  "description": "Summarize the biography article, then answer 3 questions aloud.",
+  "duration_minutes": 5,
+  "recording_required": true,
+  "questions": [
+   "Quel sport pratiquait Manuel Alonso avant de devenir entraîneur?",
+   "Pourquoi a-t-il quitté le lycée à seize ans?",
+   "Qu'est-ce que vous admirez chez un sportif ou une sportive?"
+  ],
+  "instructions": "Summarize: Manuel Alonso was born in Spain, moved to France, played various sports, became a football coach. Use être verbs in passé composé: 'il est né', 'il est allé', 'il est devenu'. Then answer the questions.",
+  "focus_points": [
+   "Être verbs in PC: naître, aller, devenir, entrer, sortir",
+   "Biography vocabulary: carrière, succès, lycée",
+   "Imparfait for habits: il jouait, il aimait",
+   "Sports vocabulary: entraîneur, équipe, match"
+  ]
+ }
+},
+{
+ "lesson_id": 44,
+ "title": "Perturbations dans les transports...",
+ "speaking_task": {
+  "type": "summary_and_qa",
+  "description": "Summarize the transport incident, then answer 3 questions aloud.",
+  "duration_minutes": 5,
+  "recording_required": true,
+  "questions": [
+   "Qu'est-ce que la personne a vu en sortant du métro?",
+   "Combien de camions de pompiers y avait-il?",
+   "Avez-vous déjà vécu une perturbation dans les transports?"
+  ],
+  "instructions": "Summarize: A person sees smoke from a building, calls the fire brigade. Fire trucks arrive. The roof is in flames. Use 'il est flagrant que', 'valoir mieux', 'il vaut mieux'. Then answer the questions.",
+  "focus_points": [
+   "Impersonal: il vaut mieux, il est flagrant que",
+   "Transport vocabulary: bouche du métro, bouchons, quai",
+   "Emergency vocabulary: pompiers, incendie, secours",
+   "Narrative imparfait: je sortais, je voyais"
+  ]
+ }
+},
+{
+ "lesson_id": 45,
+ "title": "Il n'y a pas de métiers inutiles",
+ "speaking_task": {
+  "type": "summary_and_qa",
+  "description": "Summarize the job discussion, then answer 3 questions aloud.",
+  "duration_minutes": 5,
+  "recording_required": true,
+  "questions": [
+   "Quel métier la personne décrit-elle?",
+   "Quelles qualités faut-il pour ce métier?",
+   "Quel est votre métier idéal et pourquoi?"
+  ],
+  "instructions": "Summarize: Someone describes their job managing international trade. Use relative pronouns: 'un métier qui demande...', 'les collègues avec qui je travaille'. Then answer the questions about your ideal job.",
+  "focus_points": [
+   "Relative pronouns: qui, que, dont",
+   "Profession vocabulary: responsable, commerce, international",
+   "Qualities: rigueur, vision stratégique, esprit cartésien",
+   "Opinion: Il n'y a pas de métiers inutiles"
+  ]
+ }
+},
+{
+ "lesson_id": 46,
+ "title": "Depuis, je n'ai aucune nouvelle",
+ "speaking_task": {
+  "type": "summary_and_qa",
+  "description": "Summarize the missing person report, then answer 3 questions aloud.",
+  "duration_minutes": 5,
+  "recording_required": true,
+  "questions": [
+   "Comment est la personne disparue (physiquement)?",
+   "Qu'est-ce qu'elle portait?",
+   "Que feriez-vous si vous perdiez quelqu'un?"
+  ],
+  "instructions": "Summarize: A woman reports her husband missing. She describes him: quarantaine, mince, grand, cheveux bruns. Use negatives: 'je n'ai aucune nouvelle', 'il n'est pas rentré'. Then answer the questions.",
+  "focus_points": [
+   "Negatives: ne...aucun(e), ne...plus",
+   "Physical description: mince, grand, cheveux bruns, raides",
+   "Clothes: pantalon gris, chemise, écharpe, veste en cuir",
+   "Time: depuis trois jours, avant-hier"
+  ]
+ }
+},
+{
+ "lesson_id": 47,
+ "title": "Un déménagement",
+ "speaking_task": {
+  "type": "summary_and_qa",
+  "description": "Summarize the moving dialogue, then answer 3 questions aloud.",
+  "duration_minutes": 5,
+  "recording_required": true,
+  "questions": [
+   "Quels gros objets faut-il transporter?",
+   "Qui aide avec le déménagement?",
+   "Avez-vous déjà déménagé? Comment c'était?"
+  ],
+  "instructions": "Summarize: Friends organize a move. Big items (canapé, armoires, lits) go in the truck. Small items (vaisselle, tableaux, livres) go in the van. Use 'plus on est nombreux, plus on s'amuse'. Then answer the questions.",
+  "focus_points": [
+   "Comparative structure: plus...plus...",
+   "Furniture: canapé, armoire, lit, machine à laver",
+   "Small items: vaisselle, tableaux, linge, cartons",
+   "Pronoun order: je le leur ai proposé"
+  ]
+ }
+},
+{
+ "lesson_id": 48,
+ "title": "Ça ne me dit rien",
+ "speaking_task": {
+  "type": "summary_and_qa",
+  "description": "Summarize the picnic discussion, then answer 3 questions aloud.",
+  "duration_minutes": 5,
+  "recording_required": true,
+  "questions": [
+   "Pourquoi la personne n'aime-t-elle pas les pique-niques?",
+   "Qu'est-ce qu'elle trouve désagréable?",
+   "Préférez-vous les pique-niques ou les restaurants?"
+  ],
+  "instructions": "Summarize: A person hates picnics. The food is bad, insects are everywhere, it's uncomfortable. The other person suggests going anyway. Use 'ça ne me dit rien', 'un temps de chien', 'j'ai la flemme'. Then answer.",
+  "focus_points": [
+   "Expressions: ça ne me dit rien, j'ai la flemme",
+   "Weather: un temps de chien, gris et moche",
+   "Food: chips, salades de riz, sandwichs",
+   "Preference: je préfère..., plutôt..."
+  ]
+ }
+},
+{
+ "lesson_id": 49,
+ "title": "Revision",
+ "speaking_task": {
+  "type": "summary_and_qa",
+  "description": "Summarize the revision dialogue covering lessons 43-49, then answer 3 questions.",
+  "duration_minutes": 5,
+  "recording_required": true,
+  "questions": [
+   "Quels sont les thèmes principaux de cette révision?",
+   "Qu'est-ce que vous avez trouvé le plus intéressant?",
+   "Comment utilisez-vous le français dans votre vie quotidienne?"
+  ],
+  "instructions": "Summarize the revision dialogue. It covers: sports biography, transport problems, jobs, missing persons, moving, and picnics. Then reflect on your own learning journey so far. This is the last passive phase speaking task.",
+  "focus_points": [
+   "All passive phase grammar review",
+   "Être verbs in passé composé",
+   "Comparatives and superlatives",
+   "Relative pronouns and negatives"
+  ]
+ }
+},
+{
+ "lesson_id": 50,
+ "title": "Je m'ennuie...",
+ "speaking_task": {
+  "type": "summary_and_qa",
+  "description": "ACTIVE PHASE BEGINS. Summarize the daily routine, then answer 3 questions about your own routine.",
+  "duration_minutes": 5,
+  "recording_required": true,
+  "questions": [
+   "Que fait la personne chaque matin?",
+   "Pourquoi s'ennuie-t-elle au travail?",
+   "Et vous, que faites-vous le matin? Décrivez votre routine."
+  ],
+  "instructions": "Summarize: A person wakes up, checks emails, listens to the radio, reads, gets dressed, drives to work, pretends to work. Use reflexive verbs: 'je me réveille', 'je me lève', 'je m'habille'. Then describe YOUR routine.",
+  "focus_points": [
+   "Reflexive verbs: se réveiller, se lever, s'habiller, se raser",
+   "Daily routine vocabulary",
+   "Expressions: faire semblant, s'endormir",
+   "Active production: describe YOUR routine"
+  ]
+ }
+},
+{
+ "lesson_id": 51,
+ "title": "Hâtez-vous lentement !",
+ "speaking_task": {
+  "type": "summary_and_qa",
+  "description": "Summarize the rushing dialogue, then answer 3 questions about a time you were late.",
+  "duration_minutes": 5,
+  "recording_required": true,
+  "questions": [
+   "Pourquoi sont-ils pressés?",
+   "Qu'est-ce qui se passe avec les clés?",
+   "Racontez une fois où vous étiez en retard. Que s'est-il passé?"
+  ],
+  "instructions": "Summarize: Friends are late for a show. They rush, can't find the car keys. Use imperative: 'dépêchez-vous!', 'bougez-vous!'. Then tell YOUR story of being late. Use passé composé.",
+  "focus_points": [
+   "Imperative reflexive: dépêche-toi, ne te dépêche pas",
+   "Expressions: perdre du temps, faire la grasse matinée",
+   "Passé composé narrative",
+   "Active production: tell YOUR story"
+  ]
+ }
+},
+{
+ "lesson_id": 52,
+ "title": "Nous nous sommes bien amusés !",
+ "speaking_task": {
+  "type": "summary_and_qa",
+  "description": "Summarize the TV show discussion, then answer 3 questions about your entertainment preferences.",
+  "duration_minutes": 5,
+  "recording_required": true,
+  "questions": [
+   "Quelle émission préfèrent-ils?",
+   "Pourquoi aiment-ils cette émission?",
+   "Quelle est votre émission ou série préférée? Pourquoi?"
+  ],
+  "instructions": "Summarize: Friends discuss their favorite TV shows. One likes a comedy, another prefers documentaries. Use reflexive passé composé: 'nous nous sommes bien amusés', 'elle s'est coupée'. Then talk about YOUR preferences.",
+  "focus_points": [
+   "Reflexive passé composé: se sont amusés, s'est disputé",
+   "TV vocabulary: émission, série, documentaire, présentateur",
+   "Opinion: je préfère, j'aime bien, je déteste",
+   "Active production: describe YOUR favorite show"
+  ]
+ }
+},
+{
+ "lesson_id": 53,
+ "title": "Je ne ferai plus jamais ça !",
+ "speaking_task": {
+  "type": "summary_and_qa",
+  "description": "Summarize the online shopping disaster, then answer 3 questions about your shopping habits.",
+  "duration_minutes": 5,
+  "recording_required": true,
+  "questions": [
+   "Qu'est-ce qu'elle a commandé en ligne?",
+   "Qu'est-ce qui s'est mal passé?",
+   "Préférez-vous acheter en ligne ou en magasin? Pourquoi?"
+  ],
+  "instructions": "Summarize: A woman orders groceries online. The delivery is wrong, items are missing. She decides never to shop online again. Use future: 'je ne ferai plus jamais...', 'je n'achèterai plus...'. Then discuss YOUR preference.",
+  "focus_points": [
+   "Future tense: je ferai, j'achèterai, je ne ferai plus jamais",
+   "Shopping vocabulary: commander, livrer, le panier",
+   "Negatives with future: je ne...plus jamais",
+   "Active production: YOUR shopping preference"
+  ]
+ }
+},
+{
+ "lesson_id": 54,
+ "title": "Votez pour moi : vous ne le regretterez pas...",
+ "speaking_task": {
+  "type": "summary_and_qa",
+  "description": "Summarize the political speech, then answer 3 questions about politics.",
+  "duration_minutes": 5,
+  "recording_required": true,
+  "questions": [
+   "Que promet le candidat?",
+   "Contre quoi veut-il lutter?",
+   "Si vous étiez président(e), quelle serait votre priorité?"
+  ],
+  "instructions": "Summarize: A candidate promises not to lie, to fight corruption, to tell the truth. Use future: 'je ne serai pas long', 'je ne promettrai pas...', 'vous devrez faire le bon choix'. Then answer the hypothetical question.",
+  "focus_points": [
+   "Future with irregular verbs: serai, ferai, promettre",
+   "Political vocabulary: candidat, élection, voix",
+   "Hypothetical: Si j'étais président(e)...",
+   "Active production: YOUR political priority"
+  ]
+ }
+},
+{
+ "lesson_id": 55,
+ "title": "Mais c'est horrible, ton film !",
+ "speaking_task": {
+  "type": "summary_and_qa",
+  "description": "Summarize the film discussion, then answer 3 questions about cinema.",
+  "duration_minutes": 5,
+  "recording_required": true,
+  "questions": [
+   "Quel type de film ont-ils vu?",
+   "Qu'est-ce qui s'est passé dans le film?",
+   "Quel est le dernier film que vous avez vu? L'avez-vous aimé?"
+  ],
+  "instructions": "Summarize: A woman describes a horror film. An old couple, strange noises, a husband with an axe. She hid under the table. Use passé composé and imparfait together. Then talk about YOUR last film experience.",
+  "focus_points": [
+   "Passé composé vs imparfait in narration",
+   "Cinema vocabulary: film d'épouvante, réalisateur, acteur",
+   "Emotions: j'avais peur, je me suis caché(e)",
+   "Active production: YOUR film experience"
+  ]
+ }
+},
+{
+ "lesson_id": 56,
+ "title": "Revision",
+ "speaking_task": {
+  "type": "summary_and_qa",
+  "description": "Summarize the revision dialogue covering lessons 50-55, then reflect on your progress.",
+  "duration_minutes": 5,
+  "recording_required": true,
+  "questions": [
+   "Quels thèmes avons-nous couverts dans cette révision?",
+   "Qu'est-ce qui était le plus difficile pour vous?",
+   "Comment avez-vous progressé depuis la leçon 1?"
+  ],
+  "instructions": "Summarize the revision covering: daily routines, rushing, TV shows, online shopping, politics, and cinema. Then reflect on YOUR learning journey. What was hardest? What do you enjoy most?",
+  "focus_points": [
+   "All active phase structures so far",
+   "Reflexive verbs in all tenses",
+   "Future and conditional",
+   "Active reflection on YOUR progress"
+  ]
+ }
+},
+{
+ "lesson_id": 57,
+ "title": "Vive les Bretons !",
+ "speaking_task": {
+  "type": "summary_and_qa",
+  "description": "Summarize the story about learning Breton, then answer 3 questions about language learning.",
+  "duration_minutes": 5,
+  "recording_required": true,
+  "questions": [
+   "Pourquoi ont-ils appris le breton?",
+   "Quelle est l'origine du mot 'baragouiner'?",
+   "Pourquoi apprenez-vous le français? Qu'est-ce qui vous motive?"
+  ],
+  "instructions": "Summarize: A couple lived in Brittany and learned Breton by immersion. Use imparfait for habits: 'ils parlaient', 'nous habitions'. Then talk about YOUR motivation for learning French.",
+  "focus_points": [
+   "Imparfait for habits and background",
+   "Language learning vocabulary: apprendre, parler, comprendre",
+   "Cultural vocabulary: baragouiner, breton",
+   "Active production: YOUR language motivation"
+  ]
+ }
+},
+{
+ "lesson_id": 58,
+ "title": "Un grincheux",
+ "speaking_task": {
+  "type": "summary_and_qa",
+  "description": "Summarize the holiday argument, then answer 3 questions about your travel preferences.",
+  "duration_minutes": 5,
+  "recording_required": true,
+  "questions": [
+   "Où veulent-ils aller en vacances?",
+   "Pourquoi la personne est-elle grincheuse?",
+   "Où aimeriez-vous aller en vacances? Pourquoi?"
+  ],
+  "instructions": "Summarize: One friend wants to go to Nîmes, the other is grumpy and refuses. Use conditional: 'ça serait chouette', 'ça nous changerait les idées'. Then describe YOUR dream holiday.",
+  "focus_points": [
+   "Conditional present: ça serait, j'irais, nous pourrions",
+   "Tourism vocabulary: vacances, voyage, visiter",
+   "Expressions: ça vaut la peine, changer les idées",
+   "Active production: YOUR dream holiday"
+  ]
+ }
+},
+{
+ "lesson_id": 59,
+ "title": "Il ne gagnait (presque) jamais",
+ "speaking_task": {
+  "type": "summary_and_qa",
+  "description": "Summarize the story about the father's habits, then answer 3 questions about family memories.",
+  "duration_minutes": 5,
+  "recording_required": true,
+  "questions": [
+   "Que faisait le père toutes les semaines?",
+   "Comment choisissait-il ses numéros?",
+   "Quel souvenir avez-vous d'un membre de votre famille?"
+  ],
+  "instructions": "Summarize: A father played the lottery every week, choosing numbers at random. He almost never won. Use imparfait for habits: 'il jouait', 'il lançait des dés', 'il choisissait'. Then share a family memory.",
+  "focus_points": [
+   "Imparfait for repeated past actions",
+   "Plus-que-parfait introduction: il avait déjà perdu",
+   "Vocabulary: hasard, dés, pile ou face",
+   "Active production: YOUR family memory"
+  ]
+ }
+},
+{
+ "lesson_id": 60,
+ "title": "Le voisinage est de plus en plus dangereux !",
+ "speaking_task": {
+  "type": "summary_and_qa",
+  "description": "Summarize the fire incident, then answer 3 questions about your neighborhood.",
+  "duration_minutes": 5,
+  "recording_required": true,
+  "questions": [
+   "Qu'est-ce que la personne a vu?",
+   "Comment les pompiers ont-ils réagi?",
+   "Comment est votre quartier? Y a-t-il des problèmes?"
+  ],
+  "instructions": "Summarize: Someone sees smoke from a building, calls the fire brigade. Fire trucks arrive. Use imparfait + passé composé: 'je rentrais quand j'ai vu...', 'les pompiers sont arrivés'. Then describe YOUR neighborhood.",
+  "focus_points": [
+   "Imparfait + passé composé together",
+   "Expressions: de plus en plus, il vaut mieux",
+   "Emergency vocabulary: incendie, pompiers, secours",
+   "Active production: YOUR neighborhood"
+  ]
+ }
+},
+{
+ "lesson_id": 61,
+ "title": "La célébrité ne me dit pas grand-chose",
+ "speaking_task": {
+  "type": "summary_and_qa",
+  "description": "Summarize the photographer interview, then answer 3 questions about careers.",
+  "duration_minutes": 5,
+  "recording_required": true,
+  "questions": [
+   "Comment Isabelle est-elle devenue photographe?",
+   "Qu'est-ce qu'elle aime photographier?",
+   "Quel métier vous passionne? Pourquoi?"
+  ],
+  "instructions": "Summarize: Isabelle became a photographer by passion. She prefers street photography. She doesn't care about fame. Use indirect speech: 'elle a dit que...', 'elle pense que...'. Then talk about YOUR passion.",
+  "focus_points": [
+   "Indirect speech: elle a dit que, elle pense que",
+   "Photography vocabulary: appareil photo, portrait, paysage",
+   "Expressions: la célébrité, la passion",
+   "Active production: YOUR career passion"
+  ]
+ }
+},
+{
+ "lesson_id": 62,
+ "title": "J'ai mis le doigt sur ton problème...",
+ "speaking_task": {
+  "type": "summary_and_qa",
+  "description": "Summarize the coding struggle dialogue, then answer 3 questions about learning difficulties.",
+  "duration_minutes": 5,
+  "recording_required": true,
+  "questions": [
+   "Quel est le problème du codeur?",
+   "Quels conseils lui donne-t-on?",
+   "Avez-vous déjà eu des difficultés à apprendre quelque chose? Comment avez-vous surmonté?"
+  ],
+  "instructions": "Summarize: A coder struggles with programming. A friend gives advice using body idioms. Use idioms: 'ne te casse pas la tête', 'donne un coup de main', 'serre les dents'. Then share YOUR learning struggle.",
+  "focus_points": [
+   "Body idioms: se casser la tête, coup de main, serrer les dents",
+   "Advice language: tu devrais, il faut que tu",
+   "Learning vocabulary: apprendre, comprendre, difficulté",
+   "Active production: YOUR learning struggle"
+  ]
+ }
+},
+{
+ "lesson_id": 63,
+ "title": "Revision",
+ "speaking_task": {
+  "type": "summary_and_qa",
+  "description": "Summarize the revision covering lessons 57-62, then reflect on your progress.",
+  "duration_minutes": 5,
+  "recording_required": true,
+  "questions": [
+   "Quels thèmes avons-nous couverts?",
+   "Qu'est-ce qui était le plus utile pour vous?",
+   "Comment utilisez-vous le français maintenant?"
+  ],
+  "instructions": "Summarize the revision covering: Breton language, holiday arguments, lottery, neighborhood incidents, photography, and coding struggles. Then reflect on how YOUR French has improved.",
+  "focus_points": [
+   "Imparfait vs passé composé mastery",
+   "Conditional and indirect speech",
+   "Idioms and expressions",
+   "Active reflection on YOUR progress"
+  ]
+ }
+},
+{
+ "lesson_id": 64,
+ "title": "Je crains le pire...",
+ "speaking_task": {
+  "type": "role_play",
+  "description": "Role-play a customer at a travel agency asking about holiday options.",
+  "duration_minutes": 5,
+  "recording_required": true,
+  "prompt": "You are at a travel agency. You want a beach holiday in June. Ask about prices, dates, and what's included. Be polite but specific.",
+  "instructions": "Use conditional for polite requests: 'Je voudrais...', 'Est-ce que je pourrais avoir...', 'Ça coûterait combien...'. Ask about at least 3 things: destination, price, dates. Respond to the agent's suggestions.",
+  "focus_points": [
+   "Conditional for politeness: je voudrais, je pourrais",
+   "Travel vocabulary: séjour, vol, hôtel, demi-pension",
+   "Questions: combien coûte, quand est-ce que, est-ce inclus",
+   "Comparisons: moins cher, plus confortable"
+  ]
+ }
+},
+{
+ "lesson_id": 65,
+ "title": "Cent pour cent des gagnants ont tenté leur chance !",
+ "speaking_task": {
+  "type": "role_play",
+  "description": "Role-play discussing a competition with a friend.",
+  "duration_minutes": 5,
+  "recording_required": true,
+  "prompt": "Your friend tells you about a competition to win a free trip. You discuss whether to enter, what you'd do if you won, and what the prize includes.",
+  "instructions": "Use conditional with si: 'Si je gagnais, je...', 'Si nous partions ensemble...'. Discuss the prize, the odds, and what you'd do. Use 'ça vaut le coup', 'tenter sa chance'.",
+  "focus_points": [
+   "Si + imparfait → conditionnel: si je gagnais, j'irais",
+   "Competition vocabulary: concours, prix, gagner, tenter",
+   "Hypothetical: je serais prêt(e) à, je pourrais",
+   "Expressions: ça vaut le coup, cent pour cent"
+  ]
+ }
+},
+{
+ "lesson_id": 66,
+ "title": "Président d'un jour",
+ "speaking_task": {
+  "type": "role_play",
+  "description": "Role-play a student debating environmental policy with a politician.",
+  "duration_minutes": 5,
+  "recording_required": true,
+  "prompt": "You are a student named Noura. You demand climate action from a politician. They make excuses. You push back politely but firmly.",
+  "instructions": "Use subjunctive: 'Il faut que nous agissions', 'Je n'accepte pas que vous disiez...'. Use 'il est urgent que', 'nous exigeons que'. Be firm but respectful.",
+  "focus_points": [
+   "Subjunctive: il faut que, il est urgent que, nous exigeons que",
+   "Environmental vocabulary: climat, pollution, énergie",
+   "Debate language: je ne suis pas d'accord, au contraire",
+   "Formal register with a politician"
+  ]
+ }
+},
+{
+ "lesson_id": 67,
+ "title": "L'encre la plus pâle...",
+ "speaking_task": {
+  "type": "role_play",
+  "description": "Role-play helping an elderly neighbor prepare for a trip.",
+  "duration_minutes": 5,
+  "recording_required": true,
+  "prompt": "You are helping your elderly neighbor pack for a trip. Check what they've done: closed windows, emptied fridge, watered plants. They keep forgetting things.",
+  "instructions": "Use passé composé with avoir and être: 'Vous avez fermé les fenêtres?', 'Êtes-vous monté(e) au grenier?'. Help them make a checklist. Be patient and kind.",
+  "focus_points": [
+   "Passé composé questions: avez-vous fermé? êtes-vous monté?",
+   "Household tasks: fermer, vider, arroser, débrancher",
+   "Checking: est-ce que vous avez pensé à...?",
+   "Kind, patient tone with elderly person"
+  ]
+ }
+},
+{
+ "lesson_id": 68,
+ "title": "La visite de la petite-fille",
+ "speaking_task": {
+  "type": "role_play",
+  "description": "Role-play a grandparent asking their grandchild about their love life.",
+  "duration_minutes": 5,
+  "recording_required": true,
+  "prompt": "You are a grandparent. Your grandchild visits. You ask about their studies, friends, and if they have a boyfriend/girlfriend. They deflect. You persist gently.",
+  "instructions": "Use informal tu with warmth. Use 'tu peux nous présenter qui que ce soit'. Ask about their life. Use expressions: 'chaque chose en son temps', 'je m'en doute'. Be loving but nosy.",
+  "focus_points": [
+   "Relative pronouns: qui que ce soit, quoi que",
+   "Informal warmth: ma petite, mon chéri",
+   "Family vocabulary: petit-ami, petite-amie",
+   "Expressions: chaque chose en son temps"
+  ]
+ }
+},
+{
+ "lesson_id": 69,
+ "title": "Les animaux ne mentent pas...",
+ "speaking_task": {
+  "type": "monologue",
+  "description": "Speak for 3-4 minutes about a time you were very sick, using animal idioms.",
+  "duration_minutes": 4,
+  "recording_required": true,
+  "topic": "A time you were very sick or felt terrible.",
+  "instructions": "Describe what happened: symptoms, going to the doctor, staying in bed. Use at least 3 animal idioms: 'malade comme un chien', 'j'avais le cafard', 'une faim de loup', 'dormir comme un loir'. Make it vivid.",
+  "focus_points": [
+   "Animal idioms: malade comme un chien, le cafard, faim de loup",
+   "Health vocabulary: fièvre, médecin, médicaments",
+   "Imparfait for background, passé composé for events",
+   "Vivid, descriptive storytelling"
+  ]
+ }
+},
+{
+ "lesson_id": 70,
+ "title": "Revision",
+ "speaking_task": {
+  "type": "monologue",
+  "description": "Speak for 4-5 minutes about your French learning journey so far.",
+  "duration_minutes": 5,
+  "recording_required": true,
+  "topic": "Your French learning journey from lesson 1 to lesson 70.",
+  "instructions": "Describe: what you knew before (imparfait), key moments of progress (passé composé), what was hardest, what you enjoy most, and your goals for the remaining 30 lessons. Be reflective and honest.",
+  "focus_points": [
+   "All tenses: imparfait, passé composé, future, conditional",
+   "Reflective vocabulary: progresser, difficulté, réussir",
+   "Expressions: petit à petit, de plus en plus",
+   "Honest self-assessment"
+  ]
+ }
+},
+{
+ "lesson_id": 71,
+ "title": "\"La Dame de fer\"",
+ "speaking_task": {
+  "type": "summary_and_qa",
+  "description": "Summarize the Eiffel Tower text, then answer 3 questions about monuments.",
+  "duration_minutes": 5,
+  "recording_required": true,
+  "questions": [
+   "Quand la Tour Eiffel a-t-elle été construite et par qui?",
+   "Pourquoi n'a-t-elle pas été démolie?",
+   "Quel est le monument le plus important de votre pays?"
+  ],
+  "instructions": "Summarize using passive voice: 'elle a été construite en 1889', 'elle a été visitée par...'. Mention it was criticized but survived. Then describe YOUR country's most important monument.",
+  "focus_points": [
+   "Passive voice: a été construite, est visitée par",
+   "Historical vocabulary: construire, démolir, préserver",
+   "Numbers: mil huit cent quatre-vingt-neuf",
+   "Active production: YOUR country's monument"
+  ]
+ }
+},
+{
+ "lesson_id": 72,
+ "title": "Ça ne se fait pas !",
+ "speaking_task": {
+  "type": "role_play",
+  "description": "Role-play organizing a colleague's farewell party at the office.",
+  "duration_minutes": 5,
+  "recording_required": true,
+  "prompt": "You are organizing a farewell party for a colleague leaving at the end of the month. Discuss the buffet, the gift, the speech, and the timing with a coworker.",
+  "instructions": "Use impersonal se: 'ça se fait de...', 'ça ne se fait pas de...'. Use passive: 'le buffet a été commandé', 'un discours sera prononcé'. Discuss logistics politely.",
+  "focus_points": [
+   "Impersonal se: ça se fait, ça ne se fait pas",
+   "Passive voice: a été commandé, sera prononcé",
+   "Office vocabulary: collègue, pot de départ, bureau",
+   "Polite planning language"
+  ]
+ }
+},
+{
+ "lesson_id": 73,
+ "title": "Je n'en peux plus !",
+ "speaking_task": {
+  "type": "monologue",
+  "description": "Speak for 3-4 minutes about a terrible day, using informal expressions.",
+  "duration_minutes": 4,
+  "recording_required": true,
+  "topic": "A terrible day you had (real or imagined).",
+  "instructions": "Describe everything that went wrong: transport, work, health. Use informal expressions: 'j'en peux plus', 'j'en ai plein le dos', 'quelle galère', 'c'est dingue'. Be expressive and dramatic.",
+  "focus_points": [
+   "Informal expressions: j'en peux plus, quelle galère",
+   "Negatives: ne...plus, ne...rien",
+   "Exclamations: c'est dingue, c'est pas possible",
+   "Dramatic, expressive storytelling"
+  ]
+ }
+},
+{
+ "lesson_id": 74,
+ "title": "Les soldes",
+ "speaking_task": {
+  "type": "role_play",
+  "description": "Role-play shopping during the sales at a clothing store.",
+  "duration_minutes": 5,
+  "recording_required": true,
+  "prompt": "You are in a clothing store during the sales. You want a coat. The assistant shows you options. You hesitate, ask about sizes, colors, and prices. Finally decide.",
+  "instructions": "Use demonstratives: 'celui-ci', 'celle-là'. Ask: 'Est-ce que vous l'avez en gris?', 'Il me va bien?'. Discuss the discount: 'soldé à moins soixante pour cent'. Make a final decision.",
+  "focus_points": [
+   "Demonstratives: celui-ci, celle-là, lequel",
+   "Clothing: manteau, imperméable, parka, casquette",
+   "Sales vocabulary: soldes, réduction, moins X pour cent",
+   "Decision-making: je le prends, j'hésite"
+  ]
+ }
+},
+{
+ "lesson_id": 75,
+ "title": "Le Prix \"Accord majeur\"",
+ "speaking_task": {
+  "type": "role_play",
+  "description": "Role-play interviewing a musician who just won a lifetime achievement award.",
+  "duration_minutes": 5,
+  "recording_required": true,
+  "prompt": "You are a journalist interviewing a famous musician. Ask about their career, their beginnings, their proudest moment, and their advice for young musicians.",
+  "instructions": "Use indirect speech: 'Vous avez dit que...', 'On m'a dit que...'. Use passé composé for career events. Ask at least 4 questions. Be respectful and curious.",
+  "focus_points": [
+   "Indirect speech: vous avez dit que, on dit que",
+   "Career vocabulary: carrière, succès, tournée, album",
+   "Passé composé for life events",
+   "Interview technique and register"
+  ]
+ }
+},
+{
+ "lesson_id": 76,
+ "title": "\"Culture générale\" : le jeu radiophonique",
+ "speaking_task": {
+  "type": "role_play",
+  "description": "Role-play as a contestant on a radio quiz show.",
+  "duration_minutes": 5,
+  "recording_required": true,
+  "prompt": "You are on a radio quiz show. The host asks you questions about geography, history, and culture. You try to answer. Sometimes you know, sometimes you guess.",
+  "instructions": "Use relative pronouns: 'C'est un fleuve qui...', 'C'est un peintre qui a...'. Express uncertainty: 'Je crois que c'est...', 'Ça m'est sorti de la tête'. Be enthusiastic.",
+  "focus_points": [
+   "Relative pronouns: qui, que, dont",
+   "Expressing uncertainty: je crois, je pense, ça m'est sorti de la tête",
+   "Cultural knowledge vocabulary",
+   "Quiz show energy and enthusiasm"
+  ]
+ }
+},
+{
+ "lesson_id": 77,
+ "title": "Revision",
+ "speaking_task": {
+  "type": "monologue",
+  "description": "Speak for 4-5 minutes about a project or challenge you overcame.",
+  "duration_minutes": 5,
+  "recording_required": true,
+  "topic": "A project or challenge you overcame (work, personal, creative).",
+  "instructions": "Describe the challenge (imparfait), what happened (passé composé), how you overcame it (passé composé), and what you learned (present). Use passive voice where appropriate. Be proud of your achievement.",
+  "focus_points": [
+   "Passive voice in context",
+   "All narrative tenses together",
+   "Problem-solution vocabulary",
+   "Pride and achievement language"
+  ]
+ }
+},
+{
+ "lesson_id": 78,
+ "title": "\"Les voyages forment la jeunesse\"",
+ "speaking_task": {
+  "type": "summary_and_qa",
+  "description": "Summarize the holiday planning dialogue, then answer 3 questions about travel.",
+  "duration_minutes": 5,
+  "recording_required": true,
+  "questions": [
+   "Où vont-ils et pourquoi les enfants ne viennent-ils pas?",
+   "Qu'est-ce qu'ils vont rapporter?",
+   "Quel est le plus beau voyage que vous avez fait?"
+  ],
+  "instructions": "Summarize: A couple visits family in Nîmes. Their children refuse to come. They plan to bring back honey and herbs. Use pronoun order: 'nous le leur avons proposé'. Then talk about YOUR best trip.",
+  "focus_points": [
+   "Pronoun order: le leur, me le, nous les y",
+   "Travel vocabulary: rendre visite, rapporter, souvenir",
+   "Expressions: les voyages forment la jeunesse",
+   "Active production: YOUR best trip"
+  ]
+ }
+},
+{
+ "lesson_id": 79,
+ "title": "Il faut que je trouve une bonne excuse...",
+ "speaking_task": {
+  "type": "role_play",
+  "description": "Role-play politely refusing a friend's request.",
+  "duration_minutes": 5,
+  "recording_required": true,
+  "prompt": "A friend asks you to help them paint their apartment this weekend. You cannot because you have other commitments. Refuse politely but firmly. Suggest an alternative.",
+  "instructions": "Use subjunctive: 'Il faut que je finisse...', 'Je préfère que nous reportions...'. Be apologetic but clear. Offer an alternative: 'Je pourrais venir la semaine prochaine'. Use 'je suis désolé(e) mais...'.",
+  "focus_points": [
+   "Subjunctive: il faut que, je préfère que, je veux que",
+   "Polite refusal: je suis désolé(e) mais, malheureusement",
+   "Alternative suggestions: je pourrais, on pourrait",
+   "Maintaining friendship while saying no"
+  ]
+ }
+},
+{
+ "lesson_id": 80,
+ "title": "\"Notre action ne dépend que de vous\"",
+ "speaking_task": {
+  "type": "monologue",
+  "description": "Speak for 4-5 minutes about a cause you believe in, demanding change.",
+  "duration_minutes": 5,
+  "recording_required": true,
+  "topic": "A social or environmental cause you believe in.",
+  "instructions": "Speak passionately about your cause. Use subjunctive: 'Nous exigeons que...', 'Il est urgent que...', 'Il est dommage que...'. Describe the problem, demand solutions, and call for action.",
+  "focus_points": [
+   "Subjunctive: exiger que, il est urgent que, il est dommage que",
+   "Activism vocabulary: revendication, grève, manifestation",
+   "Passionate, persuasive tone",
+   "Call to action language"
+  ]
+ }
+},
+{
+ "lesson_id": 81,
+ "title": "La réaction des patrons",
+ "speaking_task": {
+  "type": "role_play",
+  "description": "Role-play an employer responding to union demands.",
+  "duration_minutes": 5,
+  "recording_required": true,
+  "prompt": "You represent a company. The union has made demands. You must respond firmly but diplomatically. You acknowledge some points but refuse others.",
+  "instructions": "Use subjunctive: 'Bien que nous fassions...', 'Pourvu que nous soyons...', 'Avant que vous ne finissiez...'. Be diplomatic but firm. Acknowledge some demands, refuse others.",
+  "focus_points": [
+   "Subjunctive: bien que, pourvu que, avant que",
+   "Business negotiation vocabulary",
+   "Diplomatic but firm tone",
+   "Conditional for compromise: nous pourrions"
+  ]
+ }
+},
+{
+ "lesson_id": 82,
+ "title": "Qu'ils sont idiots !",
+ "speaking_task": {
+  "type": "role_play",
+  "description": "Role-play being interviewed by a pollster about your political opinions.",
+  "duration_minutes": 5,
+  "recording_required": true,
+  "prompt": "A pollster asks you about your political opinions. You are skeptical of polls. You answer reluctantly, sometimes refusing. You question the pollster's methods.",
+  "instructions": "Use subjunctive: 'Qu'on le veuille ou non...', 'Quoi que vous pensiez...'. Be skeptical but engage. Use inverted questions: 'Est-il efficace?'. Express doubt about polls.",
+  "focus_points": [
+   "Subjunctive: qu'on le veuille ou non, quoi que",
+   "Inverted questions: est-il, a-t-il, dure-t-il",
+   "Political vocabulary: sondage, président, député",
+   "Skeptical, questioning tone"
+  ]
+ }
+},
+{
+ "lesson_id": 83,
+ "title": "Du beurre dans les épinards...",
+ "speaking_task": {
+  "type": "role_play",
+  "description": "Role-play hosting a radio quiz show about food expressions.",
+  "duration_minutes": 5,
+  "recording_required": true,
+  "prompt": "You host a radio quiz about French food expressions. You ask contestants to complete expressions like 'couper la poire en deux', 'tomber dans les pommes'. Keep energy high.",
+  "instructions": "Use subjunctive: 'Il faut que vous sachiez que...'. Use food idioms: 'avoir du pain sur la planche', 'mettre du beurre dans les épinards'. Be energetic and fun. Encourage contestants.",
+  "focus_points": [
+   "Subjunctive: il faut que vous sachiez",
+   "Food idioms: pain sur la planche, poire en deux",
+   "Radio show energy: Bonjour et bienvenue!",
+   "Encouraging contestants: Allez, courage!"
+  ]
+ }
+},
+{
+ "lesson_id": 84,
+ "title": "Revision",
+ "speaking_task": {
+  "type": "monologue",
+  "description": "Speak for 4-5 minutes about a time you had to deal with a difficult situation.",
+  "duration_minutes": 5,
+  "recording_required": true,
+  "topic": "A difficult situation you dealt with (bureaucracy, conflict, problem).",
+  "instructions": "Describe the situation (imparfait), what happened (passé composé), how you handled it, and the outcome. Use subjunctive for demands, conditional for alternatives. Be detailed and reflective.",
+  "focus_points": [
+   "All moods: indicative, subjunctive, conditional",
+   "Problem-solution narrative structure",
+   "Formal and informal register switching",
+   "Reflective conclusion"
+  ]
+ }
+},
+{
+ "lesson_id": 85,
+ "title": "Comment ça, je massacre le français ?",
+ "speaking_task": {
+  "type": "role_play",
+  "description": "Role-play a French teacher correcting a student's informal language.",
+  "duration_minutes": 5,
+  "recording_required": true,
+  "prompt": "You are a French teacher. A student speaks very informally. You correct them politely, explaining the proper forms. The student pushes back. You insist kindly.",
+  "instructions": "Use metalinguistic language: 'On ne dit pas...', 'Il faut dire...', 'C'est plus élégant de dire...'. Correct informal questions: 'C'est quoi...' → 'Qu'est-ce que c'est...'. Be patient.",
+  "focus_points": [
+   "Metalinguistic vocabulary: on dit, il faut dire",
+   "Formal vs informal corrections",
+   "Question forms: est-ce que, inversion",
+   "Patient, encouraging teacher tone"
+  ]
+ }
+},
+{
+ "lesson_id": 86,
+ "title": "Un entretien avec un chasseur de têtes",
+ "speaking_task": {
+  "type": "role_play",
+  "description": "Role-play a job interview for a management position.",
+  "duration_minutes": 5,
+  "recording_required": true,
+  "prompt": "You are being interviewed for an international trade manager position. The recruiter asks about your experience, skills, and what you can bring to the company.",
+  "instructions": "Use relative pronouns: 'un poste dont je serais responsable', 'les compétences que j'ai'. Describe your experience. Use 'je suis spécialisé(e) dans...', 'mes atouts sont...'. Be confident.",
+  "focus_points": [
+   "Relative pronouns: dont, lequel, auquel",
+   "Professional vocabulary: compétences, expérience, atouts",
+   "Confident interview language",
+   "Describing skills and achievements"
+  ]
+ }
+},
+{
+ "lesson_id": 87,
+ "title": "Le commissaire Périer mène l'enquête",
+ "speaking_task": {
+  "type": "role_play",
+  "description": "Role-play a police briefing about a murder investigation.",
+  "duration_minutes": 5,
+  "recording_required": true,
+  "prompt": "You are a police commissioner briefing your team about a murder. Describe the victim, the crime scene, and your initial theory. Your team asks questions.",
+  "instructions": "Use pluperfect: 'il avait obtenu des renseignements', 'il avait été trahi'. Describe the scene. Use police vocabulary: 'agent double', 'arme secrète', 'empoisonné'. Be authoritative.",
+  "focus_points": [
+   "Pluperfect: avait obtenu, avait été trahi",
+   "Police vocabulary: commissaire, enquête, indice",
+   "Authoritative briefing tone",
+   "Describing a crime scene"
+  ]
+ }
+},
+{
+ "lesson_id": 88,
+ "title": "Le commissaire Périer mène l'enquête (suite)",
+ "speaking_task": {
+  "type": "role_play",
+  "description": "Role-play a detective discussing leads with a colleague, using slang.",
+  "duration_minutes": 5,
+  "recording_required": true,
+  "prompt": "You are a detective discussing the case with a colleague. You share a tip from an informant. You discuss suspects using familiar/slang language.",
+  "instructions": "Use slang: 'un mec', 'un tuyau', 'les flics', 'bosser'. Use subjunctive: 'Qui qu'il soit...', 'Où qu'il se cache...', 'Quoi qu'il fasse...'. Be gritty and determined.",
+  "focus_points": [
+   "Slang vocabulary: mec, tuyau, flics, bosser, dingue",
+   "Subjunctive: qui que, où que, quoi que",
+   "Detective genre language",
+   "Informal register between colleagues"
+  ]
+ }
+},
+{
+ "lesson_id": 89,
+ "title": "Il faut le faire !",
+ "speaking_task": {
+  "type": "monologue",
+  "description": "Speak for 4-5 minutes about a sporting or physical disaster, using idioms.",
+  "duration_minutes": 5,
+  "recording_required": true,
+  "topic": "A sporting or physical disaster (skiing accident, failed hike, etc.).",
+  "instructions": "Describe a sporting disaster. Use causative: 'il s'est fait aider', 'elle s'est fait secourir'. Use idioms: 'faire une croix sur', 'faire gaffe', 'il faut le faire'. Be dramatic and funny.",
+  "focus_points": [
+   "Causative: se faire aider, se faire secourir",
+   "Sports idioms: faire une croix sur, faire gaffe",
+   "Dramatic storytelling",
+   "Humor in disaster narratives"
+  ]
+ }
+},
+{
+ "lesson_id": 90,
+ "title": "\"Le\" ou \"la\" ? - Les deux !",
+ "speaking_task": {
+  "type": "monologue",
+  "description": "Speak for 3-4 minutes explaining French noun gender difficulties, using examples.",
+  "duration_minutes": 4,
+  "recording_required": true,
+  "topic": "The challenges of French noun genders.",
+  "instructions": "Explain the difficulty of French genders. Give examples of dual-gender nouns: le/la tour, le/la poste, un/une livre, le/la voile. Explain how meaning changes. Use 'ça dépend du contexte'.",
+  "focus_points": [
+   "Dual-gender nouns: tour, poste, livre, voile, moule",
+   "Explaining grammar in French",
+   "Examples and context",
+   "Metalinguistic vocabulary"
+  ]
+ }
+},
+{
+ "lesson_id": 91,
+ "title": "Revision",
+ "speaking_task": {
+  "type": "monologue",
+  "description": "Speak for 4-5 minutes about your career or studies, using all recent grammar.",
+  "duration_minutes": 5,
+  "recording_required": true,
+  "topic": "Your career or studies: past, present, and future.",
+  "instructions": "Describe your career/studies using: pluperfect for background, passé composé for events, present for current situation, conditional for hypotheticals, subjunctive for demands. Include slang if appropriate.",
+  "focus_points": [
+   "All tenses and moods together",
+   "Professional/academic vocabulary",
+   "Slang where appropriate",
+   "Coherent narrative structure"
+  ]
+ }
+},
+{
+ "lesson_id": 92,
+ "title": "Un magazine littéraire",
+ "speaking_task": {
+  "type": "role_play",
+  "description": "Role-play a literary interview about a historical biography.",
+  "duration_minutes": 5,
+  "recording_required": true,
+  "prompt": "You are a journalist interviewing an author about their biography of Marie-Antoinette. Ask about their research, their interpretation, and what surprised them.",
+  "instructions": "Use passé simple in your questions: 'Elle passa son enfance...', 'Elle épousa le Dauphin...'. Ask about the author's perspective. Use literary register. Be intellectually curious.",
+  "focus_points": [
+   "Passé simple recognition: passa, épousa, fut, fit",
+   "Literary vocabulary: ouvrage, biographie, réputation",
+   "Interview technique",
+   "Historical and literary register"
+  ]
+ }
+},
+{
+ "lesson_id": 93,
+ "title": "Un cours d'histoire : \"Le jour de gloire est arrivé !\"",
+ "speaking_task": {
+  "type": "monologue",
+  "description": "Speak for 4-5 minutes presenting a historical event, using passé simple.",
+  "duration_minutes": 5,
+  "recording_required": true,
+  "topic": "A historical event you find important (revolution, discovery, etc.).",
+  "instructions": "Present the event as if giving a history lesson. Use passé simple for key actions: 'la foule se dirigea', 'les citoyens prirent les armes'. Use dramatic language. Make it vivid and engaging.",
+  "focus_points": [
+   "Passé simple usage: se dirigea, prirent, éclata",
+   "Historical narrative vocabulary",
+   "Dramatic presentation style",
+   "Engaging the audience"
+  ]
+ }
+},
+{
+ "lesson_id": 94,
+ "title": "Les inconvénients du travail à domicile",
+ "speaking_task": {
+  "type": "monologue",
+  "description": "Speak for 4-5 minutes about a technology disaster, using past conditional.",
+  "duration_minutes": 5,
+  "recording_required": true,
+  "topic": "A time technology failed you (computer crash, lost data, etc.).",
+  "instructions": "Describe what happened and what you SHOULD have done. Use past conditional: 'j'aurais dû sauvegarder', 'j'aurais pu appeler un technicien'. Express regret and lessons learned.",
+  "focus_points": [
+   "Past conditional: j'aurais dû, j'aurais pu, il aurait fallu",
+   "Technology vocabulary: ordinateur, panne, sauvegarder",
+   "Regret and reflection language",
+   "Problem-solution narrative"
+  ]
+ }
+},
+{
+ "lesson_id": 95,
+ "title": "Le JT du soir",
+ "speaking_task": {
+  "type": "role_play",
+  "description": "Role-play a TV news anchor presenting the evening news.",
+  "duration_minutes": 5,
+  "recording_required": true,
+  "prompt": "You are a TV news anchor. Present 3 news stories: a burglary, a factory reopening, and an agricultural fair. Use journalistic language and passive voice.",
+  "instructions": "Use passive voice: 'un collier a été dérobé', 'une enquête a été ouverte'. Use journalistic phrases: 'selon un porte-parole', 'd'après les autorités'. Be formal and clear.",
+  "focus_points": [
+   "Passive voice: a été dérobé, a été ouverte",
+   "Journalistic register: selon, d'après, un porte-parole",
+   "News structure: headline, details, quotes",
+   "Formal, clear delivery"
+  ]
+ }
+},
+{
+ "lesson_id": 96,
+ "title": "Une émission-débat : \"Réinventons le rire\"",
+ "speaking_task": {
+  "type": "role_play",
+  "description": "Role-play a debate about whether humor should have limits.",
+  "duration_minutes": 5,
+  "recording_required": true,
+  "prompt": "You are in a TV debate about humor. One side says you can laugh at anything. The other says there should be limits. Take one side and argue passionately.",
+  "instructions": "Use formal and informal registers. Use 'on peut rire de tout', 'il ne faut pas se moquer de...'. Argue your position. Respond to the other side. Use 'je suis d'accord que...', 'au contraire...'.",
+  "focus_points": [
+   "Debate language: je suis d'accord, au contraire",
+   "Register switching: formal vs informal",
+   "Humor vocabulary: plaisanterie, boutade, blague",
+   "Persuasive argumentation"
+  ]
+ }
+},
+{
+ "lesson_id": 97,
+ "title": "En plein dans le mille !",
+ "speaking_task": {
+  "type": "monologue",
+  "description": "Speak for 4-5 minutes about a business project, using sports idioms.",
+  "duration_minutes": 5,
+  "recording_required": true,
+  "topic": "A business or creative project you worked on.",
+  "instructions": "Describe the project using sports idioms: 'brûler les étapes', 'jeter l'éponge', 'coiffer au poteau', 'le vent en poupe'. Describe challenges, setbacks, and eventual success or failure.",
+  "focus_points": [
+   "Sports idioms in business: brûler les étapes, jeter l'éponge",
+   "Business vocabulary: start-up, projet, investissement",
+   "Narrative structure: challenge, setback, resolution",
+   "Pride or honest reflection"
+  ]
+ }
+},
+{
+ "lesson_id": 98,
+ "title": "Revision",
+ "speaking_task": {
+  "type": "monologue",
+  "description": "Speak for 4-5 minutes about a person who overcame great difficulties.",
+  "duration_minutes": 5,
+  "recording_required": true,
+  "topic": "A person (real or fictional) who overcame great difficulties.",
+  "instructions": "Tell their story using passé simple for narrative, imparfait for background. Use sports idioms metaphorically. Describe their character, their struggle, and their triumph. Be inspiring.",
+  "focus_points": [
+   "Passé simple in narrative",
+   "Sports idioms used metaphorically",
+   "Inspirational storytelling",
+   "Character description"
+  ]
+ }
+},
+{
+ "lesson_id": 99,
+ "title": "Incroyable mais vrai...",
+ "speaking_task": {
+  "type": "role_play",
+  "description": "Role-play sharing exciting news about a future project with a friend.",
+  "duration_minutes": 5,
+  "recording_required": true,
+  "prompt": "You have exciting news: you've been accepted for a project, competition, or opportunity. Tell your friend. Describe what will happen, what you will have achieved by then.",
+  "instructions": "Use future perfect: 'Quand j'aurai fini...', 'D'ici là, j'aurai complété...'. Use expressions: 'incroyable mais vrai', 'ça n'a rien à voir'. Be excited and detailed.",
+  "focus_points": [
+   "Future perfect: j'aurai fini, nous aurons complété",
+   "Excited language: incroyable, fantastique",
+   "Project description vocabulary",
+   "Sharing enthusiasm naturally"
+  ]
+ }
+},
+{
+ "lesson_id": 100,
+ "title": "La langue française",
+ "speaking_task": {
+  "type": "monologue",
+  "description": "FINAL SPEAKING TASK. Speak for 5-6 minutes about your complete French learning journey.",
+  "duration_minutes": 6,
+  "recording_required": true,
+  "topic": "Your complete French learning journey: from lesson 1 to lesson 100.",
+  "instructions": "This is your GRADUATION speech. Describe: where you started (imparfait), key milestones (passé composé), what was hardest, what you love about French, your connection to the Francophonie, and your future plans. Use ALL tenses and moods. Be proud. Celebrate your achievement!",
+  "focus_points": [
+   "All tenses: imparfait, passé composé, passé simple, future, conditional, subjunctive",
+   "Reflective and celebratory tone",
+   "La Francophonie connection",
+   "Pride, gratitude, and future vision"
+  ]
+ }
+}
+]

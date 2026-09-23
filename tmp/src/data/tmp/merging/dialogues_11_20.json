@@ -1,0 +1,712 @@
+[
+  {
+    "lesson_id": 11,
+    "dialogue": [
+      {
+        "speaker": 1,
+        "french": "Pourquoi allons-nous au marché ? Il est trop cher.",
+        "english": "Why are we going (go we) to the market? It's too expensive.",
+        "pronunciation": "poorkwa aloh-noo oh marshay eel ay troh shayr"
+      },
+      {
+        "speaker": 2,
+        "french": "Parce que tous les placards sont vides !",
+        "english": "Because all the cupboards are empty.",
+        "pronunciation": "parskuh too lay plahkar soh veed"
+      },
+      {
+        "speaker": 3,
+        "french": "Nous_avons besoin de tout : de fruits et de légumes,",
+        "english": "We (have) need (of) everything: (of) fruit, (of) vegetables,",
+        "pronunciation": "noo-zah-voh buh-zwah duh too duh frwee day lay-gewm"
+      },
+      {
+        "speaker": 4,
+        "french": "mais aussi de pain, de fromage, de beurre, de crème, de jambon, et...",
+        "english": "but also (of) bread, (of) cheese, (of) butter, (of) cream, (of) ham and...",
+        "pronunciation": "may oh-see duh pah duh froh-mazh duh buhr duh krem duh zhoh-boh"
+      },
+      {
+        "speaker": 5,
+        "french": "Bon, je comprends. Il n'y a rien à manger. Allons-y.",
+        "english": "OK (good), I understand. There's nothing to eat. Let's go (there).",
+        "pronunciation": "boh zhuh koh-prah eel-nyah ryah ah meh-zhay ah-loh-zee"
+      },
+      {
+        "speaker": 6,
+        "french": "Bonjour madame. Qu'est-ce que je peux faire pour vous ?",
+        "english": "Good morning madam. What can I do for you?",
+        "pronunciation": "boh-zhoor mah-dam kes-kuh zhuh puh fair poor voo"
+      },
+      {
+        "speaker": 7,
+        "french": "Je vais acheter une livre de cerises, un kilo de pommes,",
+        "english": "I am going (go) to buy a pound of cherries, a kilo of apples,",
+        "pronunciation": "zhuh vay ah-shuh-tay ewn leevr duh suh-reez uh kee-loh duh pohm"
+      },
+      {
+        "speaker": 8,
+        "french": "trois cents grammes de champignons, s'ils ne sont pas trop chers,",
+        "english": "300 grams of mushrooms, if they're not too expensive,",
+        "pronunciation": "trwah sah gram duh shah-pee-nyoh seel nuh soh pah troh shair"
+      },
+      {
+        "speaker": 9,
+        "french": "quelques bananes, deux kilos de pommes de terre et un peu de lait frais.",
+        "english": "a few bananas, two kilos of potatoes (apples of earth) and a little fresh milk.",
+        "pronunciation": "kel-kuh bah-nan duh kee-loh duh pohm duh tair ay uh puh duh lay fray"
+      }
+    ]
+  },
+  {
+    "lesson_id": 12,
+    "dialogue": [
+      {
+        "speaker": 1,
+        "french": "Et avec ceci ? Vous voulez des fraises, peut-être ?",
+        "english": "And with that? [Do] you want some strawberries, perhaps?",
+        "pronunciation": "ay ah-vek suh-see voo voo-lay day frez puh-tetr"
+      },
+      {
+        "speaker": 2,
+        "french": "Est-ce que je peux les goûter ?",
+        "english": "Can I taste them (Is it that I can them taste)?",
+        "pronunciation": "es-kuh zhuh puh lay goo-tay"
+      },
+      {
+        "speaker": 3,
+        "french": "Allez-y. N'hésitez pas ! Toutes mes fraises sont bio.",
+        "english": "Go ahead (go-there). Don't hesitate. All my strawberries are organic.",
+        "pronunciation": "ah-lay-zee nay-zee-tay pah toot may frez soh bee-oh"
+      },
+      {
+        "speaker": 4,
+        "french": "Mm, c'est vrai, elles sont vraiment délicieuses. Elles sont à combien ?",
+        "english": "Mm, it's true, they're really (truly) delicious. How much are they?",
+        "pronunciation": "mm say vray el soh vraymah day-lee-syuhz el soh-tah koh-byah"
+      },
+      {
+        "speaker": 5,
+        "french": "Le prix ? Elles ne sont pas chères. Seulement quinze euros le kilo.",
+        "english": "The price? They're not expensive. Only 15 euros a (the) kilo.",
+        "pronunciation": "luh pree el nuh soh pah shair suh-luh-mah kah-zuh-oh-roh luh kee-loh"
+      },
+      {
+        "speaker": 6,
+        "french": "Non, c'est trop cher. J'ai tout ce que je veux pour l'instant.",
+        "english": "No, it's too expensive. I have all (everything it) that I want for the time being (the instant).",
+        "pronunciation": "noh say troh shair zhay too suh-kuh zhuh vuh poor lah-stah"
+      },
+      {
+        "speaker": 7,
+        "french": "Alors, ça vous fait vingt-six euros soixante, s'il vous plaît.",
+        "english": "Right (Then), that makes (you) 26 euros 60 please.",
+        "pronunciation": "ah-lor sah voo fay vah-seez-oh-roh swah-sah seel voo play"
+      },
+      {
+        "speaker": 8,
+        "french": "Voilà trente.",
+        "english": "Here [is] 30.",
+        "pronunciation": "vwah-lah trah"
+      },
+      {
+        "speaker": 9,
+        "french": "Et voici votre monnaie. Bonne journée.",
+        "english": "And here's your change. [Have a] good day.",
+        "pronunciation": "ay vwah-see votr moh-nay bohn zhoor-nay"
+      }
+    ]
+  },
+  {
+    "lesson_id": 13,
+    "dialogue": [
+      {
+        "speaker": 1,
+        "french": "Louise, Lucas ! Venez voir mon cadeau d'anniversaire !",
+        "english": "Louise, Lucas! Come [and] see my birthday present!",
+        "pronunciation": "lweez lew-kah vuh-nay vwar moh kah-doh dah-nee-vair-sair"
+      },
+      {
+        "speaker": 2,
+        "french": "Qu'est-ce que c'est ?",
+        "english": "What is it (what is that it is)?",
+        "pronunciation": "kes-kuh say"
+      },
+      {
+        "speaker": 3,
+        "french": "Vous ne savez pas ?",
+        "english": "Don't you know (you not know)?",
+        "pronunciation": "voo nuh sah-vay pah"
+      },
+      {
+        "speaker": 4,
+        "french": "C'est un nouveau téléphone.",
+        "english": "It's a new phone.",
+        "pronunciation": "say uh noo-voh tay-lay-fohn"
+      },
+      {
+        "speaker": 5,
+        "french": "Il fait absolument tout.",
+        "english": "It does absolutely everything (all).",
+        "pronunciation": "eel fay ab-soh-lew-mah too"
+      },
+      {
+        "speaker": 6,
+        "french": "Vous pouvez envoyer des messages, commander un repas,",
+        "english": "You can send messages, order a meal,",
+        "pronunciation": "voo poo-vay ah-vwah-yay day meh-sazh koh-mah-day uh ruh-pah"
+      },
+      {
+        "speaker": 7,
+        "french": "payer vos courses, écouter la musique, regarder des vidéos...",
+        "english": "pay [for] your shopping, listen [to] music, watch videos...",
+        "pronunciation": "pay-ay voh koors ay-koo-tay la mew-zee-kuh ruh-gar-day day vee-day-oh"
+      },
+      {
+        "speaker": 8,
+        "french": "et vous pouvez même parler à quelqu'un.",
+        "english": "and you can even speak to someone.",
+        "pronunciation": "ay voo poo-vay mem par-lay ah kel-kah"
+      },
+      {
+        "speaker": 9,
+        "french": "Est-ce que je peux l'essayer ?",
+        "english": "Can I try it (Is it that I can it-try)?",
+        "pronunciation": "es-kuh zhuh puh lay-say-yay"
+      },
+      {
+        "speaker": 10,
+        "french": "Non, malheureusement. Ce n'est pas possible.",
+        "english": "No, unfortunately. It's not possible.",
+        "pronunciation": "noh mal-uh-ruhz-mah suh nay pah poh-see-bl"
+      },
+      {
+        "speaker": 11,
+        "french": "Il ne marche pas ?",
+        "english": "Isn't it working? (It doesn't walk)",
+        "pronunciation": "eel nuh marsh pah"
+      },
+      {
+        "speaker": 12,
+        "french": "Je ne connais pas le code secret.",
+        "english": "I don't know the (secret) [pass] code.",
+        "pronunciation": "zhuh nuh koh-nay pah luh kohd suh-kray"
+      }
+    ]
+  },
+  {
+    "lesson_id": 14,
+    "dialogue": [
+      {
+        "speaker": 1,
+        "french": "Bonjour. Qu'est-ce que je peux faire pour vous ?",
+        "english": "Good morning, what can I do for you?",
+        "pronunciation": "boh-zhoor kes-kuh zhuh puh fair poor voo"
+      },
+      {
+        "speaker": 2,
+        "french": "Est-ce que votre père est à la maison aujourd'hui ?",
+        "english": "Is your father at home today?",
+        "pronunciation": "es-kuh votr pair ay ah la may-zoh oh-zhoor-dwee"
+      },
+      {
+        "speaker": 3,
+        "french": "Non, il est au bureau toute la journée.",
+        "english": "No, he's at the office all day.",
+        "pronunciation": "noh eel ay oh buh-roh toot la zhoor-nay"
+      },
+      {
+        "speaker": 4,
+        "french": "Il rentre avant sept heures normalement.",
+        "english": "He comes home before seven o'clock normally.",
+        "pronunciation": "eel rah-truh ah-vah set uhr nor-mal-mah"
+      },
+      {
+        "speaker": 5,
+        "french": "Est-ce que vous avez besoin de son adresse ?",
+        "english": "Do you need his address?",
+        "pronunciation": "es-kuh voo-zah-vay buh-zwah duh soh-nah-dres"
+      },
+      {
+        "speaker": 6,
+        "french": "Non merci, je la connais.",
+        "english": "No thanks, I know it.",
+        "pronunciation": "noh mair-see zhuh la koh-nay"
+      },
+      {
+        "speaker": 7,
+        "french": "Voici son cadeau d'anniversaire.",
+        "english": "Here's his birthday present.",
+        "pronunciation": "vwah-see soh kah-doh dah-nee-vair-sair"
+      },
+      {
+        "speaker": 8,
+        "french": "Qu'est-ce que c'est ?",
+        "english": "What is it?",
+        "pronunciation": "kes-kuh say"
+      },
+      {
+        "speaker": 9,
+        "french": "C'est un téléphone qui fait absolument tout.",
+        "english": "It's a phone that does absolutely everything.",
+        "pronunciation": "say uh tay-lay-fohn kee fay ab-soh-lew-mah too"
+      },
+      {
+        "speaker": 10,
+        "french": "Très bien. Merci beaucoup !",
+        "english": "Very good. Thanks very much!",
+        "pronunciation": "tray byah mair-see boh-koo"
+      }
+    ]
+  },
+  {
+    "lesson_id": 15,
+    "dialogue": [
+      {
+        "speaker": 1,
+        "french": "Bonjour mesdames, bonjour mesdemoiselles, bonjour messieurs.",
+        "english": "Good morning ladies, good morning young ladies, good morning gentlemen.",
+        "pronunciation": "boh-zhoor may-dam boh-zhoor may-duhm-wah-zel boh-zhoor may-syuh"
+      },
+      {
+        "speaker": 2,
+        "french": "Mon nom est Michèle Laroche et je suis votre guide ce matin.",
+        "english": "My name is Michele Laroche and I am your guide this morning.",
+        "pronunciation": "moh noh ay mee-shel lah-rosh ay zhuh swee votr geed suh mah-tah"
+      },
+      {
+        "speaker": 3,
+        "french": "Nous traversons actuellement la place de la Concorde.",
+        "english": "We are crossing at present (currently) Concorde Square (place of the Concorde).",
+        "pronunciation": "noo trah-vair-soh aktewel-mah la plas duh la koh-kord"
+      },
+      {
+        "speaker": 4,
+        "french": "Devant vous, vous pouvez voir le Louvre et, à droite, la Tour Eiffel.",
+        "english": "In front of you, you can see the Louvre and, on (to) [the] right, the Eiffel Tower.",
+        "pronunciation": "duh-vah voo voo poo-vay vwar luh loovr ay ah drwat la toor eh-fel"
+      },
+      {
+        "speaker": 5,
+        "french": "S'il vous plaît madame, où sont... ?",
+        "english": "Please, madam, where are...",
+        "pronunciation": "seel voo play mah-dam oo soh"
+      },
+      {
+        "speaker": 6,
+        "french": "Un instant. Laissez-moi terminer, s'il vous plaît.",
+        "english": "Just a minute (one instant). Let me finish please.",
+        "pronunciation": "uh ah-stah lay-say mwah tair-mee-nay seel voo play"
+      },
+      {
+        "speaker": 7,
+        "french": "Mais c'est très important : je ne peux pas attendre cet après-midi.",
+        "english": "But it's very important: I can't wait [until] this afternoon.",
+        "pronunciation": "may say tray ah-por-tah zhuh nuh puh pah ah-tah-dr set ah-pray-mee-dee"
+      },
+      {
+        "speaker": 8,
+        "french": "Eh bien, qu'est-ce que vous voulez savoir ?",
+        "english": "Well, what do you want to know?",
+        "pronunciation": "ay byah kes-kuh voo voo-lay sah-vwar"
+      },
+      {
+        "speaker": 9,
+        "french": "Où sont les toilettes ?",
+        "english": "Where is the toilet?",
+        "pronunciation": "oo soh lay twah-let"
+      }
+    ]
+  },
+  {
+    "lesson_id": 16,
+    "dialogue": [
+      {
+        "speaker": 1,
+        "french": "Comparé à d'autres capitales, comme Moscou ou Pékin, Paris n'est pas très grand.",
+        "english": "Compared to some other capitals, like Moscow or Beijing, Paris is not very big.",
+        "pronunciation": "koh-pah-ray ah doh-tr kah-pee-tal kohm moh-skoo oo pay-kah pah-ree nay pah tray grah"
+      },
+      {
+        "speaker": 2,
+        "french": "Mais la région parisienne, c'est-à-dire la ville et sa banlieue, est grande comme Londres.",
+        "english": "But the Parisian region, that (it) is to say the city and its suburb[s], is as big as London.",
+        "pronunciation": "may la ray-zhyoh pah-ree-zyen say-tah-deer la veel ay sa bah-lyuh ay grahd kohm loh-dr"
+      },
+      {
+        "speaker": 3,
+        "french": "On l'appelle La Ville lumière, avec ses grands monuments et ses longues avenues,",
+        "english": "It is called (one it-calls) The City [of] Light, with its great monuments and long avenues",
+        "pronunciation": "oh lah-pel la veel lew-myair ah-vek say grah moh-new-mah ay say loh-guh-zah-vuh-new"
+      },
+      {
+        "speaker": 4,
+        "french": "ses grandes églises et ses vieilles rues.",
+        "english": "its grand churches and its old streets.",
+        "pronunciation": "say grah-day-zay-gleez ay say vyay-yuh rew"
+      },
+      {
+        "speaker": 5,
+        "french": "Regardez là-bas : ce bâtiment superbe est l'Opéra,",
+        "english": "Look over there: this superb building is the Opera,",
+        "pronunciation": "ruh-gar-day lah-bah suh bah-tee-mah soo-pairb ay loh-pay-rah"
+      },
+      {
+        "speaker": 6,
+        "french": "construit par le grand architecte Charles Garnier.",
+        "english": "built by the great architect Charles Garnier.",
+        "pronunciation": "koh-stree par luh grah-tar-shee-tekt sharl gar-nyay"
+      },
+      {
+        "speaker": 7,
+        "french": "Derrière, vous_avez les grands magasins, et, en face, on voit le Café de la Paix.",
+        "english": "Behind, you have the major department stores (big shops), and, opposite, you can see (one sees) the Café de la Paix (Peace Café).",
+        "pronunciation": "dair-yair voo-zah-vay lay grah mah-gah-zah ay ah fahs oh vwah luh kah-fay duh la pay"
+      },
+      {
+        "speaker": 8,
+        "french": "C'est un bon endroit pour une photo, et la lumière est bonne aujourd'hui.",
+        "english": "It's a good spot (place) for a photo, and the light is good today.",
+        "pronunciation": "say uh boh ah-drwah poor ewn foh-toh ay la lew-myair ay bohn oh-zhoor-dwee"
+      },
+      {
+        "speaker": 9,
+        "french": "Vous pouvez faire beaucoup de belles images.",
+        "english": "You can take (make) lots of beautiful pictures.",
+        "pronunciation": "voo poo-vay fair boh-koo duh bel-zee-mazh"
+      },
+      {
+        "speaker": 10,
+        "french": "Si vous voulez, vous pouvez descendre du bus ici, à côté de l'arrêt.",
+        "english": "If you want, you can get off (descend from) the bus here, next to the stop.",
+        "pronunciation": "see voo voo-lay voo poo-vay day-sah-dr dew bees ee-see ah koh-tay duh lah-ray"
+      }
+    ]
+  },
+  {
+    "lesson_id": 17,
+    "dialogue": [
+      {
+        "speaker": 1,
+        "french": "Dites-moi, quels sont vos projets pour demain ?",
+        "english": "Tell me, what are your plans (projects) for tomorrow?",
+        "pronunciation": "deet mwah kel soh voh pro-zhay poor duh-mah"
+      },
+      {
+        "speaker": 2,
+        "french": "Il y a une nouvelle exposition à La Piscine que j'ai très envie de voir.",
+        "english": "There is a new exhibition at La Piscine (the Swimming Pool) that I really want (have very envy) to see.",
+        "pronunciation": "eel-ee-ah ewn noo-vel ek-spoh-zee-syoh ah la pee-seen kuh zhay tray ah-vee duh vwar"
+      },
+      {
+        "speaker": 3,
+        "french": "Vous voulez venir avec moi ?",
+        "english": "[Do you] want to come with me?",
+        "pronunciation": "voo voo-lay vuh-neer ah-vek mwah"
+      },
+      {
+        "speaker": 4,
+        "french": "Je ne suis pas sûr : je dois aller chez le médecin cet après-midi.",
+        "english": "I'm not sure: I have to go to the doctor [in] the (this) afternoon.",
+        "pronunciation": "zhuh nuh swee pah sewr zhuh dwah ah-lay shay luh may-duh-sah set ah-pray-mee-dee"
+      },
+      {
+        "speaker": 5,
+        "french": "À quelle heure est votre rendez-vous ?",
+        "english": "(At) What time is your appointment?",
+        "pronunciation": "ah kel uhr ay votr roh-day-voo"
+      },
+      {
+        "speaker": 6,
+        "french": "Assez tard : vers seize ou dix-sept heures. Ça ne laisse pas beaucoup de temps.",
+        "english": "Quite late: around (towards) four (16 hours) or five (17 hours) o'clock. That does not leave a lot of time.",
+        "pronunciation": "ah-say tar vair sayz oo deess-set uhr sah nuh les pah boh-koo duh tah"
+      },
+      {
+        "speaker": 7,
+        "french": "Mais on peut y aller aujourd'hui si vous voulez.",
+        "english": "But we can go (there) today if you want.",
+        "pronunciation": "may oh puh ee ah-lay oh-zhoor-dwee see voo voo-lay"
+      },
+      {
+        "speaker": 8,
+        "french": "Pourquoi pas ? Quelle heure est-il maintenant ?",
+        "english": "Why not? What time is it now?",
+        "pronunciation": "poorkwa pah kel uhr ay-teel mah-tuh-nah"
+      },
+      {
+        "speaker": 9,
+        "french": "Il est presque treize heures : très précisément, midi quarante-cinq.",
+        "english": "It's almost 1 o'clock (nearly 13 hours): very precisely, 12.45 (midday forty-five).",
+        "pronunciation": "eel ay presk trayz uhr tray pray-see-zay-mah mee-dee kah-rah-t-sah"
+      },
+      {
+        "speaker": 10,
+        "french": "Donc nous_avons le temps : l'expo ferme à dix-huit heures.",
+        "english": "So we have (the) time: the exhibition closes at 6 o'clock (18 hours).",
+        "pronunciation": "dohk noo-zah-voh luh tah layk-spoh fairm ah deez-weet uhr"
+      },
+      {
+        "speaker": 11,
+        "french": "Quelles sont les choses à voir ? Et quel est le titre de cette exposition ?",
+        "english": "What are the things to see? And what is the title of this exhibition?",
+        "pronunciation": "kel soh lay shohz ah vwar ay kel ay luh tee-tr duh set ek-spoh-zee-syoh"
+      },
+      {
+        "speaker": 12,
+        "french": "« Le Sujet, l'objet et l'eau ». Très profond, mais pas très clair !",
+        "english": "\"The Subject, the Object and (the) Water.\" Very deep (profound) but not very clear!",
+        "pronunciation": "luh sew-zhay lob-zhay ay loh tray pro-foh may pah tray klair"
+      }
+    ]
+  },
+  {
+    "lesson_id": 18,
+    "dialogue": [
+      {
+        "speaker": 1,
+        "french": "Bonjour Monsieur Castille. Nous voulons prendre un rendez-vous avec vous.",
+        "english": "Good morning Mr Castille. We want [to] make an appointment with you.",
+        "pronunciation": "boh-zhoor muh-syuh kas-tee-yuh noo voo-loh prah-dr uh roh-day-voo ah-vek voo"
+      },
+      {
+        "speaker": 2,
+        "french": "Est-ce que vous pouvez venir le mardi vingt-deux mars ?",
+        "english": "Can you come [on] (the) Tuesday [the] twenty-second (22) [of] March.",
+        "pronunciation": "es-kuh voo poo-vay vuh-neer luh mar-dee vah-duh mars"
+      },
+      {
+        "speaker": 3,
+        "french": "Je suis libre entre neuf heures et onze heures, ou plus tard dans la journée.",
+        "english": "I'm free between nine o'clock and eleven o'clock, or later (more late) in the day.",
+        "pronunciation": "zhuh swee lee-br ah-tr nuh-vuhr ay oh-zuhr oo plew tar dah la zhoor-nay"
+      },
+      {
+        "speaker": 4,
+        "french": "Non, nous sommes pris toute la semaine, du lundi vingt-et-un au vendredi vingt-cinq.",
+        "english": "No, we are taken the whole (all the) week, from Monday [the] twenty-first (21) to Friday [the] twenty-fifth (25).",
+        "pronunciation": "noh noo sohm pree toot la suh-men dew lah-dee vah-teh-ah oh vah-druh-dee vah-sah"
+      },
+      {
+        "speaker": 5,
+        "french": "Avez-vous une autre date ? En mai, par exemple ?",
+        "english": "Do you have another date? In May, for example?",
+        "pronunciation": "ah-vay voo ewn oh-tr dat ah may par eh-gzah-pl"
+      },
+      {
+        "speaker": 6,
+        "french": "Je regrette : mai n'est pas possible, à cause des ponts.",
+        "english": "I'm sorry (I regret): May is not possible, because of the long weekends (bridges).",
+        "pronunciation": "zhuh ruh-gret may nay pah poh-see-bl ah kohz day poh"
+      },
+      {
+        "speaker": 7,
+        "french": "Je ne peux pas vous voir avant le mercredi trente juin. Mon emploi du temps est très chargé.",
+        "english": "I can't see you before (the) Wednesday [the] thirtieth (30) [of] June. My schedule (job of time) is very full (laden).",
+        "pronunciation": "zhuh nuh puh pah voo vwar ah-vah luh mair-kruh-dee trah zhweh moh ah-plwah dew tah ay tray shar-zhay"
+      },
+      {
+        "speaker": 8,
+        "french": "Mais nous, nous sommes en voyage en juin et juillet.",
+        "english": "But we, we are travelling (on journey) in June and July.",
+        "pronunciation": "may noo noo sohm ah vway-azh ah zhweh ay zhwee-yay"
+      },
+      {
+        "speaker": 9,
+        "french": "Moi, je suis en vacances au mois d'août. Je prends l'avion le jeudi douze pour aller aux États-Unis.",
+        "english": "Me, I'm on holiday in the month of August. I am flying (take the plane to go) on (the) Thursday [the] twelfth (12) to the United States.",
+        "pronunciation": "mwah zhuh swee ah vah-kahs oh mwah doot zhuh prah lah-vyoh luh zhuh-dee dooz poor ah-lay oh-zay-tah-zew-nee"
+      },
+      {
+        "speaker": 10,
+        "french": "Septembre est hors de question à cause de la rentrée scolaire.",
+        "english": "September is out of [the] question because of the new academic year (the return to school).",
+        "pronunciation": "sep-tah-br ay or duh kes-tyoh ah kohz duh la rah-tray skoh-lair"
+      },
+      {
+        "speaker": 11,
+        "french": "Et en octobre j'ai déjà trois conférences et un stage de formation. Novembre ?",
+        "english": "And in October I already have three lectures and a training course. November?",
+        "pronunciation": "ay ah ok-toh-br zhay day-zhah trwah koh-fay-rah ah uh stazh duh for-mah-syoh no-vah-br"
+      },
+      {
+        "speaker": 12,
+        "french": "Ce n'est pas un bon mois : mes parents passent trois semaines chez nous.",
+        "english": "It's not a good month: my parents are spending three weeks with us.",
+        "pronunciation": "suh nay pah uh boh mwah may pah-rahn pahs trwah suh-men shay noo"
+      },
+      {
+        "speaker": 13,
+        "french": "Attendez : je peux vous proposer le samedi vingt-cinq décembre ou le dimanche vingt-six.",
+        "english": "Wait: I can offer (propose) you (the) Saturday [the] twenty-fifth (25) [of] December or (the) Sunday [the] twenty-sixth (26).",
+        "pronunciation": "ah-tah-day zhuh puh voo proh-poh-zay luh sah-muh-dee vah-sah day-sah-br oo luh dee-mahsh vah-see"
+      },
+      {
+        "speaker": 14,
+        "french": "Mon agenda est enfin vide !",
+        "english": "My diary is (finally) empty at last!",
+        "pronunciation": "moh ah-zhah-dah ay ah-fah veed"
+      }
+    ]
+  },
+  {
+    "lesson_id": 19,
+    "dialogue": [
+      {
+        "speaker": 1,
+        "french": "Hôtel Sacré-Cœur. Comment est-ce que je peux vous aider ?",
+        "english": "Hotel Sacré Coeur (sacred heart). How can I help you?",
+        "pronunciation": "oh-tel sah-kray kuhr koh-mah es-kuh zhuh puh voo-zay-day"
+      },
+      {
+        "speaker": 2,
+        "french": "J'organise une fête pour mon anniversaire et je veux louer une salle.",
+        "english": "I [am] organising a party for my birthday and I want to rent a room.",
+        "pronunciation": "zh-or-gah-neez ewn fet poor moh-nah-nee-vair-sair ay zhuh vuh loo-ay ewn sal"
+      },
+      {
+        "speaker": 3,
+        "french": "Pour combien de personnes ?",
+        "english": "For how many (of) people?",
+        "pronunciation": "pour koh-byah duh pair-sohn"
+      },
+      {
+        "speaker": 4,
+        "french": "Une trentaine : il y a la famille, la belle-famille, des copains.",
+        "english": "About thirty: there is the family, the (beautiful) family-in-law, some mates.",
+        "pronunciation": "ewn trah-tain eel-ee-ah la fa-mee-ee la bel-fa-mee-ee day koh-pah"
+      },
+      {
+        "speaker": 5,
+        "french": "Je veux quelque chose de beau et pas trop cher.",
+        "english": "I want something lovely (handsome) and not too expensive.",
+        "pronunciation": "zhuh vuh kel-kuh shohz duh boh ay pah troh shair"
+      },
+      {
+        "speaker": 6,
+        "french": "C'est pour quand, cette fête ? Pas à la fin de l'année, j'espère ?",
+        "english": "When (it's for when) is this party? Not at the end of the year, I hope?",
+        "pronunciation": "say poor kah set fet pah ah la fah duh lah-nay zh-es-pair"
+      },
+      {
+        "speaker": 7,
+        "french": "Nous fermons entre Noël et le Nouvel An.",
+        "english": "We close between Christmas and the New Year.",
+        "pronunciation": "noo fair-moh ah-tr noh-el ay luh noo-vel ah"
+      },
+      {
+        "speaker": 8,
+        "french": "Pas de problème : c'est pour la soirée du trente juin, jusqu'à minuit.",
+        "english": "No problem: it's for the evening of the thirtieth (of) June, until midnight.",
+        "pronunciation": "pah duh proh-blem say poor la swa-ray dew trah zhweh zhees-kah mee-nwee"
+      },
+      {
+        "speaker": 9,
+        "french": "Voyons : j'ai une belle salle pour une cinquantaine de personnes.",
+        "english": "Let's see: I have a lovely room for about fifty people.",
+        "pronunciation": "vway-oh zhay ewn bel sal poor ewn sah-kah-tain duh pair-sohn"
+      },
+      {
+        "speaker": 10,
+        "french": "C'est un bel endroit pour une fête.",
+        "english": "It's a great place for a party.",
+        "pronunciation": "say uh bel-ah-drwah poor ewn fet"
+      },
+      {
+        "speaker": 11,
+        "french": "Ça coûte combien ? Je n'ai pas un gros budget.",
+        "english": "How much does it cost (that costs how-much)? I don't have a big budget.",
+        "pronunciation": "sah koot koh-byah zhuh nay pah uh groh bew-zhay"
+      },
+      {
+        "speaker": 12,
+        "french": "Alors j'ai quelque chose de plus petit et moins cher :",
+        "english": "Then I have something (of) smaller (more small) and less expensive:",
+        "pronunciation": "ah-lor zhay kel-kuh shohz duh plew puh-tee ay mwah-shair"
+      },
+      {
+        "speaker": 13,
+        "french": "le placard à balais : c'est gratuit !",
+        "english": "the broom cupboard: it's free!",
+        "pronunciation": "luh plah-kar ah bah-lay say grah-twee"
+      }
+    ]
+  },
+  {
+    "lesson_id": 20,
+    "dialogue": [
+      {
+        "speaker": 1,
+        "french": "Le sujet de l'émission Carte blanche cette semaine est « Un monde idéal ».",
+        "english": "The subject of the programme Carte Blanche (card white) this week is \"An ideal world.\"",
+        "pronunciation": "luh sew-zhay duh lay-mee-syoh kart blahsh set suh-men ay uh moh-dee-day-al"
+      },
+      {
+        "speaker": 2,
+        "french": "Nous avons posé la question suivante aux ambassadeurs de quatre pays :",
+        "english": "We (have) put the following question to the ambassadors of four countries:",
+        "pronunciation": "noo-zah-voh poh-zay la kes-tyoh swee-vah oh-zah-bah-sa-duhr duh kah-tr pay-ee"
+      },
+      {
+        "speaker": 3,
+        "french": "le Japon, l'Inde, les États-Unis et la France.",
+        "english": "(the) Japan, (the) India, (the) United States and (the) France.",
+        "pronunciation": "luh zhah-poh lah-d lay-zay-tah-zew-nee ay la frahs"
+      },
+      {
+        "speaker": 4,
+        "french": "« Que voulez-vous pour Noël, Monsieur l'Ambassadeur ? »",
+        "english": "What do you want for Christmas, Mr (the) Ambassador?",
+        "pronunciation": "kuh voo-lay voo poor noh-el muh-syuh lah-bah-sa-duhr"
+      },
+      {
+        "speaker": 5,
+        "french": "Voici leurs réponses, dans l'ordre.",
+        "english": "Here are their answers, in (the) order.",
+        "pronunciation": "vwah-see luhr ray-pohs dah lohr-dr"
+      },
+      {
+        "speaker": 6,
+        "french": "L'ambassadeur japonais veut « du bonheur, de la paix et des droits humains ».",
+        "english": "The Japanese ambassador wants \"(of the) happiness, (of the) peace and (of the) human rights.\"",
+        "pronunciation": "lah-bah-sa-duhr zhah-poh-nay vuh dew boh-nuhr duh la pay ay day drwah-zew-mah"
+      },
+      {
+        "speaker": 7,
+        "french": "Son collègue indien veut « de la santé et de l'éducation pour tout le monde ».",
+        "english": "His Indian colleague wants \"(of the) health and (of the) education for everyone (all the world).\"",
+        "pronunciation": "soh koh-leg ah-dyah vuh duh la sah-tay ay duh lay-dew-kah-syoh poor too luh mohd"
+      },
+      {
+        "speaker": 8,
+        "french": "L'Américain veut « des emplois, de l'argent et du bien-être » pour son pays.",
+        "english": "The American wants \"(of the) jobs, (of the) money and (of the) well-being (well-to-be)\" for his country.",
+        "pronunciation": "lah-may-ree-kah vuh day-zah-plwah duh lar-zhah ay dew byah-netr poor soh pay-ee"
+      },
+      {
+        "speaker": 9,
+        "french": "Mais la réponse de l'ambassadeur français est la plus intéressante.",
+        "english": "But the answer of the French ambassador is the most interesting.",
+        "pronunciation": "may la ray-pohs duh lah-bah-sa-duhr frah-say ay la plew-zah-tay-ray-sah"
+      },
+      {
+        "speaker": 10,
+        "french": "Ah bon ? Qu'est-ce qu'il veut ?",
+        "english": "Really (ah good)? What does he want?",
+        "pronunciation": "ah boh kes-keel vuh"
+      },
+      {
+        "speaker": 11,
+        "french": "« Des chocolats, du vin blanc et de la crème fraîche. »",
+        "english": "\"Chocolates, (of the) white wine and (of the) fresh cream.\"",
+        "pronunciation": "day shoh-koh-lah dew vah blah ay duh la krem fresh"
+      },
+      {
+        "speaker": 12,
+        "french": "Ce n'est pas vrai ! Il est honnête, au moins !",
+        "english": "I don't believe it! (It is not true) He's honest, at least!",
+        "pronunciation": "suh nay pah vray eel ay oh-net oh mwah"
+      }
+    ]
+  }
+]

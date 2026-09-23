@@ -4,7 +4,7 @@ import type { Lesson } from "../types";
 
 const audioUrlsByLessonId = audioUrls as Record<string, string>;
 
-export const lessons = (lessonsData as Lesson[]).map((lesson) => ({
+export const lessons = (lessonsData as unknown as Lesson[]).map((lesson) => ({
   ...lesson,
   audio_url: audioUrlsByLessonId[String(lesson.id)] || lesson.audio_url,
 }));

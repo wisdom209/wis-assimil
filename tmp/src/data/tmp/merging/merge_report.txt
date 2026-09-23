@@ -1,0 +1,12 @@
+Merge Report
+============================================================
+
+Source file:            lessons.json
+Lessons processed:      100
+Dialogues replaced:     100
+Writing tasks added:    0
+Speaking tasks added:   0
+
+No validation issues.
+
+Output: lessons_final.json
