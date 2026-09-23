@@ -1,0 +1,15 @@
+{
+  "name": "assimil",
+  "version": "1.0.0",
+  "description": "A single-page app for the **Read → Listen → Shadow → Harvest** loop over 100 Assimil-style French lessons. Vanilla HTML/CSS/JS, no build step, no backend.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "vite": "^8.3.0"
+  }
+}
