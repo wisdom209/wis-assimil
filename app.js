@@ -84,6 +84,23 @@
     gradeRow: el("gradeRow"),
 
     toast: el("toast"),
+
+    schedulerView: el("schedulerView"),
+    schedulerDuePill: el("schedulerDuePill"),
+    schToday: el("schToday"),
+    schCurrent: el("schCurrent"),
+    schPerDay: el("schPerDay"),
+    schTotal: el("schTotal"),
+    schIntervals: el("schIntervals"),
+    schGenerate: el("schGenerate"),
+    schReset: el("schReset"),
+    schedulerToday: el("schedulerToday"),
+    schedulerTodayBody: el("schedulerTodayBody"),
+    schedulerControls: el("schedulerControls"),
+    schFutureOnly: el("schFutureOnly"),
+    schPrint: el("schPrint"),
+    schedulerCalendar: el("schedulerCalendar"),
+    schedulerEmpty: el("schedulerEmpty"),
   };
 
   /* ------------------------------------------------------------------ *
@@ -736,6 +753,7 @@
     state.view = view;
     dom.lessonView.hidden = view !== "lesson";
     dom.reviewView.hidden = view !== "review";
+    dom.schedulerView.hidden = view !== "scheduler";
     dom.viewTabs.forEach((tab) => {
       const active = tab.dataset.view === view;
       tab.classList.toggle("is-active", active);
@@ -834,11 +852,262 @@
     }
   });
 
+  /* ==================================================================== *
+   *  Scheduler — standalone spaced-repetition planner
+   *  Entirely independent of the story loop / SRS deck above: its own
+   *  localStorage key, its own state, no shared data.
+   * ==================================================================== */
+
+  const SCHEDULER_KEY = "parler_scheduler_v1";
+  const SCHEDULER_DEFAULTS = {
+    currentLesson: 1,
+    lessonsPerDay: 1,
+    totalLessons: 80,
+    intervals: "1,3,7,14,30,60",
+  };
+
+  state.schedulerEvents = null;   // Map<dateKey, {lesson, interval}[]>, last generated
+  state.schedulerTodayKey = null; // the "today" the last generation was computed against
+
+  /* ---- storage ---- */
+
+  function loadSchedulerSettings() {
+    try {
+      const raw = localStorage.getItem(SCHEDULER_KEY);
+      return raw ? JSON.parse(raw) : null;
+    } catch (err) {
+      console.error("Boucle: could not read scheduler settings", err);
+      return null;
+    }
+  }
+
+  function saveSchedulerSettings(settings) {
+    try {
+      localStorage.setItem(SCHEDULER_KEY, JSON.stringify(settings));
+    } catch (err) {
+      console.error("Boucle: could not save scheduler settings", err);
+    }
+  }
+
+  /* ---- date helpers (local calendar dates, no UTC/timezone surprises) ---- */
+
+  function ymd(date) {
+    const y = date.getFullYear();
+    const m = String(date.getMonth() + 1).padStart(2, "0");
+    const d = String(date.getDate()).padStart(2, "0");
+    return `${y}-${m}-${d}`;
+  }
+
+  function parseDateInputValue(value) {
+    const [y, m, d] = value.split("-").map(Number);
+    return new Date(y, m - 1, d);
+  }
+
+  function addDays(date, days) {
+    const d = new Date(date.getTime());
+    d.setDate(d.getDate() + days);
+    return d;
+  }
+
+  function formatDayHeading(date) {
+    const weekday = date.toLocaleDateString(undefined, { weekday: "short" });
+    const full = date.toLocaleDateString(undefined, { year: "numeric", month: "short", day: "numeric" });
+    return { full, weekday };
+  }
+
+  function parseIntervals(str) {
+    const seen = new Set();
+    return String(str || "")
+      .split(",")
+      .map((s) => parseInt(s.trim(), 10))
+      .filter((n) => Number.isFinite(n) && n > 0)
+      .filter((n) => (seen.has(n) ? false : (seen.add(n), true)))
+      .sort((a, b) => a - b);
+  }
+
+  /* ---- the scheduling algorithm ----
+   * Lessons from `currentLesson` onward are treated as being introduced at a
+   * steady pace of `lessonsPerDay`, starting TODAY. Lessons before
+   * `currentLesson` (already studied outside this tool, so their real study
+   * date is unknown) have their review clock reset instead: they're spread
+   * out one per day — at the same pace — starting TOMORROW. Every lesson
+   * then resurfaces at `anchorDate + each interval`.
+   */
+  function generateScheduleEvents({ today, currentLesson, lessonsPerDay, totalLessons, intervals }) {
+    const perDay = Math.max(1, lessonsPerDay);
+    const anchors = new Map();
+
+    for (let n = 1; n < currentLesson; n++) {
+      const offset = 1 + Math.floor((n - 1) / perDay); // spread from tomorrow
+      anchors.set(n, addDays(today, offset));
+    }
+    for (let n = currentLesson; n <= totalLessons; n++) {
+      const offset = Math.floor((n - currentLesson) / perDay); // paced from today
+      anchors.set(n, addDays(today, offset));
+    }
+
+    const events = new Map(); // dateKey -> [{lesson, interval}]
+    anchors.forEach((anchor, lesson) => {
+      intervals.forEach((iv) => {
+        const key = ymd(addDays(anchor, iv));
+        if (!events.has(key)) events.set(key, []);
+        events.get(key).push({ lesson, interval: iv });
+      });
+    });
+    events.forEach((list) => list.sort((a, b) => (b.interval - a.interval) || (a.lesson - b.lesson)));
+    return events;
+  }
+
+  /* ---- rendering ---- */
+
+  function renderSchedulerToday(events, todayKey) {
+    const todays = events.get(todayKey) || [];
+    dom.schedulerTodayBody.innerHTML = "";
+    if (todays.length === 0) {
+      dom.schedulerTodayBody.innerHTML = `<p class="today-done">✅ Nothing due today!</p>`;
+      return;
+    }
+    const frag = document.createDocumentFragment();
+    todays.forEach(({ lesson, interval }) => {
+      const chip = document.createElement("span");
+      chip.className = "today-chip";
+      chip.textContent = `Lesson ${lesson} (+${interval}d)`;
+      frag.appendChild(chip);
+    });
+    dom.schedulerTodayBody.appendChild(frag);
+  }
+
+  function renderSchedulerCalendar(events, todayKey, futureOnly) {
+    const realTodayKey = ymd(new Date());
+    const keys = [...events.keys()]
+      .filter((k) => k !== todayKey)
+      .filter((k) => (futureOnly ? k >= realTodayKey : true))
+      .sort();
+
+    dom.schedulerCalendar.innerHTML = "";
+    const frag = document.createDocumentFragment();
+
+    keys.forEach((key) => {
+      const date = parseDateInputValue(key);
+      const { full, weekday } = formatDayHeading(date);
+      const card = document.createElement("div");
+      card.className = "day-card";
+      card.innerHTML = `
+        <div class="day-date">${full}<span class="day-date-sub">${weekday}</span></div>
+        <div class="day-chips">
+          ${events.get(key).map(({ lesson, interval }) =>
+            `<span class="day-chip">Lesson ${lesson} <span class="iv">+${interval}d</span></span>`
+          ).join("")}
+        </div>
+      `;
+      frag.appendChild(card);
+    });
+
+    dom.schedulerCalendar.appendChild(frag);
+  }
+
+  function updateSchedulerDuePill(events, todayKey) {
+    const n = (events.get(todayKey) || []).length;
+    dom.schedulerDuePill.hidden = n === 0;
+    dom.schedulerDuePill.textContent = n > 99 ? "99+" : String(n);
+  }
+
+  /* ---- form → schedule ---- */
+
+  function readSchedulerForm() {
+    const todayVal = dom.schToday.value || ymd(new Date());
+    const currentLesson = Math.max(1, parseInt(dom.schCurrent.value, 10) || 1);
+    const lessonsPerDay = Math.max(1, parseInt(dom.schPerDay.value, 10) || 1);
+    const totalLessons = Math.max(currentLesson, parseInt(dom.schTotal.value, 10) || currentLesson);
+    const intervals = parseIntervals(dom.schIntervals.value);
+    return { today: parseDateInputValue(todayVal), currentLesson, lessonsPerDay, totalLessons, intervals };
+  }
+
+  function generateAndRenderSchedule({ persist = true } = {}) {
+    const form = readSchedulerForm();
+    if (form.intervals.length === 0) {
+      showToast("Add at least one interval, e.g. 1,3,7,14,30,60");
+      return;
+    }
+
+    const events = generateScheduleEvents(form);
+    const todayKey = ymd(form.today);
+    state.schedulerEvents = events;
+    state.schedulerTodayKey = todayKey;
+
+    if (persist) {
+      saveSchedulerSettings({
+        currentLesson: form.currentLesson,
+        lessonsPerDay: form.lessonsPerDay,
+        totalLessons: form.totalLessons,
+        intervals: dom.schIntervals.value,
+      });
+    }
+
+    dom.schedulerToday.hidden = false;
+    dom.schedulerControls.hidden = false;
+    dom.schedulerEmpty.hidden = true;
+
+    renderSchedulerToday(events, todayKey);
+    renderSchedulerCalendar(events, todayKey, dom.schFutureOnly.checked);
+    updateSchedulerDuePill(events, todayKey);
+  }
+
+  function resetSchedulerToDefaults() {
+    dom.schToday.value = ymd(new Date());
+    dom.schCurrent.value = SCHEDULER_DEFAULTS.currentLesson;
+    dom.schPerDay.value = SCHEDULER_DEFAULTS.lessonsPerDay;
+    dom.schTotal.value = SCHEDULER_DEFAULTS.totalLessons;
+    dom.schIntervals.value = SCHEDULER_DEFAULTS.intervals;
+  }
+
+  dom.schGenerate.addEventListener("click", () => generateAndRenderSchedule());
+
+  dom.schReset.addEventListener("click", () => {
+    const ok = window.confirm(
+      "Reset the scheduler? This clears your saved pace (current lesson, lessons/day, total, intervals) and starts over. It has no effect on your SRS deck or lesson edits."
+    );
+    if (!ok) return;
+    localStorage.removeItem(SCHEDULER_KEY);
+    resetSchedulerToDefaults();
+    state.schedulerEvents = null;
+    state.schedulerTodayKey = null;
+    dom.schedulerToday.hidden = true;
+    dom.schedulerControls.hidden = true;
+    dom.schedulerCalendar.innerHTML = "";
+    dom.schedulerEmpty.hidden = false;
+    dom.schedulerDuePill.hidden = true;
+    showToast("Scheduler reset.");
+  });
+
+  dom.schFutureOnly.addEventListener("change", () => {
+    if (!state.schedulerEvents) return;
+    renderSchedulerCalendar(state.schedulerEvents, state.schedulerTodayKey, dom.schFutureOnly.checked);
+  });
+
+  dom.schPrint.addEventListener("click", () => window.print());
+
+  function initScheduler() {
+    dom.schToday.value = ymd(new Date());
+    const saved = loadSchedulerSettings();
+    if (saved) {
+      dom.schCurrent.value = saved.currentLesson ?? SCHEDULER_DEFAULTS.currentLesson;
+      dom.schPerDay.value = saved.lessonsPerDay ?? SCHEDULER_DEFAULTS.lessonsPerDay;
+      dom.schTotal.value = saved.totalLessons ?? SCHEDULER_DEFAULTS.totalLessons;
+      dom.schIntervals.value = saved.intervals ?? SCHEDULER_DEFAULTS.intervals;
+      generateAndRenderSchedule({ persist: false });
+    }
+  }
+
   /* ------------------------------------------------------------------ *
    *  Init
    * ------------------------------------------------------------------ */
 
   async function init() {
+    // The scheduler is a standalone tool — set it up regardless of whether
+    // the lesson data below loads successfully.
+    initScheduler();
+
     try {
       await loadData();
     } catch (err) {

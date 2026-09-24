@@ -716,6 +716,190 @@ a { color: var(--marine); }
 .grade-easy:hover { filter: brightness(0.92); }
 
 /* ==========================================================================
+   Scheduler — standalone spaced-repetition planner
+   ========================================================================== */
+
+.scheduler { max-width: 760px; margin: 0 auto; }
+
+.scheduler-head { margin-bottom: 22px; }
+.scheduler-eyebrow {
+  margin: 0 0 4px;
+  font-size: 0.8rem;
+  font-weight: 600;
+  color: var(--marine);
+}
+.scheduler-title {
+  margin: 0 0 8px;
+  font-family: var(--serif);
+  font-weight: 600;
+  font-size: clamp(1.4rem, 3vw, 1.9rem);
+  line-height: 1.2;
+}
+.scheduler-sub {
+  margin: 0;
+  color: var(--ink-soft);
+  font-size: 0.92rem;
+  max-width: 56ch;
+}
+
+.scheduler-form {
+  background: var(--paper);
+  border: 1px solid var(--paper-line);
+  border-radius: var(--radius-l);
+  padding: 20px;
+  margin-bottom: 24px;
+}
+
+.form-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 14px;
+  margin-bottom: 16px;
+}
+.field { display: flex; flex-direction: column; gap: 5px; }
+.field-wide { grid-column: 1 / -1; }
+.field-label { font-size: 0.78rem; font-weight: 600; color: var(--ink-soft); }
+.field input {
+  border: 1px solid var(--paper-line);
+  background: var(--bone);
+  border-radius: var(--radius-s);
+  padding: 8px 10px;
+  font-size: 0.92rem;
+  color: var(--ink);
+  font-family: inherit;
+  width: 100%;
+}
+.field input:focus-visible { outline-offset: 0; }
+
+.form-actions { display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 14px; }
+
+.sch-btn {
+  border: none;
+  border-radius: 999px;
+  padding: 10px 18px;
+  font-size: 0.88rem;
+  font-weight: 600;
+}
+.sch-btn-primary { background: var(--marine); color: #fff; }
+.sch-btn-primary:hover { background: var(--marine-dark); }
+.sch-btn-ghost {
+  background: transparent;
+  color: var(--ink-soft);
+  border: 1px solid var(--paper-line);
+}
+.sch-btn-ghost:hover { border-color: var(--rouge); color: var(--rouge); }
+
+.scheduler-note {
+  margin: 0;
+  font-size: 0.78rem;
+  line-height: 1.5;
+  color: var(--ink-soft);
+}
+
+.scheduler-today {
+  background: var(--rouge-tint);
+  border: 1px solid rgba(174, 59, 46, 0.25);
+  border-radius: var(--radius-l);
+  padding: 16px 20px;
+  margin-bottom: 18px;
+}
+.scheduler-today-title {
+  font-family: var(--serif);
+  font-size: 1.05rem;
+  font-weight: 600;
+  margin: 0 0 10px;
+  color: var(--rouge-dark);
+}
+.scheduler-today-body { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; }
+.today-done {
+  margin: 0;
+  font-weight: 600;
+  color: var(--sage);
+}
+.today-chip {
+  background: var(--rouge);
+  color: #fff;
+  border-radius: 999px;
+  padding: 5px 12px;
+  font-size: 0.85rem;
+  font-weight: 600;
+}
+
+.scheduler-controls {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin-bottom: 14px;
+}
+.future-toggle {
+  display: inline-flex;
+  align-items: center;
+  gap: 7px;
+  font-size: 0.86rem;
+  color: var(--ink-soft);
+  user-select: none;
+}
+.future-toggle input { accent-color: var(--marine); }
+
+.scheduler-calendar {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  margin-bottom: 20px;
+}
+
+.day-card {
+  display: grid;
+  grid-template-columns: 150px 1fr;
+  gap: 10px 14px;
+  padding: 12px 10px;
+  border-bottom: 1px solid var(--paper-line);
+}
+.day-date {
+  font-family: var(--serif);
+  font-weight: 600;
+  font-size: 0.92rem;
+  color: var(--ink);
+  align-self: start;
+}
+.day-date-sub { display: block; font-family: var(--sans); font-weight: 400; font-size: 0.76rem; color: var(--ink-soft); }
+.day-chips { display: flex; flex-wrap: wrap; gap: 6px; align-content: start; }
+.day-chip {
+  background: var(--marine-tint);
+  color: var(--marine-dark);
+  border-radius: 999px;
+  padding: 4px 10px;
+  font-size: 0.8rem;
+  font-weight: 600;
+  white-space: nowrap;
+}
+.day-chip .iv { opacity: 0.7; font-weight: 500; }
+
+.scheduler-empty {
+  text-align: center;
+  color: var(--ink-soft);
+  font-family: var(--serif);
+  font-size: 1rem;
+  padding: 30px 10px;
+}
+
+@media (max-width: 640px) {
+  .form-grid { grid-template-columns: 1fr 1fr; }
+  .day-card { grid-template-columns: 1fr; }
+  .day-date { padding-bottom: 2px; }
+}
+
+@media print {
+  .topbar, .sidebar, .scrim, .scheduler-form, .scheduler-controls, .toast { display: none !important; }
+  .scheduler-view { padding: 0; overflow: visible; }
+  .scheduler-today { break-inside: avoid; }
+  .day-card { break-inside: avoid; }
+  body { background: #fff; }
+}
+
+/* ==========================================================================
    Toast
    ========================================================================== */
 

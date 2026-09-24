@@ -29,6 +29,9 @@
       <button class="view-tab" data-view="review" role="tab" aria-selected="false">
         Review <span class="due-pill" id="duePill" hidden>0</span>
       </button>
+      <button class="view-tab" data-view="scheduler" role="tab" aria-selected="false">
+        Scheduler <span class="due-pill" id="schedulerDuePill" hidden>0</span>
+      </button>
     </nav>
   </header>
 
@@ -131,13 +134,81 @@
 
           <div class="grade-row" id="gradeRow" hidden>
             <button class="grade-btn grade-again" data-grade="again">Again</button>
-			<!-- <button class="grade-btn grade-hard" data-grade="hard">Hard</button> -->
+            <button class="grade-btn grade-hard" data-grade="hard">Hard</button>
             <button class="grade-btn grade-good" data-grade="good">Good</button>
-			<!-- <button class="grade-btn grade-easy" data-grade="easy">Easy</button> -->
+            <button class="grade-btn grade-easy" data-grade="easy">Easy</button>
           </div>
         </div>
       </div>
 
+    </main>
+
+    <!-- ============ Main: Scheduler (standalone spaced-repetition planner) ============ -->
+    <main class="main scheduler-view" id="schedulerView" hidden>
+      <div class="scheduler">
+
+        <header class="scheduler-head">
+          <p class="scheduler-eyebrow">Spaced Repetition Scheduler</p>
+          <h1 class="scheduler-title">Plan your review calendar</h1>
+          <p class="scheduler-sub">
+            A standalone pacing tool — set your intervals once and it lays out exactly which
+            lesson to review on which day. Not tied to the story loop or your harvested phrases.
+          </p>
+        </header>
+
+        <section class="scheduler-form" id="schedulerForm">
+          <div class="form-grid">
+            <label class="field">
+              <span class="field-label">📅 Today</span>
+              <input type="date" id="schToday">
+            </label>
+            <label class="field">
+              <span class="field-label">📘 Current lesson</span>
+              <input type="number" id="schCurrent" min="1" step="1" value="1">
+            </label>
+            <label class="field">
+              <span class="field-label">⚡ Lessons / day</span>
+              <input type="number" id="schPerDay" min="1" step="1" value="1">
+            </label>
+            <label class="field">
+              <span class="field-label">📚 Total lessons</span>
+              <input type="number" id="schTotal" min="1" step="1" value="80">
+            </label>
+            <label class="field field-wide">
+              <span class="field-label">⏱ Intervals (days)</span>
+              <input type="text" id="schIntervals" value="1,3,7,14,30,60" inputmode="numeric">
+            </label>
+          </div>
+          <div class="form-actions">
+            <button class="sch-btn sch-btn-primary" id="schGenerate">✨ Generate</button>
+            <button class="sch-btn sch-btn-ghost" id="schReset">🗑 Reset progress</button>
+          </div>
+          <p class="scheduler-note">
+            Past lessons (before "Current lesson") are spread out one per day starting tomorrow.
+            Lessons from "Current lesson" onward are paced at "Lessons / day" starting today.
+            Every lesson then resurfaces at each interval you set, counted from the day it was introduced.
+          </p>
+        </section>
+
+        <section class="scheduler-today" id="schedulerToday" hidden>
+          <h2 class="scheduler-today-title">🔔 Today's Reviews</h2>
+          <div class="scheduler-today-body" id="schedulerTodayBody"></div>
+        </section>
+
+        <section class="scheduler-controls" id="schedulerControls" hidden>
+          <label class="future-toggle">
+            <input type="checkbox" id="schFutureOnly" checked>
+            Show only future days
+          </label>
+          <button class="sch-btn sch-btn-ghost" id="schPrint">🖨 Print</button>
+        </section>
+
+        <section class="scheduler-calendar" id="schedulerCalendar" aria-label="Review calendar"></section>
+
+        <p class="scheduler-empty" id="schedulerEmpty">
+          Fill in your pace above and hit <strong>Generate</strong> to see your review calendar.
+        </p>
+      </div>
     </main>
 
   </div>
